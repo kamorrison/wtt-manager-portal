@@ -1,0 +1,169 @@
+{
+  "teams_found": 12,
+  "active_players": 90,
+  "contract_rows": 90,
+  "players_missing_team": 0,
+  "players_missing_salary": 0,
+  "players_missing_years": 0,
+  "duplicate_player_names": [],
+  "teams_over_soft_cap": [
+    "James42"
+  ],
+  "teams_over_hard_cap": [],
+  "rfa_rights_count_by_team": {
+    "CG Paper": 3,
+    "Crossover king": 10,
+    "James42": 3,
+    "KOMPUTERS 'PUTIN'": 9,
+    "Machines": 5,
+    "NYK FTW ∆": 9,
+    "Obi Stoppin & Poppin": 3,
+    "Speedsters": 7,
+    "SteveBlakeExpress": 6,
+    "tbach24": 6,
+    "Terror Squad": 12,
+    "TheBoogieDowns": 4
+  },
+  "rfa_rights_rows": 77,
+  "rfa_rights_rows_final": 88,
+  "rfa_excluded_candidate_rows": 211,
+  "rfa_exclusion_reasons": {
+    "DRAFT_PICK_ASSET_NOT_PLAYER": 48,
+    "ACTIVE_CONTRACT_NOT_EXPIRED": 62,
+    "ACTIVE_ROOKIE_CONTRACT": 12,
+    "ACTIVE_UFA_CONTRACT": 4,
+    "SUPERSEDED_BY_LATER_DROP": 73,
+    "DUPLICATE_OLDER_WAIVER_EVENT": 7,
+    "SUPERSEDED_BY_LATER_ADD_BY_OTHER_TEAM": 5
+  },
+  "rfa_waiver_candidate_rows": 154,
+  "rfa_waiver_rows_included": 0,
+  "rfa_waiver_rows_excluded": 154,
+  "rfa_expired_rookie_rows_included": 16,
+  "rfa_expired_rfa_rows_included": 72,
+  "rfa_g_league_crosscheck_rows": 3,
+  "rfa_duplicate_player_rows": 90,
+  "rfa_rows_missing_latest_transaction": 0,
+  "rfa_manual_review_rows": 0,
+  "rfa_count_by_team_final": {
+    "Terror Squad": 12,
+    "TheBoogieDowns": 5,
+    "Obi Stoppin & Poppin": 4,
+    "SteveBlakeExpress": 6,
+    "Crossover king": 12,
+    "Machines": 6,
+    "CG Paper": 6,
+    "KOMPUTERS 'PUTIN'": 10,
+    "Speedsters": 9,
+    "James42": 3,
+    "tbach24": 6,
+    "NYK FTW ∆": 9
+  },
+  "rfa_team_warnings": [
+    {
+      "team_name": "Crossover king",
+      "count": 12,
+      "warning": "WARNING_HIGH_RFA_COUNT"
+    },
+    {
+      "team_name": "Terror Squad",
+      "count": 12,
+      "warning": "WARNING_HIGH_RFA_COUNT"
+    }
+  ],
+  "ufa_count": 80,
+  "draft_pick_rows_excluded_from_players": 0,
+  "draft_pick_rows_excluded_from_rfa": 48,
+  "draft_pick_rows_excluded_from_ufa": 48,
+  "draft_pick_rows_excluded_from_salary_projection": 0,
+  "draft_pick_asset_leak_errors": [],
+  "rookie_pick_ownership_warnings": 171,
+  "pick_asset_count_by_year_round": {
+    "2021-R1": 12,
+    "2021-R2": 12,
+    "2022-R1": 12,
+    "2022-R2": 12,
+    "2023-R1": 12,
+    "2023-R2": 12,
+    "2024-R1": 12,
+    "2024-R2": 12,
+    "2025-R1": 12,
+    "2025-R2": 12,
+    "2026-R1": 12,
+    "2026-R2": 12,
+    "2027-R1": 12,
+    "2027-R2": 12,
+    "2028-R1": 12,
+    "2028-R2": 12,
+    "2029-R1": 12,
+    "2029-R2": 12,
+    "2030-R1": 12,
+    "2030-R2": 12,
+    "2031-R1": 12,
+    "2031-R2": 12,
+    "2032-R1": 12,
+    "2032-R2": 12
+  },
+  "pick_asset_missing_owner_rows": 0,
+  "g_league_eligibility_warnings": 0,
+  "amnesty_reset_warnings": [],
+  "disabled_exemption_warnings": [],
+  "rookie_board_selected_early_count": 0,
+  "future_pick_selected_player_count": 0,
+  "future_pick_rookie_designation_count": 0,
+  "historical_vs_pending_confirmation": {
+    "historical_results_years": [
+      2023,
+      2024,
+      2025
+    ],
+    "pending_board_years": [
+      2026
+    ]
+  },
+  "rows_imported_by_tab": {
+    "teams": 12,
+    "players": 90,
+    "rfa_rights": 77,
+    "free_agent_pool": 162,
+    "salary_projection": 90,
+    "pick_assets": 288,
+    "g_league": 34,
+    "rookie_lottery_assignments": 24,
+    "rookie_draft_results": 60,
+    "rookie_draft_board": 24
+  },
+  "manual_review_items": [
+    "Dashboard amnesty cells include date-like values for some teams and should be reviewed manually.",
+    "Legacy workbook contains mixed rookie contract labels such as R, Rookie2, and Rookie4."
+  ],
+  "commissioner_confirmations": [
+    "Discord confirmation dated 2026-02-13: Terror Squad renounced rights to Yang Hansen.",
+    "Discord confirmation dated 2026-02-13: Obi Stoppin & Poppin signed Kon Knueppel on 2025-10-17 for $8 over 3 years as a 2025 rookie.",
+    "Discord confirmation dated 2026-02-13: Isaiah Collier is not on KOMPUTERS 'PUTIN' roster or G League."
+  ],
+  "commissioner_confirmation_count": 3,
+  "validation_status": "WARNING",
+  "critical_error_count": 0,
+  "warning_count": 2,
+  "manual_review_count": 1,
+  "build_workbook_allowed": true,
+  "public_badge": "WARNING",
+  "status_note": "Unofficial / pending commissioner validation.",
+  "critical_errors": [],
+  "warnings": [
+    "Team aliases require commissioner review.",
+    "Some teams still have unusually high RFA rights counts."
+  ],
+  "manual_review": [
+    "High RFA count: Crossover king (23)",
+    "High RFA count: KOMPUTERS 'PUTIN' (17)",
+    "High RFA count: Machines (14)",
+    "High RFA count: NYK FTW ∆ (21)",
+    "High RFA count: Speedsters (18)",
+    "High RFA count: SteveBlakeExpress (12)",
+    "High RFA count: Terror Squad (16)",
+    "High RFA count: tbach24 (13)"
+  ],
+  "last_generated_timestamp": "2026-08-26T11:14:24.877065"
+}

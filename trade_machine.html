@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Trade Machine</title>
+  <link rel="stylesheet" href="./assets/wtt.css">
+</head>
+<body data-page="trade-machine" data-basepath=".">
+  <header class="site-header">
+    <div class="brand-block">
+      <p class="eyebrow">Watch The Throne Front Office</p>
+      <h1>Trade Machine</h1>
+      <p class="subhead">Unofficial / pending commissioner validation.</p>
+    </div>
+    <div class="status-block"><span class="status-badge warning">WARNING</span></div>
+  </header>
+  <nav class="site-nav"><a class="nav-link" href="./index.html">Overview</a><a class="nav-link" href="./teams.html">Teams</a><a class="nav-link" href="./cap_dashboard.html">Cap Dashboard</a><a class="nav-link" href="./contract_rules.html">Contract Rules</a><a class="nav-link" href="./rfa_board.html">RFA Board</a><a class="nav-link" href="./ufa_board.html">UFA Board</a><a class="nav-link" href="./rookie_draft_board.html">Rookie Draft</a><a class="nav-link" href="./pick_assets.html">Pick Assets</a><a class="nav-link" href="./g_league.html">G League</a><a class="nav-link active" href="./trade_machine.html">Trade Machine</a><a class="nav-link" href="./trade_log.html">Trade Log</a><a class="nav-link" href="./data_quality.html">Data Quality</a></nav>
+  <section class="notice warning">Unofficial / pending commissioner validation. Data quality warnings remain visible by design.</section>
+  <main class="page-shell">
+    
+<section class="hero-card">
+  <h2>Unofficial Trade Checker</h2>
+  <p class="muted">This front-end trade machine is informational only and still sits under commissioner validation. You can model up to four teams, select multiple players and picks, and route each asset to its own destination team.</p>
+</section>
+<section class="hero-card">
+  <h2>Commissioner Submission</h2>
+  <p class="muted">Use the buttons below to copy a Discord-ready summary or download CSV/JSON that can be reviewed by the commissioner or imported into Excel.</p>
+  <div class="action-row">
+    <button id="copy-discord-summary" class="action-button" type="button">Copy Discord Summary</button>
+    <button id="download-trade-csv" class="action-button" type="button">Download CSV</button>
+    <button id="download-trade-json" class="action-button" type="button">Download JSON</button>
+  </div>
+  <textarea id="commissioner-submission" class="submission-preview" readonly></textarea>
+</section>
+<section class="trade-grid">
+  <article class="trade-panel">
+    <label for="team-a">Team A</label>
+    <select id="team-a"></select>
+    <label for="players-a">Outgoing Players</label>
+    <select id="players-a" multiple size="12"></select>
+    <label for="picks-a">Outgoing Picks / Amnesties</label>
+    <select id="picks-a" multiple size="8"></select>
+    <div id="routes-a" class="route-list"></div>
+  </article>
+  <article class="trade-panel">
+    <label for="team-b">Team B</label>
+    <select id="team-b"></select>
+    <label for="players-b">Outgoing Players</label>
+    <select id="players-b" multiple size="12"></select>
+    <label for="picks-b">Outgoing Picks / Amnesties</label>
+    <select id="picks-b" multiple size="8"></select>
+    <div id="routes-b" class="route-list"></div>
+  </article>
+  <article class="trade-panel">
+    <label for="team-c">Team C</label>
+    <select id="team-c"></select>
+    <label for="players-c">Outgoing Players</label>
+    <select id="players-c" multiple size="12"></select>
+    <label for="picks-c">Outgoing Picks / Amnesties</label>
+    <select id="picks-c" multiple size="8"></select>
+    <div id="routes-c" class="route-list"></div>
+  </article>
+  <article class="trade-panel">
+    <label for="team-d">Team D</label>
+    <select id="team-d"></select>
+    <label for="players-d">Outgoing Players</label>
+    <select id="players-d" multiple size="12"></select>
+    <label for="picks-d">Outgoing Picks / Amnesties</label>
+    <select id="picks-d" multiple size="8"></select>
+    <div id="routes-d" class="route-list"></div>
+  </article>
+</section>
+<section id="trade-results" class="trade-results notice warning">Select at least two teams to start.</section>
+
+  </main>
+  <footer class="site-footer">Generated 2026-08-26T11:14:24.877065 • Salary units use 1 = $1M</footer>
+  <script src="./assets/wtt.js"></script>
+</body>
+</html>
