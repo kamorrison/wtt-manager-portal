@@ -18,8 +18,8 @@
     "season": "2026",
     "player_id": "466.p.5185",
     "player_name": "Giannis Antetokounmpo",
-    "previous_team_id": "466.l.7111.t.2",
-    "previous_team_name": "Crossover king",
+    "previous_team_id": "466.l.7111.t.6",
+    "previous_team_name": "NYK FTW ∆",
     "free_agent_type": "UFA",
     "rights_team_id": "",
     "rights_team_name": "",
@@ -27,14 +27,14 @@
     "projected_minimum_next_salary": "67.0",
     "eligible_max_years": "4",
     "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
+    "notes": "Updated from 2026-02-19 trade"
   },
   {
     "season": "2026",
     "player_id": "466.p.6698",
     "player_name": "Dyson Daniels",
-    "previous_team_id": "466.l.7111.t.8",
-    "previous_team_name": "Speedsters",
+    "previous_team_id": "466.l.7111.t.9",
+    "previous_team_name": "SteveBlakeExpress",
     "free_agent_type": "UFA",
     "rights_team_id": "",
     "rights_team_name": "",
@@ -42,14 +42,14 @@
     "projected_minimum_next_salary": "60.0",
     "eligible_max_years": "4",
     "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
+    "notes": "Updated from 2026-03-03 trade"
   },
   {
     "season": "2026",
     "player_id": "466.p.6395",
     "player_name": "LaMelo Ball",
-    "previous_team_id": "466.l.7111.t.6",
-    "previous_team_name": "NYK FTW ∆",
+    "previous_team_id": "466.l.7111.t.8",
+    "previous_team_name": "Speedsters",
     "free_agent_type": "UFA",
     "rights_team_id": "",
     "rights_team_name": "",
@@ -57,7 +57,7 @@
     "projected_minimum_next_salary": "55.0",
     "eligible_max_years": "4",
     "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
+    "notes": "Updated from 2026-02-19 trades"
   },
   {
     "season": "2026",
@@ -123,8 +123,8 @@
     "season": "2026",
     "player_id": "466.p.6015",
     "player_name": "Jaren Jackson Jr.",
-    "previous_team_id": "466.l.7111.t.6",
-    "previous_team_name": "NYK FTW ∆",
+    "previous_team_id": "466.l.7111.t.2",
+    "previous_team_name": "Crossover king",
     "free_agent_type": "UFA",
     "rights_team_id": "",
     "rights_team_name": "",
@@ -132,7 +132,7 @@
     "projected_minimum_next_salary": "48.0",
     "eligible_max_years": "4",
     "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
+    "notes": "Updated from 2026-02-19 trade"
   },
   {
     "season": "2026",
@@ -378,8 +378,8 @@
     "season": "2026",
     "player_id": "",
     "player_name": "Kristaps Porzi≈Üƒ£is",
-    "previous_team_id": "466.l.7111.t.8",
-    "previous_team_name": "Speedsters",
+    "previous_team_id": "466.l.7111.t.2",
+    "previous_team_name": "Crossover king",
     "free_agent_type": "UFA",
     "rights_team_id": "",
     "rights_team_name": "",
@@ -387,7 +387,7 @@
     "projected_minimum_next_salary": "28.0",
     "eligible_max_years": "4",
     "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
+    "notes": "Updated from 2026-02-25 trade"
   },
   {
     "season": "2026",
@@ -573,8 +573,8 @@
     "season": "2026",
     "player_id": "466.p.4614",
     "player_name": "DeMar DeRozan",
-    "previous_team_id": "466.l.7111.t.6",
-    "previous_team_name": "NYK FTW ∆",
+    "previous_team_id": "466.l.7111.t.2",
+    "previous_team_name": "Crossover king",
     "free_agent_type": "UFA",
     "rights_team_id": "",
     "rights_team_name": "",
@@ -582,7 +582,7 @@
     "projected_minimum_next_salary": "15.0",
     "eligible_max_years": "4",
     "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
+    "notes": "Updated from 2026-02-19 trade"
   },
   {
     "season": "2026",
@@ -753,8 +753,8 @@
     "season": "2026",
     "player_id": "466.p.6018",
     "player_name": "Wendell Carter Jr.",
-    "previous_team_id": "466.l.7111.t.6",
-    "previous_team_name": "NYK FTW ∆",
+    "previous_team_id": "466.l.7111.t.11",
+    "previous_team_name": "Terror Squad",
     "free_agent_type": "UFA",
     "rights_team_id": "",
     "rights_team_name": "",
@@ -762,7 +762,7 @@
     "projected_minimum_next_salary": "9.0",
     "eligible_max_years": "4",
     "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
+    "notes": "Updated from 2026-03-05 manual trade"
   },
   {
     "season": "2026",
@@ -1053,8 +1053,8 @@
     "season": "2026",
     "player_id": "466.p.6581",
     "player_name": "Neemias Queta",
-    "previous_team_id": "466.l.7111.t.8",
-    "previous_team_name": "Speedsters",
+    "previous_team_id": "466.l.7111.t.9",
+    "previous_team_name": "SteveBlakeExpress",
     "free_agent_type": "UFA",
     "rights_team_id": "",
     "rights_team_name": "",
@@ -1062,7 +1062,7 @@
     "projected_minimum_next_salary": "3.0",
     "eligible_max_years": "4",
     "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
+    "notes": "Updated from 2026-03-03 trade"
   },
   {
     "season": "2026",
@@ -1198,5 +1198,20 @@
     "eligible_max_years": "4",
     "rfa_match_allowed": "N",
     "notes": "Created during rollover"
+  },
+  {
+    "season": "2026",
+    "player_id": "",
+    "player_name": "Russell Westbrook",
+    "previous_team_id": "466.l.7111.t.6",
+    "previous_team_name": "NYK FTW ∆",
+    "free_agent_type": "UFA",
+    "rights_team_id": "",
+    "rights_team_name": "",
+    "prior_salary": "1.0",
+    "projected_minimum_next_salary": "3.0",
+    "eligible_max_years": "4",
+    "rfa_match_allowed": "N",
+    "notes": "Traded to NYK FTW ∆ on 2026-02-19 and waived on 2026-03-26"
   }
 ]

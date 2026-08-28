@@ -2123,13 +2123,13 @@
     "round": "2",
     "original_team_id": "466.l.7111.t.8",
     "original_team_name": "Speedsters",
-    "current_owner_team_id": "466.l.7111.t.8",
-    "current_owner_team_name": "Speedsters",
+    "current_owner_team_id": "466.l.7111.t.2",
+    "current_owner_team_name": "Crossover king",
     "asset_type": "ROOKIE_PICK",
-    "status": "OWNED_BY_ORIGINAL_TEAM",
+    "status": "TRADED_PICK",
     "source_file": "",
     "source_column": "",
-    "notes": "Commissioner-confirmed future second owned by original team"
+    "notes": "Trade 5.34 to Crossover king"
   },
   {
     "asset_year": "2027",
@@ -2253,13 +2253,13 @@
     "round": "1",
     "original_team_id": "466.l.7111.t.6",
     "original_team_name": "NYK FTW ∆",
-    "current_owner_team_id": "466.l.7111.t.6",
-    "current_owner_team_name": "NYK FTW ∆",
+    "current_owner_team_id": "466.l.7111.t.2",
+    "current_owner_team_name": "Crossover king",
     "asset_type": "ROOKIE_PICK",
-    "status": "OWNED_BY_ORIGINAL_TEAM",
+    "status": "TRADED_PICK",
     "source_file": "/Users/kmorrison/.codex/attachments/8a0d5408-c6ee-4ad5-946f-9fefe7c799e2/pasted-text.txt",
     "source_column": "2028 1st",
-    "notes": ""
+    "notes": "Trade 5.32 to Crossover king"
   },
   {
     "asset_year": "2028",

@@ -400,8 +400,8 @@
     "notes": "=IF($H43=\"Y\",0,C43)"
   },
   {
-    "team_id": "466.l.7111.t.8",
-    "team_name": "Speedsters",
+    "team_id": "466.l.7111.t.2",
+    "team_name": "Crossover king",
     "player_id": "466.p.6550",
     "player_name": "Franz Wagner",
     "contract_class": "UFA",
@@ -1020,8 +1020,8 @@
     "notes": "=IF($H106=\"Y\",0,C106)"
   },
   {
-    "team_id": "466.l.7111.t.9",
-    "team_name": "SteveBlakeExpress",
+    "team_id": "466.l.7111.t.8",
+    "team_name": "Speedsters",
     "player_id": "466.p.5601",
     "player_name": "Brandon Ingram",
     "contract_class": "UFA",
@@ -1760,8 +1760,8 @@
     "notes": "Commissioner correction"
   },
   {
-    "team_id": "466.l.7111.t.8",
-    "team_name": "Speedsters",
+    "team_id": "466.l.7111.t.2",
+    "team_name": "Crossover king",
     "player_id": "466.p.10476",
     "player_name": "Ryan Kalkbrenner",
     "contract_class": "ROOKIE",

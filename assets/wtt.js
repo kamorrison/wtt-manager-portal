@@ -357,6 +357,117 @@ initTradeMachine().catch((error) => {
   if (result) result.textContent = error.message;
 });
 
+async function initTradeBlock() {
+  const body = document.body;
+  if (body.dataset.page !== "trade-block") return;
+  const basePath = body.dataset.basepath || ".";
+  const [teams, assets] = await Promise.all([
+    loadJson(basePath, "teams.json"),
+    loadJson(basePath, "trade_machine_assets.json"),
+  ]);
+  const storageKey = "wtt-trade-block-posts-v1";
+  const form = document.getElementById("trade-block-form");
+  const teamSelect = document.getElementById("trade-block-team");
+  const offeredPlayers = document.getElementById("trade-block-offered-players");
+  const offeredPicks = document.getElementById("trade-block-offered-picks");
+  const statusSelect = document.getElementById("trade-block-status");
+  const seekingInput = document.getElementById("trade-block-seeking");
+  const notesInput = document.getElementById("trade-block-notes");
+  const filterSelect = document.getElementById("trade-block-filter");
+  const list = document.getElementById("trade-block-list");
+  const exportButton = document.getElementById("trade-block-export");
+  const clearButton = document.getElementById("trade-block-clear");
+
+  function readPosts() {
+    try {
+      return JSON.parse(localStorage.getItem(storageKey) || "[]");
+    } catch (error) {
+      return [];
+    }
+  }
+
+  function writePosts(posts) {
+    localStorage.setItem(storageKey, JSON.stringify(posts));
+  }
+
+  function fillTeams(selectNode) {
+    const current = selectNode.value;
+    selectNode.innerHTML = "";
+    selectNode.appendChild(option("All teams", ""));
+    teams.forEach((team) => selectNode.appendChild(option(team.team_name, team.team_name)));
+    selectNode.value = current;
+  }
+
+  function fillOfferSelects(teamName) {
+    offeredPlayers.innerHTML = "";
+    offeredPicks.innerHTML = "";
+    assets
+      .filter((asset) => asset.team_name === teamName && asset.asset_type === "PLAYER")
+      .forEach((asset) => offeredPlayers.appendChild(option(asset.display_name, asset.asset_id)));
+    assets
+      .filter((asset) => asset.team_name === teamName && ["ROOKIE_PICK", "AMNESTY"].includes(asset.asset_type))
+      .forEach((asset) => offeredPicks.appendChild(option(asset.display_name, asset.asset_id)));
+  }
+
+  function assetNamesByIds(ids) {
+    const byId = Object.fromEntries(assets.map((asset) => [asset.asset_id, asset.display_name]));
+    return (ids || []).map((id) => byId[id] || id);
+  }
+
+  function renderPosts() {
+    const filterTeam = filterSelect.value;
+    const posts = readPosts()
+      .filter((post) => !filterTeam || post.team_name === filterTeam)
+      .sort((a, b) => String(b.updated_at || "").localeCompare(String(a.updated_at || "")));
+    if (!posts.length) {
+      list.innerHTML = "<div class='trade-block-empty'>No trade-block posts yet on this browser. Add one on the left to start the board.</div>";
+      return;
+    }
+    list.innerHTML = posts.map((post) => `
+      <article class="trade-block-post">
+        <h3>${post.team_name}</h3>
+        <div class="trade-block-meta">${post.status} • Updated ${new Date(post.updated_at).toLocaleString()}</div>
+        <p class="trade-block-assets"><strong>Offering:</strong> ${assetNamesByIds(post.offered_player_ids).concat(assetNamesByIds(post.offered_pick_ids)).join(", ") || "Open to discussion"}</p>
+        <p class="trade-block-assets"><strong>Seeking:</strong> ${post.seeking || "Best value / flexible"}</p>
+        <p class="trade-block-assets"><strong>Notes:</strong> ${post.notes || "—"}</p>
+      </article>
+    `).join("");
+  }
+
+  fillTeams(filterSelect);
+  teamSelect.innerHTML = "";
+  teamSelect.appendChild(option("Select team", ""));
+  teams.forEach((team) => teamSelect.appendChild(option(team.team_name, team.team_name)));
+
+  teamSelect.addEventListener("change", () => fillOfferSelects(teamSelect.value));
+  filterSelect.addEventListener("change", renderPosts);
+  form.addEventListener("submit", (event) => {
+    event.preventDefault();
+    if (!teamSelect.value) return;
+    const posts = readPosts().filter((post) => post.team_name !== teamSelect.value);
+    posts.push({
+      team_name: teamSelect.value,
+      status: statusSelect.value || "Open",
+      offered_player_ids: Array.from(offeredPlayers.selectedOptions).map((node) => node.value),
+      offered_pick_ids: Array.from(offeredPicks.selectedOptions).map((node) => node.value),
+      seeking: seekingInput.value.trim(),
+      notes: notesInput.value.trim(),
+      updated_at: new Date().toISOString(),
+    });
+    writePosts(posts);
+    renderPosts();
+  });
+  exportButton.addEventListener("click", () => {
+    downloadText("wtt_trade_block.json", JSON.stringify(readPosts(), null, 2), "application/json;charset=utf-8");
+  });
+  clearButton.addEventListener("click", () => {
+    if (!teamSelect.value) return;
+    writePosts(readPosts().filter((post) => post.team_name !== teamSelect.value));
+    renderPosts();
+  });
+  renderPosts();
+}
+
 function initTradeLogFilters() {
   const body = document.body;
   if (body.dataset.page !== "trade-log") return;
@@ -374,3 +485,7 @@ function initTradeLogFilters() {
 }
 
 initTradeLogFilters();
+initTradeBlock().catch((error) => {
+  const list = document.getElementById("trade-block-list");
+  if (list) list.textContent = error.message;
+});

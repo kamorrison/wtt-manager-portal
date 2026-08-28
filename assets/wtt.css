@@ -64,7 +64,7 @@ tr:hover td { background: rgba(255,255,255,0.02); }
 .filter-row { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 18px; }
 .filter-control { min-width: 220px; max-width: 320px; }
 label { display: block; font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 6px; }
-select { width: 100%; min-height: 42px; background: var(--panel-2); color: var(--text); border: 1px solid var(--border); border-radius: 10px; padding: 10px; }
+select, input, textarea { width: 100%; min-height: 42px; background: var(--panel-2); color: var(--text); border: 1px solid var(--border); border-radius: 10px; padding: 10px; }
 .trade-results { margin-top: 20px; }
 .action-row { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; margin-bottom: 18px; }
 .action-button { display: inline-flex; align-items: center; justify-content: center; min-height: 42px; padding: 10px 14px; border-radius: 999px; border: 1px solid rgba(212,175,55,0.35); background: var(--gold-soft); color: var(--text); cursor: pointer; font-weight: 600; }
@@ -77,7 +77,20 @@ select { width: 100%; min-height: 42px; background: var(--panel-2); color: var(-
 .trade-season-section { margin-bottom: 28px; }
 .trade-season-meta { color: var(--muted); margin: 0 0 12px; }
 .pill { display: inline-flex; align-items: center; gap: 6px; padding: 5px 10px; border-radius: 999px; background: rgba(255,255,255,0.06); color: var(--muted); font-size: 12px; }
+.dead-contract-name { font-style: italic; color: #ffd487; }
+.dead-contract-mark { color: #ffb347; font-weight: 700; margin-left: 1px; }
+.dead-contract-pill { background: rgba(214,69,69,0.14); color: #ffb3b3; }
+.stack { display: grid; gap: 14px; }
+.trade-block-grid { display: grid; gap: 18px; grid-template-columns: minmax(280px, 420px) minmax(0, 1fr); align-items: start; }
+.trade-block-card { background: var(--panel); border: 1px solid var(--border); border-radius: 18px; padding: 18px; }
+.trade-block-list { display: grid; gap: 14px; }
+.trade-block-post { background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 16px; padding: 16px; }
+.trade-block-post h3 { margin: 0 0 8px; }
+.trade-block-meta { color: var(--muted); font-size: 13px; margin-bottom: 10px; }
+.trade-block-assets { color: var(--text); margin: 8px 0; }
+.trade-block-empty { color: var(--muted); padding: 18px; border: 1px dashed rgba(255,255,255,0.12); border-radius: 14px; }
 @media (max-width: 720px) {
   .site-header { align-items: flex-start; flex-direction: column; }
   .site-nav { gap: 8px; }
+  .trade-block-grid { grid-template-columns: 1fr; }
 }

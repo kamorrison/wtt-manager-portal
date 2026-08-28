@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Trade Block</title>
+  <link rel="stylesheet" href="./assets/wtt.css">
+</head>
+<body data-page="trade-block" data-basepath=".">
+  <header class="site-header">
+    <div class="brand-block">
+      <p class="eyebrow">Watch The Throne Front Office</p>
+      <h1>Trade Block</h1>
+      <p class="subhead">Unofficial / pending commissioner validation.</p>
+    </div>
+    <div class="status-block"><span class="status-badge warning">WARNING</span></div>
+  </header>
+  <nav class="site-nav"><a class="nav-link" href="./index.html">Overview</a><a class="nav-link" href="./teams.html">Teams</a><a class="nav-link" href="./cap_dashboard.html">Cap Dashboard</a><a class="nav-link" href="./contract_rules.html">Contract Rules</a><a class="nav-link" href="./dead_contracts.html">Dead Contracts</a><a class="nav-link" href="./rfa_board.html">RFA Board</a><a class="nav-link" href="./ufa_board.html">UFA Board</a><a class="nav-link" href="./rookie_draft_board.html">Rookie Draft</a><a class="nav-link" href="./pick_assets.html">Pick Assets</a><a class="nav-link" href="./g_league.html">G League</a><a class="nav-link" href="./trade_machine.html">Trade Machine</a><a class="nav-link active" href="./trade_block.html">Trade Block</a><a class="nav-link" href="./trade_log.html">Trade Log</a><a class="nav-link" href="./data_quality.html">Data Quality</a></nav>
+  <section class="notice warning">Unofficial / pending commissioner validation. Data quality warnings remain visible by design.</section>
+  <main class="page-shell">
+    
+<section class="hero-card">
+  <p class="eyebrow">Manager Signal Board</p>
+  <h2>Trade Block</h2>
+  <p class="muted">Managers can post what they are willing to move, what they are looking for, and any quick notes for the league. Posts save in this browser and can be exported for Discord or commissioner intake.</p>
+</section>
+<section class="trade-block-grid">
+  <article class="trade-block-card">
+    <form id="trade-block-form" class="stack">
+      <div>
+        <label for="trade-block-team">Team</label>
+        <select id="trade-block-team"></select>
+      </div>
+      <div>
+        <label for="trade-block-status">Status</label>
+        <select id="trade-block-status">
+          <option>Open</option>
+          <option>Aggressive Buyer</option>
+          <option>Listening</option>
+          <option>Future Picks Available</option>
+          <option>Win-Now Move</option>
+        </select>
+      </div>
+      <div>
+        <label for="trade-block-offered-players">Players Available</label>
+        <select id="trade-block-offered-players" multiple size="10"></select>
+      </div>
+      <div>
+        <label for="trade-block-offered-picks">Picks / Amnesties Available</label>
+        <select id="trade-block-offered-picks" multiple size="8"></select>
+      </div>
+      <div>
+        <label for="trade-block-seeking">Seeking</label>
+        <textarea id="trade-block-seeking" rows="4" placeholder="Examples: upgrade at guard, 2027 first, cheap upside big, expiring salary"></textarea>
+      </div>
+      <div>
+        <label for="trade-block-notes">Notes</label>
+        <textarea id="trade-block-notes" rows="5" placeholder="Add context for league mates: available veterans, rebuild direction, cap goals, not moving cornerstone players, etc."></textarea>
+      </div>
+      <div class="action-row">
+        <button class="action-button" type="submit">Save Post</button>
+        <button id="trade-block-clear" class="action-button" type="button">Clear Team Post</button>
+        <button id="trade-block-export" class="action-button" type="button">Export JSON</button>
+      </div>
+    </form>
+  </article>
+  <article class="trade-block-card">
+    <div class="filter-row">
+      <div class="filter-control">
+        <label for="trade-block-filter">Filter Team</label>
+        <select id="trade-block-filter"></select>
+      </div>
+    </div>
+    <div id="trade-block-list" class="trade-block-list"></div>
+  </article>
+</section>
+
+  </main>
+  <footer class="site-footer">Generated 2026-08-28T13:01:12.057194 • Salary units use 1 = $1M</footer>
+  <script src="./assets/wtt.js"></script>
+</body>
+</html>

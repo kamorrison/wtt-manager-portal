@@ -311,17 +311,6 @@
     "sort_label": "dejounte murray"
   },
   {
-    "asset_id": "PLAYER::crossover_king::466.p.5473",
-    "asset_type": "PLAYER",
-    "team_name": "Crossover king",
-    "display_name": "Devin Booker",
-    "salary_value": 60.0,
-    "player_name": "Devin Booker",
-    "player_id": "466.p.5473",
-    "sort_group": 0,
-    "sort_label": "devin booker"
-  },
-  {
     "asset_id": "PLAYER::crossover_king::466.p.10293",
     "asset_type": "PLAYER",
     "team_name": "Crossover king",
@@ -333,6 +322,17 @@
     "sort_label": "devin carter"
   },
   {
+    "asset_id": "PLAYER::crossover_king::466.p.6550",
+    "asset_type": "PLAYER",
+    "team_name": "Crossover king",
+    "display_name": "Franz Wagner",
+    "salary_value": 31.0,
+    "player_name": "Franz Wagner",
+    "player_id": "466.p.6550",
+    "sort_group": 0,
+    "sort_label": "franz wagner"
+  },
+  {
     "asset_id": "PLAYER::crossover_king::466.p.5602",
     "asset_type": "PLAYER",
     "team_name": "Crossover king",
@@ -342,6 +342,17 @@
     "player_id": "466.p.5602",
     "sort_group": 0,
     "sort_label": "jaylen brown"
+  },
+  {
+    "asset_id": "PLAYER::crossover_king::466.p.10476",
+    "asset_type": "PLAYER",
+    "team_name": "Crossover king",
+    "display_name": "Ryan Kalkbrenner",
+    "salary_value": 1.0,
+    "player_name": "Ryan Kalkbrenner",
+    "player_id": "466.p.10476",
+    "sort_group": 0,
+    "sort_label": "ryan kalkbrenner"
   },
   {
     "asset_id": "PICK::2026::1::466.l.7111.t.2",
@@ -404,6 +415,18 @@
     "sort_label": "2027_2_crossover king"
   },
   {
+    "asset_id": "PICK::2027::2::466.l.7111.t.8",
+    "asset_type": "ROOKIE_PICK",
+    "team_name": "Crossover king",
+    "display_name": "2027 2nd (Speedsters)",
+    "salary_value": 0.0,
+    "asset_year": 2027,
+    "round": 2,
+    "original_team_name": "Speedsters",
+    "sort_group": 1,
+    "sort_label": "2027_2_speedsters"
+  },
+  {
     "asset_id": "PICK::2028::1::466.l.7111.t.2",
     "asset_type": "ROOKIE_PICK",
     "team_name": "Crossover king",
@@ -414,6 +437,18 @@
     "original_team_name": "Crossover king",
     "sort_group": 1,
     "sort_label": "2028_1_crossover king"
+  },
+  {
+    "asset_id": "PICK::2028::1::466.l.7111.t.6",
+    "asset_type": "ROOKIE_PICK",
+    "team_name": "Crossover king",
+    "display_name": "2028 1st (NYK FTW ∆)",
+    "salary_value": 0.0,
+    "asset_year": 2028,
+    "round": 1,
+    "original_team_name": "NYK FTW ∆",
+    "sort_group": 1,
+    "sort_label": "2028_1_nyk ftw delta"
   },
   {
     "asset_id": "PICK::2028::2::466.l.7111.t.2",
@@ -1557,6 +1592,17 @@
     "sort_label": "2026_2"
   },
   {
+    "asset_id": "PLAYER::nyk_ftw_delta::466.p.5473",
+    "asset_type": "PLAYER",
+    "team_name": "NYK FTW ∆",
+    "display_name": "Devin Booker",
+    "salary_value": 60.0,
+    "player_name": "Devin Booker",
+    "player_id": "466.p.5473",
+    "sort_group": 0,
+    "sort_label": "devin booker"
+  },
+  {
     "asset_id": "PLAYER::nyk_ftw_delta::466.p.5638",
     "asset_type": "PLAYER",
     "team_name": "NYK FTW ∆",
@@ -1613,18 +1659,6 @@
     "original_team_name": "NYK FTW ∆",
     "sort_group": 1,
     "sort_label": "2027_2_nyk ftw delta"
-  },
-  {
-    "asset_id": "PICK::2028::1::466.l.7111.t.6",
-    "asset_type": "ROOKIE_PICK",
-    "team_name": "NYK FTW ∆",
-    "display_name": "2028 1st (NYK FTW ∆)",
-    "salary_value": 0.0,
-    "asset_year": 2028,
-    "round": 1,
-    "original_team_name": "NYK FTW ∆",
-    "sort_group": 1,
-    "sort_label": "2028_1_nyk ftw delta"
   },
   {
     "asset_id": "PICK::2028::2::466.l.7111.t.6",
@@ -2013,15 +2047,15 @@
     "sort_label": "austin reaves"
   },
   {
-    "asset_id": "PLAYER::speedsters::466.p.6550",
+    "asset_id": "PLAYER::speedsters::466.p.5601",
     "asset_type": "PLAYER",
     "team_name": "Speedsters",
-    "display_name": "Franz Wagner",
-    "salary_value": 31.0,
-    "player_name": "Franz Wagner",
-    "player_id": "466.p.6550",
+    "display_name": "Brandon Ingram",
+    "salary_value": 10.0,
+    "player_name": "Brandon Ingram",
+    "player_id": "466.p.5601",
     "sort_group": 0,
-    "sort_label": "franz wagner"
+    "sort_label": "brandon ingram"
   },
   {
     "asset_id": "PLAYER::speedsters::peyton_pritchard",
@@ -2033,17 +2067,6 @@
     "player_id": "",
     "sort_group": 0,
     "sort_label": "peyton pritchard"
-  },
-  {
-    "asset_id": "PLAYER::speedsters::466.p.10476",
-    "asset_type": "PLAYER",
-    "team_name": "Speedsters",
-    "display_name": "Ryan Kalkbrenner",
-    "salary_value": 1.0,
-    "player_name": "Ryan Kalkbrenner",
-    "player_id": "466.p.10476",
-    "sort_group": 0,
-    "sort_label": "ryan kalkbrenner"
   },
   {
     "asset_id": "PLAYER::speedsters::466.p.4901",
@@ -2090,18 +2113,6 @@
     "original_team_name": "Speedsters",
     "sort_group": 1,
     "sort_label": "2026_2_speedsters"
-  },
-  {
-    "asset_id": "PICK::2027::2::466.l.7111.t.8",
-    "asset_type": "ROOKIE_PICK",
-    "team_name": "Speedsters",
-    "display_name": "2027 2nd (Speedsters)",
-    "salary_value": 0.0,
-    "asset_year": 2027,
-    "round": 2,
-    "original_team_name": "Speedsters",
-    "sort_group": 1,
-    "sort_label": "2027_2_speedsters"
   },
   {
     "asset_id": "PICK::2028::1::466.l.7111.t.8",
@@ -2255,17 +2266,6 @@
     "player_id": "466.p.10096",
     "sort_group": 0,
     "sort_label": "ausar thompson"
-  },
-  {
-    "asset_id": "PLAYER::steveblakeexpress::466.p.5601",
-    "asset_type": "PLAYER",
-    "team_name": "SteveBlakeExpress",
-    "display_name": "Brandon Ingram",
-    "salary_value": 10.0,
-    "player_name": "Brandon Ingram",
-    "player_id": "466.p.5601",
-    "sort_group": 0,
-    "sort_label": "brandon ingram"
   },
   {
     "asset_id": "PLAYER::steveblakeexpress::derik_queen",
