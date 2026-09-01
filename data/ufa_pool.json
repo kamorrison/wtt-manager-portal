@@ -33,8 +33,8 @@
     "season": "2026",
     "player_id": "466.p.6698",
     "player_name": "Dyson Daniels",
-    "previous_team_id": "466.l.7111.t.9",
-    "previous_team_name": "SteveBlakeExpress",
+    "previous_team_id": "466.l.7111.t.8",
+    "previous_team_name": "Speedsters",
     "free_agent_type": "UFA",
     "rights_team_id": "",
     "rights_team_name": "",
@@ -42,7 +42,7 @@
     "projected_minimum_next_salary": "60.0",
     "eligible_max_years": "4",
     "rfa_match_allowed": "N",
-    "notes": "Updated from 2026-03-03 trade"
+    "notes": "Created during rollover"
   },
   {
     "season": "2026",
@@ -57,7 +57,7 @@
     "projected_minimum_next_salary": "55.0",
     "eligible_max_years": "4",
     "rfa_match_allowed": "N",
-    "notes": "Updated from 2026-02-19 trades"
+    "notes": "Updated from 2026-02-19 trade"
   },
   {
     "season": "2026",
@@ -378,8 +378,8 @@
     "season": "2026",
     "player_id": "",
     "player_name": "Kristaps Porzi≈Üƒ£is",
-    "previous_team_id": "466.l.7111.t.2",
-    "previous_team_name": "Crossover king",
+    "previous_team_id": "466.l.7111.t.8",
+    "previous_team_name": "Speedsters",
     "free_agent_type": "UFA",
     "rights_team_id": "",
     "rights_team_name": "",
@@ -387,7 +387,7 @@
     "projected_minimum_next_salary": "28.0",
     "eligible_max_years": "4",
     "rfa_match_allowed": "N",
-    "notes": "Updated from 2026-02-25 trade"
+    "notes": "Created during rollover"
   },
   {
     "season": "2026",
@@ -1053,8 +1053,8 @@
     "season": "2026",
     "player_id": "466.p.6581",
     "player_name": "Neemias Queta",
-    "previous_team_id": "466.l.7111.t.9",
-    "previous_team_name": "SteveBlakeExpress",
+    "previous_team_id": "466.l.7111.t.8",
+    "previous_team_name": "Speedsters",
     "free_agent_type": "UFA",
     "rights_team_id": "",
     "rights_team_name": "",
@@ -1062,7 +1062,7 @@
     "projected_minimum_next_salary": "3.0",
     "eligible_max_years": "4",
     "rfa_match_allowed": "N",
-    "notes": "Updated from 2026-03-03 trade"
+    "notes": "Created during rollover"
   },
   {
     "season": "2026",
@@ -1210,7 +1210,7 @@
     "rights_team_name": "",
     "prior_salary": "1.0",
     "projected_minimum_next_salary": "3.0",
-    "eligible_max_years": "4",
+    "eligible_max_years": "5",
     "rfa_match_allowed": "N",
     "notes": "Traded to NYK FTW ∆ on 2026-02-19 and waived on 2026-03-26"
   }

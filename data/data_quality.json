@@ -1,5 +1,6 @@
 {
   "teams_found": 12,
+  "current_league_year": 2026,
   "active_players": 90,
   "contract_rows": 90,
   "players_missing_team": 0,
@@ -12,19 +13,19 @@
   "teams_over_hard_cap": [],
   "rfa_rights_count_by_team": {
     "CG Paper": 3,
-    "Crossover king": 10,
+    "Crossover king": 7,
     "James42": 3,
     "KOMPUTERS 'PUTIN'": 9,
     "Machines": 5,
-    "NYK FTW ∆": 9,
+    "NYK FTW ∆": 10,
     "Obi Stoppin & Poppin": 3,
-    "Speedsters": 7,
-    "SteveBlakeExpress": 6,
+    "Speedsters": 9,
+    "SteveBlakeExpress": 5,
     "tbach24": 6,
-    "Terror Squad": 12,
+    "Terror Squad": 11,
     "TheBoogieDowns": 4
   },
-  "rfa_rights_rows": 77,
+  "rfa_rights_rows": 75,
   "rfa_rights_rows_final": 88,
   "rfa_excluded_candidate_rows": 211,
   "rfa_exclusion_reasons": {
@@ -41,7 +42,7 @@
   "rfa_waiver_rows_excluded": 154,
   "rfa_expired_rookie_rows_included": 16,
   "rfa_expired_rfa_rows_included": 72,
-  "rfa_g_league_crosscheck_rows": 3,
+  "rfa_g_league_crosscheck_rows": 0,
   "rfa_duplicate_player_rows": 90,
   "rfa_rows_missing_latest_transaction": 0,
   "rfa_manual_review_rows": 0,
@@ -71,13 +72,13 @@
       "warning": "WARNING_HIGH_RFA_COUNT"
     }
   ],
-  "ufa_count": 80,
+  "ufa_count": 81,
   "draft_pick_rows_excluded_from_players": 0,
   "draft_pick_rows_excluded_from_rfa": 48,
   "draft_pick_rows_excluded_from_ufa": 48,
   "draft_pick_rows_excluded_from_salary_projection": 0,
   "draft_pick_asset_leak_errors": [],
-  "rookie_pick_ownership_warnings": 171,
+  "rookie_pick_ownership_warnings": 172,
   "pick_asset_count_by_year_round": {
     "2021-R1": 12,
     "2021-R2": 12,
@@ -105,6 +106,12 @@
     "2032-R2": 12
   },
   "pick_asset_missing_owner_rows": 0,
+  "current_season_pick_asset_rows": 24,
+  "future_pick_asset_rows": 144,
+  "past_pick_asset_rows": 120,
+  "active_current_exception_rows": 13,
+  "archived_prior_exception_rows": 94,
+  "future_exception_rows": 0,
   "g_league_eligibility_warnings": 0,
   "amnesty_reset_warnings": [],
   "disabled_exemption_warnings": [],
@@ -124,8 +131,8 @@
   "rows_imported_by_tab": {
     "teams": 12,
     "players": 90,
-    "rfa_rights": 77,
-    "free_agent_pool": 162,
+    "rfa_rights": 75,
+    "free_agent_pool": 160,
     "salary_projection": 90,
     "pick_assets": 288,
     "g_league": 34,
@@ -156,14 +163,7 @@
     "Some teams still have unusually high RFA rights counts."
   ],
   "manual_review": [
-    "High RFA count: Crossover king (23)",
-    "High RFA count: KOMPUTERS 'PUTIN' (17)",
-    "High RFA count: Machines (14)",
-    "High RFA count: NYK FTW ∆ (21)",
-    "High RFA count: Speedsters (18)",
-    "High RFA count: SteveBlakeExpress (12)",
-    "High RFA count: Terror Squad (16)",
-    "High RFA count: tbach24 (13)"
+    "High RFA count: Terror Squad (11)"
   ],
-  "last_generated_timestamp": "2026-08-28T13:01:12.057194"
+  "last_generated_timestamp": "2026-09-01T19:04:32.063287"
 }

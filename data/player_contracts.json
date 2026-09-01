@@ -171,7 +171,7 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "10",
-    "notes": "=IF($H10=\"Y\",0,C10)"
+    "notes": "Updated from 2026-02-19 trade"
   },
   {
     "season": "2026",
@@ -806,7 +806,7 @@
     "disabled_exception_flag": "N",
     "released_flag": "N",
     "amnesty_flag": "N",
-    "g_league_flag": "N",
+    "g_league_flag": "Y",
     "source_sheet": "Players",
     "source_row": "61",
     "notes": "=IF($H61=\"Y\",0,C61)"
@@ -1444,7 +1444,7 @@
     "disabled_exception_flag": "N",
     "released_flag": "N",
     "amnesty_flag": "N",
-    "g_league_flag": "N",
+    "g_league_flag": "Y",
     "source_sheet": "Players",
     "source_row": "105",
     "notes": "Commissioner correction"
@@ -1763,7 +1763,7 @@
     "disabled_exception_flag": "N",
     "released_flag": "N",
     "amnesty_flag": "N",
-    "g_league_flag": "N",
+    "g_league_flag": "Y",
     "source_sheet": "Players",
     "source_row": "128",
     "notes": "=IF($H128=\"Y\",0,C128)"
@@ -1792,7 +1792,7 @@
     "disabled_exception_flag": "N",
     "released_flag": "Y",
     "amnesty_flag": "N",
-    "g_league_flag": "N",
+    "g_league_flag": "Y",
     "source_sheet": "Players",
     "source_row": "129",
     "notes": "=IF($H129=\"Y\",0,C129)"
@@ -1821,7 +1821,7 @@
     "disabled_exception_flag": "N",
     "released_flag": "N",
     "amnesty_flag": "N",
-    "g_league_flag": "N",
+    "g_league_flag": "Y",
     "source_sheet": "Players",
     "source_row": "130",
     "notes": "=IF($H130=\"Y\",0,C130)"
@@ -2578,7 +2578,7 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "162",
-    "notes": "Commissioner correction"
+    "notes": "Updated from 2026-02-19 trade"
   },
   {
     "season": "2026",
