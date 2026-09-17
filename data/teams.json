@@ -25,8 +25,9 @@
     "rfa_rights_count": 7,
     "ufa_count": 6,
     "g_league_count": 0,
-    "firsts_2026_owned": 2,
-    "seconds_2026_owned": 0,
+    "next_pick_year": 2027,
+    "firsts_next_year_owned": 1,
+    "seconds_next_year_owned": 2,
     "manual_review_flag": true
   },
   {
@@ -55,8 +56,9 @@
     "rfa_rights_count": 3,
     "ufa_count": 6,
     "g_league_count": 0,
-    "firsts_2026_owned": 1,
-    "seconds_2026_owned": 1,
+    "next_pick_year": 2027,
+    "firsts_next_year_owned": 1,
+    "seconds_next_year_owned": 1,
     "manual_review_flag": false
   },
   {
@@ -85,8 +87,9 @@
     "rfa_rights_count": 3,
     "ufa_count": 6,
     "g_league_count": 0,
-    "firsts_2026_owned": 1,
-    "seconds_2026_owned": 1,
+    "next_pick_year": 2027,
+    "firsts_next_year_owned": 2,
+    "seconds_next_year_owned": 1,
     "manual_review_flag": true
   },
   {
@@ -115,8 +118,9 @@
     "rfa_rights_count": 9,
     "ufa_count": 4,
     "g_league_count": 0,
-    "firsts_2026_owned": 1,
-    "seconds_2026_owned": 1,
+    "next_pick_year": 2027,
+    "firsts_next_year_owned": 1,
+    "seconds_next_year_owned": 1,
     "manual_review_flag": false
   },
   {
@@ -145,8 +149,9 @@
     "rfa_rights_count": 5,
     "ufa_count": 5,
     "g_league_count": 0,
-    "firsts_2026_owned": 1,
-    "seconds_2026_owned": 1,
+    "next_pick_year": 2027,
+    "firsts_next_year_owned": 1,
+    "seconds_next_year_owned": 1,
     "manual_review_flag": false
   },
   {
@@ -175,8 +180,9 @@
     "rfa_rights_count": 10,
     "ufa_count": 7,
     "g_league_count": 0,
-    "firsts_2026_owned": 0,
-    "seconds_2026_owned": 2,
+    "next_pick_year": 2027,
+    "firsts_next_year_owned": 1,
+    "seconds_next_year_owned": 1,
     "manual_review_flag": false
   },
   {
@@ -205,8 +211,9 @@
     "rfa_rights_count": 3,
     "ufa_count": 5,
     "g_league_count": 0,
-    "firsts_2026_owned": 1,
-    "seconds_2026_owned": 1,
+    "next_pick_year": 2027,
+    "firsts_next_year_owned": 1,
+    "seconds_next_year_owned": 1,
     "manual_review_flag": false
   },
   {
@@ -235,8 +242,9 @@
     "rfa_rights_count": 9,
     "ufa_count": 11,
     "g_league_count": 0,
-    "firsts_2026_owned": 1,
-    "seconds_2026_owned": 1,
+    "next_pick_year": 2027,
+    "firsts_next_year_owned": 0,
+    "seconds_next_year_owned": 0,
     "manual_review_flag": false
   },
   {
@@ -265,8 +273,9 @@
     "rfa_rights_count": 5,
     "ufa_count": 8,
     "g_league_count": 0,
-    "firsts_2026_owned": 1,
-    "seconds_2026_owned": 1,
+    "next_pick_year": 2027,
+    "firsts_next_year_owned": 1,
+    "seconds_next_year_owned": 1,
     "manual_review_flag": false
   },
   {
@@ -295,8 +304,9 @@
     "rfa_rights_count": 6,
     "ufa_count": 9,
     "g_league_count": 0,
-    "firsts_2026_owned": 1,
-    "seconds_2026_owned": 1,
+    "next_pick_year": 2027,
+    "firsts_next_year_owned": 1,
+    "seconds_next_year_owned": 1,
     "manual_review_flag": false
   },
   {
@@ -325,8 +335,9 @@
     "rfa_rights_count": 11,
     "ufa_count": 7,
     "g_league_count": 0,
-    "firsts_2026_owned": 1,
-    "seconds_2026_owned": 1,
+    "next_pick_year": 2027,
+    "firsts_next_year_owned": 1,
+    "seconds_next_year_owned": 1,
     "manual_review_flag": true
   },
   {
@@ -355,8 +366,9 @@
     "rfa_rights_count": 4,
     "ufa_count": 7,
     "g_league_count": 0,
-    "firsts_2026_owned": 1,
-    "seconds_2026_owned": 1,
+    "next_pick_year": 2027,
+    "firsts_next_year_owned": 1,
+    "seconds_next_year_owned": 1,
     "manual_review_flag": false
   }
 ]

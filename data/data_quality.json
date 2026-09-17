@@ -157,12 +157,20 @@
   "build_workbook_allowed": true,
   "public_badge": "WARNING",
   "status_note": "Unofficial / pending commissioner validation.",
-  "critical_errors": [
-    "2026 first-round pick assets do not contain exactly one row per team."
+  "critical_errors": [],
+  "warnings": [
+    "Team aliases require commissioner review.",
+    "Some teams still have unusually high RFA rights counts."
   ],
-  "warnings": [],
   "manual_review": [
-    "None"
+    "High RFA count: Crossover king (20)",
+    "High RFA count: KOMPUTERS 'PUTIN' (17)",
+    "High RFA count: Machines (14)",
+    "High RFA count: NYK FTW ∆ (22)",
+    "High RFA count: Speedsters (20)",
+    "High RFA count: SteveBlakeExpress (11)",
+    "High RFA count: Terror Squad (15)",
+    "High RFA count: tbach24 (13)"
   ],
-  "last_generated_timestamp": "2026-09-16T17:45:55"
+  "last_generated_timestamp": "2026-09-16T21:24:04.572322"
 }

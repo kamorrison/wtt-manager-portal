@@ -484,7 +484,69 @@ function initTradeLogFilters() {
   renderTradeLogFilter();
 }
 
+function escapeHtml(value) {
+  return String(value == null ? "" : value).replace(/[&<>"']/g, (character) => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;",
+  }[character]));
+}
+
+async function initUfaBoard() {
+  const body = document.body;
+  if (body.dataset.page !== "ufa-board") return;
+  const basePath = body.dataset.basepath || ".";
+  const [rows] = await Promise.all([loadJson(basePath, "ufa_pool.json")]);
+  const search = document.getElementById("ufa-search");
+  const position = document.getElementById("ufa-position-filter");
+  const rank = document.getElementById("ufa-rank-filter");
+  const sort = document.getElementById("ufa-sort");
+  const resultCount = document.getElementById("ufa-result-count");
+  const list = document.getElementById("ufa-market-list");
+  if (!search || !position || !rank || !sort || !resultCount || !list) return;
+
+  const positions = Array.from(new Set(rows.flatMap((row) => String(row.position || "").split(",").map((value) => value.trim()).filter(Boolean)))).sort();
+  positions.forEach((value) => position.appendChild(option(value, value)));
+  const numeric = (value) => {
+    const number = Number(value);
+    return Number.isFinite(number) && number > 0 ? number : Number.POSITIVE_INFINITY;
+  };
+  const displayNumber = (value) => {
+    const number = Number(value);
+    return Number.isFinite(number) && number > 0 ? (Number.isInteger(number) ? String(number) : number.toFixed(1)) : "—";
+  };
+
+  function render() {
+    const query = search.value.trim().toLowerCase();
+    const selectedPosition = position.value;
+    const maximumRank = Number(rank.value || 0);
+    const filtered = rows.filter((row) => {
+      const nameMatches = !query || String(row.player_name || "").toLowerCase().includes(query);
+      const positionMatches = !selectedPosition || String(row.position || "").split(",").map((value) => value.trim()).includes(selectedPosition);
+      const rankMatches = !maximumRank || numeric(row.average_rank) <= maximumRank;
+      return nameMatches && positionMatches && rankMatches;
+    }).sort((left, right) => {
+      if (sort.value === "name") return String(left.player_name).localeCompare(String(right.player_name));
+      const field = sort.value === "adp" ? "average_pick" : "average_rank";
+      return numeric(left[field]) - numeric(right[field]) || String(left.player_name).localeCompare(String(right.player_name));
+    });
+    resultCount.textContent = `${filtered.length} of ${rows.length} players`;
+    list.innerHTML = filtered.length ? filtered.map((row) => `
+      <tr>
+        <td class="market-player">${escapeHtml(row.player_name)}</td>
+        <td class="market-position">${escapeHtml(row.position || "—")}</td>
+        <td>${displayNumber(row.average_rank)}</td>
+        <td>${displayNumber(row.average_pick)}</td>
+      </tr>`).join("") : '<tr><td colspan="4" class="muted">No players match the selected market filters.</td></tr>';
+  }
+
+  [search, position, rank, sort].forEach((control) => control.addEventListener("input", render));
+  render();
+}
+
 initTradeLogFilters();
+initUfaBoard().catch((error) => {
+  const list = document.getElementById("ufa-market-list");
+  if (list) list.innerHTML = `<tr><td colspan="4">${escapeHtml(error.message)}</td></tr>`;
+});
 initTradeBlock().catch((error) => {
   const list = document.getElementById("trade-block-list");
   if (list) list.textContent = error.message;

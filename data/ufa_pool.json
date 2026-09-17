@@ -1,218 +1,434 @@
 [
   {
-    "player_name": "Anthony Davis"
+    "player_name": "Tyrese Maxey",
+    "position": "PG,G,Util",
+    "average_rank": 4,
+    "average_pick": 16.2
   },
   {
-    "player_name": "Giannis Antetokounmpo"
+    "player_name": "Kawhi Leonard",
+    "position": "SF,PF,F,Util",
+    "average_rank": 5,
+    "average_pick": 44.5
   },
   {
-    "player_name": "Dyson Daniels"
+    "player_name": "Kevin Durant",
+    "position": "SG,G,SF,PF,F,Util,IL+",
+    "average_rank": 8,
+    "average_pick": 16.0
   },
   {
-    "player_name": "LaMelo Ball"
+    "player_name": "Nickeil Alexander-Walker",
+    "position": "PG,SG,G,SF,F,Util",
+    "average_rank": 11,
+    "average_pick": 116.7
   },
   {
-    "player_name": "Stephen Curry"
+    "player_name": "Desmond Bane",
+    "position": "SG,G,SF,F,Util",
+    "average_rank": 12,
+    "average_pick": 46.4
   },
   {
-    "player_name": "Domantas Sabonis"
+    "player_name": "Karl-Anthony Towns",
+    "position": "PF,F,C,Util",
+    "average_rank": 13,
+    "average_pick": 12.4
   },
   {
-    "player_name": "Damian Lillard"
+    "player_name": "Mikal Bridges",
+    "position": "SG,G,SF,PF,F,Util",
+    "average_rank": 14,
+    "average_pick": 79.8
   },
   {
-    "player_name": "Desmond Bane"
+    "player_name": "Trey Murphy III",
+    "position": "SG,G,SF,PF,F,Util,IL+",
+    "average_rank": 17,
+    "average_pick": 42.3
   },
   {
-    "player_name": "Jaren Jackson Jr."
+    "player_name": "James Harden",
+    "position": "PG,SG,G,Util",
+    "average_rank": 20,
+    "average_pick": 14.6
   },
   {
-    "player_name": "Lauri Markkanen"
+    "player_name": "Dyson Daniels",
+    "position": "PG,SG,G,SF,F,Util",
+    "average_rank": 25,
+    "average_pick": 43.7
   },
   {
-    "player_name": "OG Anunoby"
+    "player_name": "Jalen Duren",
+    "position": "C,Util",
+    "average_rank": 26,
+    "average_pick": 56.4
   },
   {
-    "player_name": "Jalen Duren"
+    "player_name": "LaMelo Ball",
+    "position": "PG,SG,G,Util",
+    "average_rank": 30,
+    "average_pick": 25.3
   },
   {
-    "player_name": "Kevin Durant"
+    "player_name": "Neemias Queta",
+    "position": "PF,F,C,Util",
+    "average_rank": 36,
+    "average_pick": 126.0
   },
   {
-    "player_name": "James Harden"
+    "player_name": "OG Anunoby",
+    "position": "SF,PF,F,Util",
+    "average_rank": 38,
+    "average_pick": 71.5
   },
   {
-    "player_name": "Myles Turner"
+    "player_name": "DeMar DeRozan",
+    "position": "SF,PF,F,Util,IL+",
+    "average_rank": 39,
+    "average_pick": 59.7
   },
   {
-    "player_name": "Alperen Sengun"
+    "player_name": "Julius Randle",
+    "position": "PF,F,C,Util",
+    "average_rank": 41,
+    "average_pick": 60.7
   },
   {
-    "player_name": "De'Aaron Fox"
+    "player_name": "Alperen Sengun",
+    "position": "PF,F,C,Util",
+    "average_rank": 42,
+    "average_pick": 17.3
   },
   {
-    "player_name": "Trey Murphy III"
+    "player_name": "Jaden McDaniels",
+    "position": "SF,PF,F,Util",
+    "average_rank": 44,
+    "average_pick": 115.2
   },
   {
-    "player_name": "Karl-Anthony Towns"
+    "player_name": "Jabari Smith Jr.",
+    "position": "SF,PF,F,C,Util",
+    "average_rank": 49,
+    "average_pick": 115.2
   },
   {
-    "player_name": "Kawhi Leonard"
+    "player_name": "Naz Reid",
+    "position": "PF,F,C,Util",
+    "average_rank": 51,
+    "average_pick": 97.6
   },
   {
-    "player_name": "LeBron James"
+    "player_name": "De'Aaron Fox",
+    "position": "PG,SG,G,Util",
+    "average_rank": 55,
+    "average_pick": 39.0
   },
   {
-    "player_name": "Zach LaVine"
+    "player_name": "Toumani Camara",
+    "position": "SF,PF,F,C,Util",
+    "average_rank": 62,
+    "average_pick": 111.8
   },
   {
-    "player_name": "Zion Williamson"
+    "player_name": "Wendell Carter Jr.",
+    "position": "C,Util",
+    "average_rank": 63,
+    "average_pick": 126.3
   },
   {
-    "player_name": "Julius Randle"
+    "player_name": "Nikola Vucevic",
+    "position": "C,Util",
+    "average_rank": 64,
+    "average_pick": 53.0
   },
   {
-    "player_name": "Kristaps Porzi≈Üƒ£is"
+    "player_name": "Ayo Dosunmu",
+    "position": "PG,SG,G,SF,F,Util",
+    "average_rank": 71,
+    "average_pick": 130.0
   },
   {
-    "player_name": "Toumani Camara"
+    "player_name": "Myles Turner",
+    "position": "C,Util,IL+",
+    "average_rank": 74,
+    "average_pick": 53.6
   },
   {
-    "player_name": "Jarrett Allen"
+    "player_name": "LeBron James",
+    "position": "SF,PF,F,Util",
+    "average_rank": 75,
+    "average_pick": 29.3
   },
   {
-    "player_name": "Joel Embiid"
+    "player_name": "Jalen Suggs",
+    "position": "PG,SG,G,Util",
+    "average_rank": 83,
+    "average_pick": 103.1
   },
   {
-    "player_name": "Ja Morant"
+    "player_name": "Stephen Curry",
+    "position": "PG,G,Util",
+    "average_rank": 84,
+    "average_pick": 14.4
   },
   {
-    "player_name": "Jimmy Butler III"
+    "player_name": "Mark Williams",
+    "position": "C,Util,IL+",
+    "average_rank": 88,
+    "average_pick": 86.1
   },
   {
-    "player_name": "Tyrese Maxey"
+    "player_name": "Lauri Markkanen",
+    "position": "SF,PF,F,Util,IL+",
+    "average_rank": 89,
+    "average_pick": 52.4
   },
   {
-    "player_name": "Devin Vassell"
+    "player_name": "Jarrett Allen",
+    "position": "C,Util",
+    "average_rank": 94,
+    "average_pick": 61.4
   },
   {
-    "player_name": "Mark Williams"
+    "player_name": "Devin Vassell",
+    "position": "SG,G,SF,F,Util",
+    "average_rank": 95,
+    "average_pick": 98.8
   },
   {
-    "player_name": "Nikola Vucevic"
+    "player_name": "Norman Powell",
+    "position": "SG,G,SF,F,Util",
+    "average_rank": 97,
+    "average_pick": 85.6
   },
   {
-    "player_name": "Coby White"
+    "player_name": "Quentin Grimes",
+    "position": "SG,G,SF,F,Util",
+    "average_rank": 103,
+    "average_pick": 123.3
   },
   {
-    "player_name": "Aaron Nesmith"
+    "player_name": "Zion Williamson",
+    "position": "SF,PF,F,C,Util,IL+",
+    "average_rank": 113,
+    "average_pick": 39.3
   },
   {
-    "player_name": "DeMar DeRozan"
+    "player_name": "Bobby Portis",
+    "position": "PF,F,C,Util,IL+",
+    "average_rank": 116,
+    "average_pick": 114.9
   },
   {
-    "player_name": "Jakob Poeltl"
+    "player_name": "Nic Claxton",
+    "position": "C,Util,IL+",
+    "average_rank": 118,
+    "average_pick": 103.8
   },
   {
-    "player_name": "Mikal Bridges"
+    "player_name": "Jaren Jackson Jr.",
+    "position": "PF,F,C,Util,IL+",
+    "average_rank": 124,
+    "average_pick": 38.5
   },
   {
-    "player_name": "Herbert Jones"
+    "player_name": "Davion Mitchell",
+    "position": "PG,G,Util",
+    "average_rank": 127,
+    "average_pick": 121.8
   },
   {
-    "player_name": "Mitchell Robinson"
+    "player_name": "Kevin Porter Jr.",
+    "position": "PG,SG,G,Util,IL+",
+    "average_rank": 129,
+    "average_pick": 107.1
   },
   {
-    "player_name": "Nic Claxton"
+    "player_name": "Jimmy Butler III",
+    "position": "SG,G,SF,PF,F,Util,IL+",
+    "average_rank": 131,
+    "average_pick": 45.8
   },
   {
-    "player_name": "Anfernee Simons"
+    "player_name": "Joel Embiid",
+    "position": "C,Util,IL+",
+    "average_rank": 139,
+    "average_pick": 47.2
   },
   {
-    "player_name": "Ivica Zubac"
+    "player_name": "Andrew Nembhard",
+    "position": "PG,SG,G,Util,IL+",
+    "average_rank": 143,
+    "average_pick": 76.4
   },
   {
-    "player_name": "Jared McCain"
+    "player_name": "Jrue Holiday",
+    "position": "PG,SG,G,Util",
+    "average_rank": 146,
+    "average_pick": 101.8
   },
   {
-    "player_name": "Jalen Suggs"
+    "player_name": "Mitchell Robinson",
+    "position": "C,Util",
+    "average_rank": 152,
+    "average_pick": 127.4
   },
   {
-    "player_name": "Norman Powell"
+    "player_name": "Daniel Gafford",
+    "position": "C,Util",
+    "average_rank": 154,
+    "average_pick": 126.5
   },
   {
-    "player_name": "RJ Barrett"
+    "player_name": "Russell Westbrook",
+    "position": "PG,SG,G,Util,IL+",
+    "average_rank": 156,
+    "average_pick": 109.6
   },
   {
-    "player_name": "Wendell Carter Jr."
+    "player_name": "P.J. Washington",
+    "position": "SF,PF,F,C,Util,IL+",
+    "average_rank": 170,
+    "average_pick": 121.0
   },
   {
-    "player_name": "Jaden McDaniels"
+    "player_name": "Ivica Zubac",
+    "position": "C,Util,IL+",
+    "average_rank": 173,
+    "average_pick": 41.6
   },
   {
-    "player_name": "Jrue Holiday"
+    "player_name": "RJ Barrett",
+    "position": "SG,G,SF,PF,F,Util",
+    "average_rank": 175,
+    "average_pick": 87.5
   },
   {
-    "player_name": "Naz Reid"
+    "player_name": "Kyle Kuzma",
+    "position": "SF,PF,F,Util,IL+",
+    "average_rank": 178,
+    "average_pick": 121.6
   },
   {
-    "player_name": "Aaron Gordon"
+    "player_name": "Herbert Jones",
+    "position": "SG,G,SF,PF,F,Util",
+    "average_rank": 185,
+    "average_pick": 116.8
   },
   {
-    "player_name": "Malcolm Brogdon"
+    "player_name": "Jaylen Wells",
+    "position": "SG,G,SF,F,Util,IL+",
+    "average_rank": 186,
+    "average_pick": 126.0
   },
   {
-    "player_name": "Andrew Nembhard"
+    "player_name": "Jakob Poeltl",
+    "position": "C,Util",
+    "average_rank": 202,
+    "average_pick": 83.6
   },
   {
-    "player_name": "De'Andre Hunter"
+    "player_name": "Anfernee Simons",
+    "position": "PG,SG,G,Util,IL+",
+    "average_rank": 222,
+    "average_pick": 89.7
   },
   {
-    "player_name": "Malik Beasley"
+    "player_name": "Giannis Antetokounmpo",
+    "position": "PF,F,C,Util,IL+",
+    "average_rank": 232,
+    "average_pick": 4.5
   },
   {
-    "player_name": "Bobby Portis"
+    "player_name": "Zach LaVine",
+    "position": "PG,SG,G,SF,F,Util,IL+",
+    "average_rank": 241,
+    "average_pick": 61.2
   },
   {
-    "player_name": "Cam Whitmore"
+    "player_name": "Coby White",
+    "position": "PG,SG,G,Util",
+    "average_rank": 263,
+    "average_pick": 66.1
   },
   {
-    "player_name": "Ayo Dosunmu"
+    "player_name": "Aaron Nesmith",
+    "position": "SG,G,SF,F,Util,IL+",
+    "average_rank": 264,
+    "average_pick": 125.0
   },
   {
-    "player_name": "Daniel Gafford"
+    "player_name": "Aaron Gordon",
+    "position": "PF,F,C,Util",
+    "average_rank": 269,
+    "average_pick": 108.5
   },
   {
-    "player_name": "Davion Mitchell"
+    "player_name": "Jared McCain",
+    "position": "PG,SG,G,Util",
+    "average_rank": 277,
+    "average_pick": 121.9
   },
   {
-    "player_name": "Dennis Schr√∂der"
+    "player_name": "De'Andre Hunter",
+    "position": "SF,PF,F,Util,IL+",
+    "average_rank": 288,
+    "average_pick": 125.3
   },
   {
-    "player_name": "Jabari Smith Jr."
+    "player_name": "Anthony Davis",
+    "position": "PF,F,C,Util,IL+",
+    "average_rank": 290,
+    "average_pick": 10.1
   },
   {
-    "player_name": "Jaylen Wells"
+    "player_name": "Domantas Sabonis",
+    "position": "PF,F,C,Util,IL+",
+    "average_rank": 344,
+    "average_pick": 18.2
   },
   {
-    "player_name": "Kevin Porter Jr."
+    "player_name": "Ja Morant",
+    "position": "PG,G,Util,IL+",
+    "average_rank": 348,
+    "average_pick": 42.7
   },
   {
-    "player_name": "Kyle Kuzma"
+    "player_name": "Cam Whitmore",
+    "position": "SF,PF,F,Util,IL+",
+    "average_rank": 418,
+    "average_pick": 130.1
   },
   {
-    "player_name": "Neemias Queta"
+    "player_name": "Malik Beasley",
+    "position": "SG,G,SF,F,Util",
+    "average_rank": 677,
+    "average_pick": null
   },
   {
-    "player_name": "Nickeil Alexander-Walker"
+    "player_name": "Malcolm Brogdon",
+    "position": "PG,SG,G,Util",
+    "average_rank": 679,
+    "average_pick": null
   },
   {
-    "player_name": "P.J. Washington"
+    "player_name": "Damian Lillard",
+    "position": "PG,G,Util,IL+",
+    "average_rank": 707,
+    "average_pick": 108.6
   },
   {
-    "player_name": "Quentin Grimes"
+    "player_name": "Dennis Schr√∂der",
+    "position": "",
+    "average_rank": null,
+    "average_pick": null
   },
   {
-    "player_name": "Russell Westbrook"
+    "player_name": "Kristaps Porzi≈Üƒ£is",
+    "position": "",
+    "average_rank": null,
+    "average_pick": null
   }
 ]

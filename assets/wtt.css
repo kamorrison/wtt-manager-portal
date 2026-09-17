@@ -89,8 +89,17 @@ select, input, textarea { width: 100%; min-height: 42px; background: var(--panel
 .trade-block-meta { color: var(--muted); font-size: 13px; margin-bottom: 10px; }
 .trade-block-assets { color: var(--text); margin: 8px 0; }
 .trade-block-empty { color: var(--muted); padding: 18px; border: 1px dashed rgba(255,255,255,0.12); border-radius: 14px; }
+.market-controls { padding: 20px; }
+.market-controls-heading { display: flex; justify-content: space-between; align-items: end; gap: 16px; margin-bottom: 8px; }
+.market-controls-heading h2 { margin: 0; }
+.market-controls-heading .eyebrow { margin-bottom: 5px; }
+.market-controls-heading .muted { margin: 0; white-space: nowrap; }
+.market-table td:nth-child(3), .market-table td:nth-child(4) { font-variant-numeric: tabular-nums; }
+.market-player { font-size: 16px; font-weight: 600; }
+.market-position { color: var(--muted); }
 @media (max-width: 720px) {
   .site-header { align-items: flex-start; flex-direction: column; }
   .site-nav { gap: 8px; }
   .trade-block-grid { grid-template-columns: 1fr; }
+  .market-controls-heading { align-items: flex-start; flex-direction: column; }
 }
