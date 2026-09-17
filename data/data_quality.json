@@ -157,13 +157,12 @@
   "build_workbook_allowed": true,
   "public_badge": "WARNING",
   "status_note": "Unofficial / pending commissioner validation.",
-  "critical_errors": [],
-  "warnings": [
-    "Team aliases require commissioner review.",
-    "Some teams still have unusually high RFA rights counts."
+  "critical_errors": [
+    "2026 first-round pick assets do not contain exactly one row per team."
   ],
+  "warnings": [],
   "manual_review": [
-    "High RFA count: Terror Squad (11)"
+    "None"
   ],
-  "last_generated_timestamp": "2026-09-16T17:39:56.146790"
+  "last_generated_timestamp": "2026-09-16T17:45:55"
 }

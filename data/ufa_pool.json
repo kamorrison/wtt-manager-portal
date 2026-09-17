@@ -1,1127 +1,218 @@
 [
   {
-    "season": "2026",
-    "player_id": "466.p.5007",
-    "player_name": "Anthony Davis",
-    "previous_team_id": "466.l.7111.t.9",
-    "previous_team_name": "SteveBlakeExpress",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "70.0",
-    "projected_minimum_next_salary": "77.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.5185",
-    "player_name": "Giannis Antetokounmpo",
-    "previous_team_id": "466.l.7111.t.6",
-    "previous_team_name": "NYK FTW ∆",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "61.0",
-    "projected_minimum_next_salary": "67.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Updated from 2026-02-19 trade"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6698",
-    "player_name": "Dyson Daniels",
-    "previous_team_id": "466.l.7111.t.8",
-    "previous_team_name": "Speedsters",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "55.0",
-    "projected_minimum_next_salary": "60.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6395",
-    "player_name": "LaMelo Ball",
-    "previous_team_id": "466.l.7111.t.8",
-    "previous_team_name": "Speedsters",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "50.0",
-    "projected_minimum_next_salary": "55.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Updated from 2026-02-19 trade"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.4612",
-    "player_name": "Stephen Curry",
-    "previous_team_id": "466.l.7111.t.8",
-    "previous_team_name": "Speedsters",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "50.0",
-    "projected_minimum_next_salary": "55.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.5642",
-    "player_name": "Domantas Sabonis",
-    "previous_team_id": "466.l.7111.t.5",
-    "previous_team_name": "Machines",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "48.0",
-    "projected_minimum_next_salary": "52.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "",
-    "player_name": "Damian Lillard",
-    "previous_team_id": "466.l.7111.t.2",
-    "previous_team_name": "Crossover king",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "44.0",
-    "projected_minimum_next_salary": "48.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6422",
-    "player_name": "Desmond Bane",
-    "previous_team_id": "466.l.7111.t.11",
-    "previous_team_name": "Terror Squad",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "44.0",
-    "projected_minimum_next_salary": "48.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6015",
-    "player_name": "Jaren Jackson Jr.",
-    "previous_team_id": "466.l.7111.t.2",
-    "previous_team_name": "Crossover king",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "44.0",
-    "projected_minimum_next_salary": "48.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Updated from 2026-02-19 trade"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.5769",
-    "player_name": "Lauri Markkanen",
-    "previous_team_id": "466.l.7111.t.11",
-    "previous_team_name": "Terror Squad",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "42.0",
-    "projected_minimum_next_salary": "46.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.5836",
-    "player_name": "OG Anunoby",
-    "previous_team_id": "466.l.7111.t.10",
-    "previous_team_name": "tbach24",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "41.0",
-    "projected_minimum_next_salary": "45.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6703",
-    "player_name": "Jalen Duren",
-    "previous_team_id": "466.l.7111.t.3",
-    "previous_team_name": "CG Paper",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "40.0",
-    "projected_minimum_next_salary": "44.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.4244",
-    "player_name": "Kevin Durant",
-    "previous_team_id": "466.l.7111.t.10",
-    "previous_team_name": "tbach24",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "40.0",
-    "projected_minimum_next_salary": "44.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.4563",
-    "player_name": "James Harden",
-    "previous_team_id": "466.l.7111.t.10",
-    "previous_team_name": "tbach24",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "39.0",
-    "projected_minimum_next_salary": "42.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.5471",
-    "player_name": "Myles Turner",
-    "previous_team_id": "466.l.7111.t.9",
-    "previous_team_name": "SteveBlakeExpress",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "38.0",
-    "projected_minimum_next_salary": "41.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6558",
-    "player_name": "Alperen Sengun",
-    "previous_team_id": "466.l.7111.t.5",
-    "previous_team_name": "Machines",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "36.0",
-    "projected_minimum_next_salary": "39.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.5767",
-    "player_name": "De'Aaron Fox",
-    "previous_team_id": "466.l.7111.t.10",
-    "previous_team_name": "tbach24",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "36.0",
-    "projected_minimum_next_salary": "39.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6559",
-    "player_name": "Trey Murphy III",
-    "previous_team_id": "466.l.7111.t.10",
-    "previous_team_name": "tbach24",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "32.0",
-    "projected_minimum_next_salary": "35.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.5432",
-    "player_name": "Karl-Anthony Towns",
-    "previous_team_id": "466.l.7111.t.6",
-    "previous_team_name": "NYK FTW ∆",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "30.0",
-    "projected_minimum_next_salary": "33.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.4896",
-    "player_name": "Kawhi Leonard",
-    "previous_team_id": "466.l.7111.t.1",
-    "previous_team_name": "KOMPUTERS 'PUTIN'",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "30.0",
-    "projected_minimum_next_salary": "33.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.3704",
-    "player_name": "LeBron James",
-    "previous_team_id": "466.l.7111.t.6",
-    "previous_team_name": "NYK FTW ∆",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "30.0",
-    "projected_minimum_next_salary": "33.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "",
-    "player_name": "Zach LaVine",
-    "previous_team_id": "466.l.7111.t.2",
-    "previous_team_name": "Crossover king",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "30.0",
-    "projected_minimum_next_salary": "33.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6163",
-    "player_name": "Zion Williamson",
-    "previous_team_id": "466.l.7111.t.7",
-    "previous_team_name": "Obi Stoppin & Poppin",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "29.0",
-    "projected_minimum_next_salary": "31.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.5318",
-    "player_name": "Julius Randle",
-    "previous_team_id": "466.l.7111.t.12",
-    "previous_team_name": "TheBoogieDowns",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "28.0",
-    "projected_minimum_next_salary": "30.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "",
-    "player_name": "Kristaps Porzi≈Üƒ£is",
-    "previous_team_id": "466.l.7111.t.8",
-    "previous_team_name": "Speedsters",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "26.0",
-    "projected_minimum_next_salary": "28.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.10065",
-    "player_name": "Toumani Camara",
-    "previous_team_id": "466.l.7111.t.1",
-    "previous_team_name": "KOMPUTERS 'PUTIN'",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "26.0",
-    "projected_minimum_next_salary": "28.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.10108",
-    "player_name": "Amen Thompson",
-    "previous_team_id": "466.l.7111.t.9",
-    "previous_team_name": "SteveBlakeExpress",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "24.0",
-    "projected_minimum_next_salary": "26.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.5835",
-    "player_name": "Jarrett Allen",
-    "previous_team_id": "466.l.7111.t.9",
-    "previous_team_name": "SteveBlakeExpress",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "23.0",
-    "projected_minimum_next_salary": "25.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.5294",
-    "player_name": "Joel Embiid",
-    "previous_team_id": "466.l.7111.t.10",
-    "previous_team_name": "tbach24",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "23.0",
-    "projected_minimum_next_salary": "25.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6164",
-    "player_name": "Ja Morant",
-    "previous_team_id": "466.l.7111.t.3",
-    "previous_team_name": "CG Paper",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "22.0",
-    "projected_minimum_next_salary": "24.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "",
-    "player_name": "Jimmy Butler III",
-    "previous_team_id": "466.l.7111.t.8",
-    "previous_team_name": "Speedsters",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "22.0",
-    "projected_minimum_next_salary": "24.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6413",
-    "player_name": "Tyrese Maxey",
-    "previous_team_id": "466.l.7111.t.1",
-    "previous_team_name": "KOMPUTERS 'PUTIN'",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "22.0",
-    "projected_minimum_next_salary": "24.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6403",
-    "player_name": "Devin Vassell",
-    "previous_team_id": "466.l.7111.t.11",
-    "previous_team_name": "Terror Squad",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "20.0",
-    "projected_minimum_next_salary": "22.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.10099",
-    "player_name": "Bilal Coulibaly",
-    "previous_team_id": "466.l.7111.t.3",
-    "previous_team_name": "CG Paper",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "19.0",
-    "projected_minimum_next_salary": "21.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6705",
-    "player_name": "Mark Williams",
-    "previous_team_id": "466.l.7111.t.10",
-    "previous_team_name": "tbach24",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "19.0",
-    "projected_minimum_next_salary": "21.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.4897",
-    "player_name": "Nikola Vucevic",
-    "previous_team_id": "466.l.7111.t.5",
-    "previous_team_name": "Machines",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "19.0",
-    "projected_minimum_next_salary": "21.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6169",
-    "player_name": "Coby White",
-    "previous_team_id": "466.l.7111.t.7",
-    "previous_team_name": "Obi Stoppin & Poppin",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "17.0",
-    "projected_minimum_next_salary": "19.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6406",
-    "player_name": "Aaron Nesmith",
-    "previous_team_id": "466.l.7111.t.10",
-    "previous_team_name": "tbach24",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "14.0",
-    "projected_minimum_next_salary": "16.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.4614",
-    "player_name": "DeMar DeRozan",
-    "previous_team_id": "466.l.7111.t.2",
-    "previous_team_name": "Crossover king",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "13.0",
-    "projected_minimum_next_salary": "15.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Updated from 2026-02-19 trade"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.5640",
-    "player_name": "Jakob Poeltl",
-    "previous_team_id": "466.l.7111.t.7",
-    "previous_team_name": "Obi Stoppin & Poppin",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "13.0",
-    "projected_minimum_next_salary": "15.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6021",
-    "player_name": "Mikal Bridges",
-    "previous_team_id": "466.l.7111.t.3",
-    "previous_team_name": "CG Paper",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "13.0",
-    "projected_minimum_next_salary": "15.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6577",
-    "player_name": "Herbert Jones",
-    "previous_team_id": "466.l.7111.t.9",
-    "previous_team_name": "SteveBlakeExpress",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "12.0",
-    "projected_minimum_next_salary": "14.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6047",
-    "player_name": "Mitchell Robinson",
-    "previous_team_id": "466.l.7111.t.9",
-    "previous_team_name": "SteveBlakeExpress",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "11.0",
-    "projected_minimum_next_salary": "13.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6219",
-    "player_name": "Nic Claxton",
-    "previous_team_id": "466.l.7111.t.12",
-    "previous_team_name": "TheBoogieDowns",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "11.0",
-    "projected_minimum_next_salary": "13.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "",
-    "player_name": "Anfernee Simons",
-    "previous_team_id": "466.l.7111.t.11",
-    "previous_team_name": "Terror Squad",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "10.0",
-    "projected_minimum_next_salary": "12.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.5663",
-    "player_name": "Ivica Zubac",
-    "previous_team_id": "466.l.7111.t.7",
-    "previous_team_name": "Obi Stoppin & Poppin",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "10.0",
-    "projected_minimum_next_salary": "12.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.10276",
-    "player_name": "Jared McCain",
-    "previous_team_id": "466.l.7111.t.3",
-    "previous_team_name": "CG Paper",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "10.0",
-    "projected_minimum_next_salary": "12.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6516",
-    "player_name": "Jalen Suggs",
-    "previous_team_id": "466.l.7111.t.9",
-    "previous_team_name": "SteveBlakeExpress",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "8.0",
-    "projected_minimum_next_salary": "10.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.5506",
-    "player_name": "Norman Powell",
-    "previous_team_id": "466.l.7111.t.8",
-    "previous_team_name": "Speedsters",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "7.0",
-    "projected_minimum_next_salary": "9.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6165",
-    "player_name": "RJ Barrett",
-    "previous_team_id": "466.l.7111.t.6",
-    "previous_team_name": "NYK FTW ∆",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "7.0",
-    "projected_minimum_next_salary": "9.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6018",
-    "player_name": "Wendell Carter Jr.",
-    "previous_team_id": "466.l.7111.t.11",
-    "previous_team_name": "Terror Squad",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "7.0",
-    "projected_minimum_next_salary": "9.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Updated from 2026-03-05 manual trade"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6420",
-    "player_name": "Jaden McDaniels",
-    "previous_team_id": "466.l.7111.t.3",
-    "previous_team_name": "CG Paper",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "6.0",
-    "projected_minimum_next_salary": "8.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.4622",
-    "player_name": "Jrue Holiday",
-    "previous_team_id": "466.l.7111.t.6",
-    "previous_team_name": "NYK FTW ∆",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "6.0",
-    "projected_minimum_next_salary": "8.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6253",
-    "player_name": "Naz Reid",
-    "previous_team_id": "466.l.7111.t.11",
-    "previous_team_name": "Terror Squad",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "6.0",
-    "projected_minimum_next_salary": "8.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.5295",
-    "player_name": "Aaron Gordon",
-    "previous_team_id": "466.l.7111.t.5",
-    "previous_team_name": "Machines",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "5.0",
-    "projected_minimum_next_salary": "7.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "",
-    "player_name": "Malcolm Brogdon",
-    "previous_team_id": "466.l.7111.t.5",
-    "previous_team_name": "Machines",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "4.0",
-    "projected_minimum_next_salary": "6.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6721",
-    "player_name": "Andrew Nembhard",
-    "previous_team_id": "466.l.7111.t.9",
-    "previous_team_name": "SteveBlakeExpress",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "3.0",
-    "projected_minimum_next_salary": "5.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "",
-    "player_name": "De'Andre Hunter",
-    "previous_team_id": "466.l.7111.t.8",
-    "previous_team_name": "Speedsters",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "3.0",
-    "projected_minimum_next_salary": "5.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "",
-    "player_name": "Malik Beasley",
-    "previous_team_id": "466.l.7111.t.2",
-    "previous_team_name": "Crossover king",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "3.0",
-    "projected_minimum_next_salary": "5.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.5482",
-    "player_name": "Bobby Portis",
-    "previous_team_id": "466.l.7111.t.4",
-    "previous_team_name": "James42",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "2.0",
-    "projected_minimum_next_salary": "4.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "",
-    "player_name": "Cam Whitmore",
-    "previous_team_id": "466.l.7111.t.8",
-    "previous_team_name": "Speedsters",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "2.0",
-    "projected_minimum_next_salary": "4.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6580",
-    "player_name": "Ayo Dosunmu",
-    "previous_team_id": "466.l.7111.t.4",
-    "previous_team_name": "James42",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "1.0",
-    "projected_minimum_next_salary": "3.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6226",
-    "player_name": "Daniel Gafford",
-    "previous_team_id": "466.l.7111.t.1",
-    "previous_team_name": "KOMPUTERS 'PUTIN'",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "1.0",
-    "projected_minimum_next_salary": "3.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6551",
-    "player_name": "Davion Mitchell",
-    "previous_team_id": "466.l.7111.t.12",
-    "previous_team_name": "TheBoogieDowns",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "1.0",
-    "projected_minimum_next_salary": "3.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "",
-    "player_name": "Dennis Schr√∂der",
-    "previous_team_id": "466.l.7111.t.12",
-    "previous_team_name": "TheBoogieDowns",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "1.0",
-    "projected_minimum_next_salary": "3.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6693",
-    "player_name": "Jabari Smith Jr.",
-    "previous_team_id": "466.l.7111.t.8",
-    "previous_team_name": "Speedsters",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "1.0",
-    "projected_minimum_next_salary": "3.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.10340",
-    "player_name": "Jaylen Wells",
-    "previous_team_id": "466.l.7111.t.12",
-    "previous_team_name": "TheBoogieDowns",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "1.0",
-    "projected_minimum_next_salary": "3.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6218",
-    "player_name": "Kevin Porter Jr.",
-    "previous_team_id": "466.l.7111.t.10",
-    "previous_team_name": "tbach24",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "1.0",
-    "projected_minimum_next_salary": "3.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.10315",
-    "player_name": "Kyle Filipowski",
-    "previous_team_id": "466.l.7111.t.7",
-    "previous_team_name": "Obi Stoppin & Poppin",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "1.0",
-    "projected_minimum_next_salary": "3.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.5840",
-    "player_name": "Kyle Kuzma",
-    "previous_team_id": "466.l.7111.t.12",
-    "previous_team_name": "TheBoogieDowns",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "1.0",
-    "projected_minimum_next_salary": "3.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6581",
-    "player_name": "Neemias Queta",
-    "previous_team_id": "466.l.7111.t.8",
-    "previous_team_name": "Speedsters",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "1.0",
-    "projected_minimum_next_salary": "3.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6205",
-    "player_name": "Nickeil Alexander-Walker",
-    "previous_team_id": "466.l.7111.t.12",
-    "previous_team_name": "TheBoogieDowns",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "1.0",
-    "projected_minimum_next_salary": "3.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6174",
-    "player_name": "P.J. Washington",
-    "previous_team_id": "466.l.7111.t.4",
-    "previous_team_name": "James42",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "1.0",
-    "projected_minimum_next_salary": "3.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "466.p.6567",
-    "player_name": "Quentin Grimes",
-    "previous_team_id": "466.l.7111.t.4",
-    "previous_team_name": "James42",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "1.0",
-    "projected_minimum_next_salary": "3.0",
-    "eligible_max_years": "4",
-    "rfa_match_allowed": "N",
-    "notes": "Created during rollover"
-  },
-  {
-    "season": "2026",
-    "player_id": "",
-    "player_name": "Russell Westbrook",
-    "previous_team_id": "466.l.7111.t.6",
-    "previous_team_name": "NYK FTW ∆",
-    "free_agent_type": "UFA",
-    "rights_team_id": "",
-    "rights_team_name": "",
-    "prior_salary": "1.0",
-    "projected_minimum_next_salary": "3.0",
-    "eligible_max_years": "5",
-    "rfa_match_allowed": "N",
-    "notes": "Traded to NYK FTW ∆ on 2026-02-19 and waived on 2026-03-26"
+    "player_name": "Anthony Davis"
+  },
+  {
+    "player_name": "Giannis Antetokounmpo"
+  },
+  {
+    "player_name": "Dyson Daniels"
+  },
+  {
+    "player_name": "LaMelo Ball"
+  },
+  {
+    "player_name": "Stephen Curry"
+  },
+  {
+    "player_name": "Domantas Sabonis"
+  },
+  {
+    "player_name": "Damian Lillard"
+  },
+  {
+    "player_name": "Desmond Bane"
+  },
+  {
+    "player_name": "Jaren Jackson Jr."
+  },
+  {
+    "player_name": "Lauri Markkanen"
+  },
+  {
+    "player_name": "OG Anunoby"
+  },
+  {
+    "player_name": "Jalen Duren"
+  },
+  {
+    "player_name": "Kevin Durant"
+  },
+  {
+    "player_name": "James Harden"
+  },
+  {
+    "player_name": "Myles Turner"
+  },
+  {
+    "player_name": "Alperen Sengun"
+  },
+  {
+    "player_name": "De'Aaron Fox"
+  },
+  {
+    "player_name": "Trey Murphy III"
+  },
+  {
+    "player_name": "Karl-Anthony Towns"
+  },
+  {
+    "player_name": "Kawhi Leonard"
+  },
+  {
+    "player_name": "LeBron James"
+  },
+  {
+    "player_name": "Zach LaVine"
+  },
+  {
+    "player_name": "Zion Williamson"
+  },
+  {
+    "player_name": "Julius Randle"
+  },
+  {
+    "player_name": "Kristaps Porzi≈Üƒ£is"
+  },
+  {
+    "player_name": "Toumani Camara"
+  },
+  {
+    "player_name": "Jarrett Allen"
+  },
+  {
+    "player_name": "Joel Embiid"
+  },
+  {
+    "player_name": "Ja Morant"
+  },
+  {
+    "player_name": "Jimmy Butler III"
+  },
+  {
+    "player_name": "Tyrese Maxey"
+  },
+  {
+    "player_name": "Devin Vassell"
+  },
+  {
+    "player_name": "Mark Williams"
+  },
+  {
+    "player_name": "Nikola Vucevic"
+  },
+  {
+    "player_name": "Coby White"
+  },
+  {
+    "player_name": "Aaron Nesmith"
+  },
+  {
+    "player_name": "DeMar DeRozan"
+  },
+  {
+    "player_name": "Jakob Poeltl"
+  },
+  {
+    "player_name": "Mikal Bridges"
+  },
+  {
+    "player_name": "Herbert Jones"
+  },
+  {
+    "player_name": "Mitchell Robinson"
+  },
+  {
+    "player_name": "Nic Claxton"
+  },
+  {
+    "player_name": "Anfernee Simons"
+  },
+  {
+    "player_name": "Ivica Zubac"
+  },
+  {
+    "player_name": "Jared McCain"
+  },
+  {
+    "player_name": "Jalen Suggs"
+  },
+  {
+    "player_name": "Norman Powell"
+  },
+  {
+    "player_name": "RJ Barrett"
+  },
+  {
+    "player_name": "Wendell Carter Jr."
+  },
+  {
+    "player_name": "Jaden McDaniels"
+  },
+  {
+    "player_name": "Jrue Holiday"
+  },
+  {
+    "player_name": "Naz Reid"
+  },
+  {
+    "player_name": "Aaron Gordon"
+  },
+  {
+    "player_name": "Malcolm Brogdon"
+  },
+  {
+    "player_name": "Andrew Nembhard"
+  },
+  {
+    "player_name": "De'Andre Hunter"
+  },
+  {
+    "player_name": "Malik Beasley"
+  },
+  {
+    "player_name": "Bobby Portis"
+  },
+  {
+    "player_name": "Cam Whitmore"
+  },
+  {
+    "player_name": "Ayo Dosunmu"
+  },
+  {
+    "player_name": "Daniel Gafford"
+  },
+  {
+    "player_name": "Davion Mitchell"
+  },
+  {
+    "player_name": "Dennis Schr√∂der"
+  },
+  {
+    "player_name": "Jabari Smith Jr."
+  },
+  {
+    "player_name": "Jaylen Wells"
+  },
+  {
+    "player_name": "Kevin Porter Jr."
+  },
+  {
+    "player_name": "Kyle Kuzma"
+  },
+  {
+    "player_name": "Neemias Queta"
+  },
+  {
+    "player_name": "Nickeil Alexander-Walker"
+  },
+  {
+    "player_name": "P.J. Washington"
+  },
+  {
+    "player_name": "Quentin Grimes"
+  },
+  {
+    "player_name": "Russell Westbrook"
   }
 ]
