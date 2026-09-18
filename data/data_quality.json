@@ -13,19 +13,19 @@
   "teams_over_hard_cap": [],
   "rfa_rights_count_by_team": {
     "CG Paper": 3,
-    "Crossover king": 6,
+    "Crossover king": 7,
     "James42": 3,
-    "KOMPUTERS 'PUTIN'": 9,
-    "Machines": 4,
-    "NYK FTW ∆": 13,
-    "Obi Stoppin & Poppin": 3,
-    "Speedsters": 10,
+    "KOMPUTERS 'PUTIN'": 8,
+    "Machines": 6,
+    "NYK FTW ∆": 9,
+    "Obi Stoppin & Poppin": 4,
+    "Speedsters": 9,
     "SteveBlakeExpress": 5,
     "tbach24": 6,
-    "Terror Squad": 9,
+    "Terror Squad": 8,
     "TheBoogieDowns": 4
   },
-  "rfa_rights_rows": 75,
+  "rfa_rights_rows": 72,
   "rfa_rights_rows_final": 88,
   "rfa_excluded_candidate_rows": 211,
   "rfa_exclusion_reasons": {
@@ -72,7 +72,7 @@
       "warning": "WARNING_HIGH_RFA_COUNT"
     }
   ],
-  "ufa_count": 81,
+  "ufa_count": 94,
   "draft_pick_rows_excluded_from_players": 0,
   "draft_pick_rows_excluded_from_rfa": 48,
   "draft_pick_rows_excluded_from_ufa": 48,
@@ -131,8 +131,8 @@
   "rows_imported_by_tab": {
     "teams": 12,
     "players": 90,
-    "rfa_rights": 75,
-    "free_agent_pool": 160,
+    "rfa_rights": 72,
+    "free_agent_pool": 169,
     "salary_projection": 90,
     "pick_assets": 288,
     "g_league": 34,
@@ -152,18 +152,22 @@
   "commissioner_confirmation_count": 3,
   "validation_status": "WARNING",
   "critical_error_count": 0,
-  "warning_count": 2,
-  "manual_review_count": 1,
+  "warning_count": 3,
+  "manual_review_count": 4,
   "build_workbook_allowed": true,
   "public_badge": "WARNING",
   "status_note": "Unofficial / pending commissioner validation.",
   "critical_errors": [],
   "warnings": [
+    "Rookie contract metadata needs commissioner review.",
     "Team aliases require commissioner review.",
-    "Some teams still have unusually high RFA rights counts."
+    "Some G-League players also appear in RFA rights."
   ],
   "manual_review": [
-    "High RFA count: NYK FTW ∆ (13)"
+    "Expired rookie missing RFA rights: noa essengue",
+    "G-League duplicated in RFA: Will Riley",
+    "G-League duplicated in RFA: Matas Buzelis",
+    "G-League duplicated in RFA: Kel'el Ware"
   ],
-  "last_generated_timestamp": "2026-09-18T16:34:20.798991"
+  "last_generated_timestamp": "2026-09-18T16:49:51.638366"
 }

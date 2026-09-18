@@ -162,6 +162,12 @@
     "average_pick": 29.3
   },
   {
+    "player_name": "Kris Dunn",
+    "position": "PG,SG,G,Util",
+    "average_rank": 77,
+    "average_pick": null
+  },
+  {
     "player_name": "Jalen Suggs",
     "position": "PG,SG,G,Util",
     "average_rank": 83,
@@ -184,6 +190,12 @@
     "position": "SF,PF,F,Util,IL+",
     "average_rank": 89,
     "average_pick": 52.4
+  },
+  {
+    "player_name": "Jake Laravia",
+    "position": "SF,PF,F,Util",
+    "average_rank": 93,
+    "average_pick": null
   },
   {
     "player_name": "Jarrett Allen",
@@ -330,10 +342,22 @@
     "average_pick": 83.6
   },
   {
+    "player_name": "Al Horford",
+    "position": "PF,F,C,Util",
+    "average_rank": 218,
+    "average_pick": 119.1
+  },
+  {
     "player_name": "Anfernee Simons",
     "position": "PG,SG,G,Util,IL+",
     "average_rank": 222,
     "average_pick": 89.7
+  },
+  {
+    "player_name": "Aaron Wiggins",
+    "position": "SG,G,SF,F,Util",
+    "average_rank": 223,
+    "average_pick": 121.3
   },
   {
     "player_name": "Giannis Antetokounmpo",
@@ -394,6 +418,18 @@
     "position": "PG,G,Util,IL+",
     "average_rank": 348,
     "average_pick": 42.7
+  },
+  {
+    "player_name": "Cameron Payne",
+    "position": "PG,SG,G,Util",
+    "average_rank": 364,
+    "average_pick": null
+  },
+  {
+    "player_name": "Nikola Jović",
+    "position": "PF,F,C,Util,IL+",
+    "average_rank": 388,
+    "average_pick": 123.0
   },
   {
     "player_name": "Cam Whitmore",
