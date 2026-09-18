@@ -13,16 +13,16 @@
   "teams_over_hard_cap": [],
   "rfa_rights_count_by_team": {
     "CG Paper": 3,
-    "Crossover king": 7,
+    "Crossover king": 6,
     "James42": 3,
     "KOMPUTERS 'PUTIN'": 9,
-    "Machines": 5,
-    "NYK FTW ∆": 10,
+    "Machines": 4,
+    "NYK FTW ∆": 13,
     "Obi Stoppin & Poppin": 3,
-    "Speedsters": 9,
+    "Speedsters": 10,
     "SteveBlakeExpress": 5,
     "tbach24": 6,
-    "Terror Squad": 11,
+    "Terror Squad": 9,
     "TheBoogieDowns": 4
   },
   "rfa_rights_rows": 75,
@@ -163,14 +163,7 @@
     "Some teams still have unusually high RFA rights counts."
   ],
   "manual_review": [
-    "High RFA count: Crossover king (20)",
-    "High RFA count: KOMPUTERS 'PUTIN' (17)",
-    "High RFA count: Machines (14)",
-    "High RFA count: NYK FTW ∆ (22)",
-    "High RFA count: Speedsters (20)",
-    "High RFA count: SteveBlakeExpress (11)",
-    "High RFA count: Terror Squad (15)",
-    "High RFA count: tbach24 (13)"
+    "High RFA count: NYK FTW ∆ (13)"
   ],
-  "last_generated_timestamp": "2026-09-16T21:24:04.572322"
+  "last_generated_timestamp": "2026-09-18T16:34:20.798991"
 }
