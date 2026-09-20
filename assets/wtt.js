@@ -542,10 +542,70 @@ async function initUfaBoard() {
   render();
 }
 
+async function initPlayersDirectory() {
+  const body = document.body;
+  if (body.dataset.page !== "players") return;
+  const basePath = body.dataset.basepath || ".";
+  const [rows] = await Promise.all([loadJson(basePath, "player_contracts.json")]);
+  const search = document.getElementById("player-search");
+  const team = document.getElementById("player-team-filter");
+  const status = document.getElementById("player-status-filter");
+  const rookie = document.getElementById("player-rookie-filter");
+  const sort = document.getElementById("player-sort");
+  const resultCount = document.getElementById("player-result-count");
+  const list = document.getElementById("player-directory-list");
+  if (!search || !team || !status || !rookie || !sort || !resultCount || !list) return;
+
+  const playerStatus = (row) => {
+    if (String(row.amnesty_flag || "").toUpperCase() === "Y") return "Amnestied";
+    if (String(row.disabled_exception_flag || "").toUpperCase() === "Y") return "Disabled Exception";
+    if (String(row.released_flag || "").toUpperCase() === "Y") return "Released";
+    if (String(row.g_league_flag || "").toUpperCase() === "Y") return "G League";
+    return "Active";
+  };
+  const teams = Array.from(new Set(rows.map((row) => String(row.team_name || "")).filter(Boolean))).sort((left, right) => left.localeCompare(right));
+  teams.forEach((value) => team.appendChild(option(value, value)));
+  const number = (value) => Number.isFinite(Number(value)) ? Number(value) : 0;
+
+  function render() {
+    const query = search.value.trim().toLowerCase();
+    const selectedTeam = team.value;
+    const selectedStatus = status.value;
+    const selectedRookie = rookie.value;
+    const filtered = rows.filter((row) => {
+      const rowStatus = playerStatus(row);
+      const rowRookie = String(row.rookie_contract_designation || "").trim();
+      return (!query || String(row.player_name || "").toLowerCase().includes(query))
+        && (!selectedTeam || String(row.team_name || "") === selectedTeam)
+        && (!selectedStatus || rowStatus === selectedStatus)
+        && (!selectedRookie || (selectedRookie === "NON_ROOKIE" ? !rowRookie : rowRookie === selectedRookie));
+    }).sort((left, right) => {
+      if (sort.value === "team") return String(left.team_name || "").localeCompare(String(right.team_name || "")) || String(left.player_name || "").localeCompare(String(right.player_name || ""));
+      if (sort.value === "salary") return number(right.salary_used) - number(left.salary_used) || String(left.player_name || "").localeCompare(String(right.player_name || ""));
+      if (sort.value === "years") return number(right.contract_years_remaining) - number(left.contract_years_remaining) || String(left.player_name || "").localeCompare(String(right.player_name || ""));
+      return String(left.player_name || "").localeCompare(String(right.player_name || ""));
+    });
+    resultCount.textContent = `${filtered.length} of ${rows.length} contract records`;
+    list.innerHTML = filtered.length ? filtered.map((row) => {
+      const rowStatus = playerStatus(row);
+      const contractClass = row.contract_class || row.contract_type || "—";
+      const rookieTier = row.rookie_contract_designation || "—";
+      return `<tr><td class="market-player">${escapeHtml(row.player_name)}</td><td>${escapeHtml(row.team_name || "—")}</td><td>${escapeHtml(rowStatus)}</td><td>${escapeHtml(contractClass)}</td><td>${escapeHtml(rookieTier)}</td><td>${escapeHtml(money(row.salary_used))}</td><td>${escapeHtml(row.contract_years_remaining || "—")}</td></tr>`;
+    }).join("") : '<tr><td colspan="7" class="muted">No players match the selected filters.</td></tr>';
+  }
+
+  [search, team, status, rookie, sort].forEach((control) => control.addEventListener("input", render));
+  render();
+}
+
 initTradeLogFilters();
 initUfaBoard().catch((error) => {
   const list = document.getElementById("ufa-market-list");
   if (list) list.innerHTML = `<tr><td colspan="4">${escapeHtml(error.message)}</td></tr>`;
+});
+initPlayersDirectory().catch((error) => {
+  const list = document.getElementById("player-directory-list");
+  if (list) list.innerHTML = `<tr><td colspan="7">${escapeHtml(error.message)}</td></tr>`;
 });
 initTradeBlock().catch((error) => {
   const list = document.getElementById("trade-block-list");

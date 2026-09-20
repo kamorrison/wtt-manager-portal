@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Player Directory</title>
+  <link rel="stylesheet" href="./assets/wtt.css">
+</head>
+<body data-page="players" data-basepath=".">
+  <header class="site-header">
+    <div class="brand-block">
+      <p class="eyebrow">Watch The Throne Front Office</p>
+      <h1>Player Directory</h1>
+      <p class="subhead">Unofficial / pending commissioner validation.</p>
+    </div>
+    <div class="status-block"><span class="status-badge warning">WARNING</span></div>
+  </header>
+  <nav class="site-nav"><a class="nav-link" href="./index.html">Overview</a><a class="nav-link" href="./teams.html">Teams</a><a class="nav-link active" href="./players.html">Players</a><a class="nav-link" href="./cap_dashboard.html">Cap Dashboard</a><a class="nav-link" href="./contract_rules.html">Contract Rules</a><a class="nav-link" href="./dead_contracts.html">Dead Contracts</a><a class="nav-link" href="./amnesty_exemptions.html">Amnesty &amp; Exemptions</a><a class="nav-link" href="./rfa_board.html">RFA Board</a><a class="nav-link" href="./ufa_board.html">Unrestricted Free Agents</a><a class="nav-link" href="./rookie_draft_board.html">Rookie Draft</a><a class="nav-link" href="./pick_assets.html">Pick Assets</a><a class="nav-link" href="./g_league.html">G League</a><a class="nav-link" href="./trade_machine.html">Trade Machine</a><a class="nav-link" href="./trade_block.html">Trade Block</a><a class="nav-link" href="./trade_log.html">Trade Log</a><a class="nav-link" href="./data_quality.html">Data Quality</a></nav>
+  <section class="notice warning">Unofficial / pending commissioner validation. Data quality warnings remain visible by design.</section>
+  <main class="page-shell">
+    
+<section class="hero-card"><p class="eyebrow">League Directory</p><h2>Player Directory</h2><p class="muted">Look up current contract-team assignments, cap treatment, contract status, and rookie tiers across WTT.</p></section>
+<section class="section-card market-controls">
+  <div class="market-controls-heading"><div><p class="eyebrow">Roster Explorer</p><h2>Find a Player</h2></div><p id="player-result-count" class="muted" aria-live="polite"></p></div>
+  <div class="filter-row">
+    <div class="filter-control"><label for="player-search">Search Player</label><input id="player-search" type="search" placeholder="Search player name"></div>
+    <div class="filter-control"><label for="player-team-filter">Current Team</label><select id="player-team-filter"><option value="">All teams</option></select></div>
+    <div class="filter-control"><label for="player-status-filter">Status</label><select id="player-status-filter"><option value="">All statuses</option><option value="Active">Active</option><option value="Amnestied">Amnestied</option><option value="Disabled Exception">Disabled exception</option><option value="Released">Released</option><option value="G League">G League</option></select></div>
+    <div class="filter-control"><label for="player-rookie-filter">Rookie Tier</label><select id="player-rookie-filter"><option value="">All tiers</option><option value="NON_ROOKIE">Non-rookie</option><option value="ROOKIE_1">Rookie 1</option><option value="ROOKIE_2">Rookie 2</option><option value="ROOKIE_3">Rookie 3</option><option value="ROOKIE_4">Rookie 4</option><option value="ROOKIE_5">Rookie 5</option></select></div>
+    <div class="filter-control"><label for="player-sort">Sort By</label><select id="player-sort"><option value="name">Player: A to Z</option><option value="team">Team: A to Z</option><option value="salary">Cap salary: high to low</option><option value="years">Years remaining: high to low</option></select></div>
+  </div>
+</section>
+<section><div class="table-wrap market-table"><table><thead><tr><th>Player</th><th>Current Team</th><th>Status</th><th>Contract Class</th><th>Rookie Tier</th><th>Cap Salary</th><th>Years Left</th></tr></thead><tbody id="player-directory-list"></tbody></table></div></section>
+
+  </main>
+  <footer class="site-footer">Generated 2026-09-20T07:28:19.222867 • Salary units use 1 = $1M</footer>
+  <script src="./assets/wtt.js"></script>
+</body>
+</html>
