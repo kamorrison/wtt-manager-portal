@@ -826,19 +826,19 @@
     "rookie_salary_pct": "",
     "rookie_salary_source": "",
     "current_salary": "19",
-    "salary_used": "19",
+    "salary_used": "0",
     "contract_years_remaining": "1",
     "original_contract_length": "2",
     "contract_start_year": "2024",
     "contract_end_year": "2026",
-    "inactive_flag": "N",
+    "inactive_flag": "Y",
     "disabled_exception_flag": "N",
-    "released_flag": "N",
-    "amnesty_flag": "N",
+    "released_flag": "Y",
+    "amnesty_flag": "Y",
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "68",
-    "notes": "=IF($H68=\"Y\",0,C68)"
+    "notes": "Amnestied on 2026-09-19"
   },
   {
     "season": "2026",
@@ -1219,8 +1219,8 @@
   },
   {
     "season": "2026",
-    "team_id": "466.l.7111.t.5",
-    "team_name": "Machines",
+    "team_id": "466.l.7111.t.7",
+    "team_name": "Obi Stoppin & Poppin",
     "player_id": "466.p.10468",
     "player_name": "Cooper Flagg",
     "contract_class": "ROOKIE",
@@ -1244,7 +1244,7 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "93",
-    "notes": "Commissioner correction"
+    "notes": "Verified final Yahoo roster; commissioner correction"
   },
   {
     "season": "2026",
@@ -1277,8 +1277,8 @@
   },
   {
     "season": "2026",
-    "team_id": "466.l.7111.t.5",
-    "team_name": "Machines",
+    "team_id": "466.l.7111.t.7",
+    "team_name": "Obi Stoppin & Poppin",
     "player_id": "466.p.10290",
     "player_name": "Stephon Castle",
     "contract_class": "ROOKIE",
@@ -1302,7 +1302,7 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "97",
-    "notes": "Commissioner correction"
+    "notes": "Verified final Yahoo roster; commissioner correction"
   },
   {
     "season": "2026",
@@ -1596,8 +1596,8 @@
   },
   {
     "season": "2026",
-    "team_id": "466.l.7111.t.5",
-    "team_name": "Machines",
+    "team_id": "466.l.7111.t.7",
+    "team_name": "Obi Stoppin & Poppin",
     "player_id": "466.p.10450",
     "player_name": "Kon Knueppel",
     "contract_class": "ROOKIE",
@@ -1621,7 +1621,7 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "113",
-    "notes": "Commissioner correction"
+    "notes": "Verified final Yahoo roster; commissioner correction"
   },
   {
     "season": "2026",
@@ -1683,8 +1683,8 @@
   },
   {
     "season": "2026",
-    "team_id": "466.l.7111.t.5",
-    "team_name": "Machines",
+    "team_id": "466.l.7111.t.7",
+    "team_name": "Obi Stoppin & Poppin",
     "player_id": "466.p.10110",
     "player_name": "Taylor Hendricks",
     "contract_class": "ROOKIE",
@@ -1696,19 +1696,19 @@
     "rookie_salary_pct": "0.01",
     "rookie_salary_source": "2025+_SOFT_CAP_PCT",
     "current_salary": "9",
-    "salary_used": "9",
+    "salary_used": "0",
     "contract_years_remaining": "1",
     "original_contract_length": "2",
     "contract_start_year": "2024",
     "contract_end_year": "2026",
-    "inactive_flag": "N",
+    "inactive_flag": "Y",
     "disabled_exception_flag": "N",
-    "released_flag": "N",
-    "amnesty_flag": "N",
+    "released_flag": "Y",
+    "amnesty_flag": "Y",
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "119",
-    "notes": "Commissioner correction"
+    "notes": "Amnestied on 2026-09-19"
   },
   {
     "season": "2026",
@@ -1857,8 +1857,8 @@
   },
   {
     "season": "2026",
-    "team_id": "466.l.7111.t.5",
-    "team_name": "Machines",
+    "team_id": "466.l.7111.t.7",
+    "team_name": "Obi Stoppin & Poppin",
     "player_id": "466.p.10287",
     "player_name": "Zach Edey",
     "contract_class": "ROOKIE",
@@ -1882,7 +1882,7 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "136",
-    "notes": "Commissioner correction"
+    "notes": "Verified final Yahoo roster; commissioner correction"
   },
   {
     "season": "2026",
@@ -2002,8 +2002,8 @@
   },
   {
     "season": "2026",
-    "team_id": "466.l.7111.t.5",
-    "team_name": "Machines",
+    "team_id": "466.l.7111.t.7",
+    "team_name": "Obi Stoppin & Poppin",
     "player_id": "466.p.10289",
     "player_name": "Yves Missi",
     "contract_class": "ROOKIE",
@@ -2027,7 +2027,7 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "143",
-    "notes": "Commissioner correction"
+    "notes": "Verified final Yahoo roster; commissioner correction"
   },
   {
     "season": "2026",
@@ -2044,19 +2044,19 @@
     "rookie_salary_pct": "",
     "rookie_salary_source": "",
     "current_salary": "5",
-    "salary_used": "5",
+    "salary_used": "0",
     "contract_years_remaining": "1",
     "original_contract_length": "2",
     "contract_start_year": "2024",
     "contract_end_year": "2026",
-    "inactive_flag": "N",
+    "inactive_flag": "Y",
     "disabled_exception_flag": "N",
-    "released_flag": "N",
-    "amnesty_flag": "N",
+    "released_flag": "Y",
+    "amnesty_flag": "Y",
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "146",
-    "notes": "=IF($H146=\"Y\",0,C146)"
+    "notes": "Amnestied on 2026-09-19"
   },
   {
     "season": "2026",

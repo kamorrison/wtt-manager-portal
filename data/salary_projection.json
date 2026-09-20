@@ -577,7 +577,7 @@
     "salary_2031": "0",
     "expires_after_year": "2026",
     "becomes_free_agent_type": "UFA",
-    "notes": "=IF($H68=\"Y\",0,C68)"
+    "notes": "Amnestied on 2026-09-19"
   },
   {
     "team_id": "466.l.7111.t.5",
@@ -840,8 +840,8 @@
     "notes": "Commissioner correction"
   },
   {
-    "team_id": "466.l.7111.t.5",
-    "team_name": "Machines",
+    "team_id": "466.l.7111.t.7",
+    "team_name": "Obi Stoppin & Poppin",
     "player_id": "466.p.10468",
     "player_name": "Cooper Flagg",
     "contract_class": "ROOKIE",
@@ -857,7 +857,7 @@
     "salary_2031": "0",
     "expires_after_year": "2028",
     "becomes_free_agent_type": "RFA",
-    "notes": "Commissioner correction"
+    "notes": "Verified final Yahoo roster; commissioner correction"
   },
   {
     "team_id": "466.l.7111.t.9",
@@ -880,8 +880,8 @@
     "notes": "Commissioner correction"
   },
   {
-    "team_id": "466.l.7111.t.5",
-    "team_name": "Machines",
+    "team_id": "466.l.7111.t.7",
+    "team_name": "Obi Stoppin & Poppin",
     "player_id": "466.p.10290",
     "player_name": "Stephon Castle",
     "contract_class": "ROOKIE",
@@ -897,7 +897,7 @@
     "salary_2031": "0",
     "expires_after_year": "2026",
     "becomes_free_agent_type": "RFA",
-    "notes": "Commissioner correction"
+    "notes": "Verified final Yahoo roster; commissioner correction"
   },
   {
     "team_id": "466.l.7111.t.11",
@@ -1100,8 +1100,8 @@
     "notes": "=IF($H111=\"Y\",0,C111)"
   },
   {
-    "team_id": "466.l.7111.t.5",
-    "team_name": "Machines",
+    "team_id": "466.l.7111.t.7",
+    "team_name": "Obi Stoppin & Poppin",
     "player_id": "466.p.10450",
     "player_name": "Kon Knueppel",
     "contract_class": "ROOKIE",
@@ -1117,7 +1117,7 @@
     "salary_2031": "0",
     "expires_after_year": "2027",
     "becomes_free_agent_type": "RFA",
-    "notes": "Commissioner correction"
+    "notes": "Verified final Yahoo roster; commissioner correction"
   },
   {
     "team_id": "466.l.7111.t.12",
@@ -1160,8 +1160,8 @@
     "notes": "=IF($H115=\"Y\",0,C115)"
   },
   {
-    "team_id": "466.l.7111.t.5",
-    "team_name": "Machines",
+    "team_id": "466.l.7111.t.7",
+    "team_name": "Obi Stoppin & Poppin",
     "player_id": "466.p.10110",
     "player_name": "Taylor Hendricks",
     "contract_class": "ROOKIE",
@@ -1177,7 +1177,7 @@
     "salary_2031": "0",
     "expires_after_year": "2026",
     "becomes_free_agent_type": "RFA",
-    "notes": "Commissioner correction"
+    "notes": "Amnestied on 2026-09-19"
   },
   {
     "team_id": "466.l.7111.t.5",
@@ -1280,8 +1280,8 @@
     "notes": "=IF($H131=\"Y\",0,C131)"
   },
   {
-    "team_id": "466.l.7111.t.5",
-    "team_name": "Machines",
+    "team_id": "466.l.7111.t.7",
+    "team_name": "Obi Stoppin & Poppin",
     "player_id": "466.p.10287",
     "player_name": "Zach Edey",
     "contract_class": "ROOKIE",
@@ -1297,7 +1297,7 @@
     "salary_2031": "0",
     "expires_after_year": "2026",
     "becomes_free_agent_type": "RFA",
-    "notes": "Commissioner correction"
+    "notes": "Verified final Yahoo roster; commissioner correction"
   },
   {
     "team_id": "466.l.7111.t.4",
@@ -1380,8 +1380,8 @@
     "notes": "=IF($H142=\"Y\",0,C142)"
   },
   {
-    "team_id": "466.l.7111.t.5",
-    "team_name": "Machines",
+    "team_id": "466.l.7111.t.7",
+    "team_name": "Obi Stoppin & Poppin",
     "player_id": "466.p.10289",
     "player_name": "Yves Missi",
     "contract_class": "ROOKIE",
@@ -1397,7 +1397,7 @@
     "salary_2031": "0",
     "expires_after_year": "2026",
     "becomes_free_agent_type": "RFA",
-    "notes": "Commissioner correction"
+    "notes": "Verified final Yahoo roster; commissioner correction"
   },
   {
     "team_id": "466.l.7111.t.1",
@@ -1417,7 +1417,7 @@
     "salary_2031": "0",
     "expires_after_year": "2026",
     "becomes_free_agent_type": "UFA",
-    "notes": "=IF($H146=\"Y\",0,C146)"
+    "notes": "Amnestied on 2026-09-19"
   },
   {
     "team_id": "466.l.7111.t.2",

@@ -403,6 +403,18 @@
     "sort_label": "2027_2_crossover king"
   },
   {
+    "asset_id": "PICK::2027::2::466.l.7111.t.1",
+    "asset_type": "ROOKIE_PICK",
+    "team_name": "Crossover king",
+    "display_name": "2027 2nd (KOMPUTERS 'PUTIN')",
+    "salary_value": 0.0,
+    "asset_year": 2027,
+    "round": 2,
+    "original_team_name": "KOMPUTERS 'PUTIN'",
+    "sort_group": 1,
+    "sort_label": "2027_2_komputers 'putin'"
+  },
+  {
     "asset_id": "PICK::2027::2::466.l.7111.t.8",
     "asset_type": "ROOKIE_PICK",
     "team_name": "Crossover king",
@@ -545,28 +557,6 @@
     "original_team_name": "Crossover king",
     "sort_group": 1,
     "sort_label": "2032_2_crossover king"
-  },
-  {
-    "asset_id": "AMNESTY::2026::crossover_king::1",
-    "asset_type": "AMNESTY",
-    "team_name": "Crossover king",
-    "display_name": "2026 Amnesty 1",
-    "salary_value": 0.0,
-    "season": 2026,
-    "amnesty_slot": 1,
-    "sort_group": 2,
-    "sort_label": "2026_1"
-  },
-  {
-    "asset_id": "AMNESTY::2026::crossover_king::2",
-    "asset_type": "AMNESTY",
-    "team_name": "Crossover king",
-    "display_name": "2026 Amnesty 2",
-    "salary_value": 0.0,
-    "season": 2026,
-    "amnesty_slot": 2,
-    "sort_group": 2,
-    "sort_label": "2026_2"
   },
   {
     "asset_id": "PLAYER::james42::cedric_coward",
@@ -980,17 +970,6 @@
     "sort_label": "immanuel quickley"
   },
   {
-    "asset_id": "PLAYER::komputers__putin::466.p.5856",
-    "asset_type": "PLAYER",
-    "team_name": "KOMPUTERS 'PUTIN'",
-    "display_name": "Isaiah Hartenstein",
-    "salary_value": 19.0,
-    "player_name": "Isaiah Hartenstein",
-    "player_id": "466.p.5856",
-    "sort_group": 0,
-    "sort_label": "isaiah hartenstein"
-  },
-  {
     "asset_id": "PLAYER::komputers__putin::kasparas_jakucionis",
     "asset_type": "PLAYER",
     "team_name": "KOMPUTERS 'PUTIN'",
@@ -1000,17 +979,6 @@
     "player_id": "",
     "sort_group": 0,
     "sort_label": "kasparas jakucionis"
-  },
-  {
-    "asset_id": "PLAYER::komputers__putin::lonzo_ball",
-    "asset_type": "PLAYER",
-    "team_name": "KOMPUTERS 'PUTIN'",
-    "display_name": "Lonzo Ball",
-    "salary_value": 5.0,
-    "player_name": "Lonzo Ball",
-    "player_id": "",
-    "sort_group": 0,
-    "sort_label": "lonzo ball"
   },
   {
     "asset_id": "PLAYER::komputers__putin::466.p.6014",
@@ -1080,18 +1048,6 @@
     "original_team_name": "KOMPUTERS 'PUTIN'",
     "sort_group": 1,
     "sort_label": "2027_1_komputers 'putin'"
-  },
-  {
-    "asset_id": "PICK::2027::2::466.l.7111.t.1",
-    "asset_type": "ROOKIE_PICK",
-    "team_name": "KOMPUTERS 'PUTIN'",
-    "display_name": "2027 2nd (KOMPUTERS 'PUTIN')",
-    "salary_value": 0.0,
-    "asset_year": 2027,
-    "round": 2,
-    "original_team_name": "KOMPUTERS 'PUTIN'",
-    "sort_group": 1,
-    "sort_label": "2027_2_komputers 'putin'"
   },
   {
     "asset_id": "PICK::2028::1::466.l.7111.t.1",
@@ -1214,28 +1170,6 @@
     "sort_label": "2032_2_komputers 'putin'"
   },
   {
-    "asset_id": "AMNESTY::2026::komputers__putin::1",
-    "asset_type": "AMNESTY",
-    "team_name": "KOMPUTERS 'PUTIN'",
-    "display_name": "2026 Amnesty 1",
-    "salary_value": 0.0,
-    "season": 2026,
-    "amnesty_slot": 1,
-    "sort_group": 2,
-    "sort_label": "2026_1"
-  },
-  {
-    "asset_id": "AMNESTY::2026::komputers__putin::2",
-    "asset_type": "AMNESTY",
-    "team_name": "KOMPUTERS 'PUTIN'",
-    "display_name": "2026 Amnesty 2",
-    "salary_value": 0.0,
-    "season": 2026,
-    "amnesty_slot": 2,
-    "sort_group": 2,
-    "sort_label": "2026_2"
-  },
-  {
     "asset_id": "PLAYER::machines::466.p.5161",
     "asset_type": "PLAYER",
     "team_name": "Machines",
@@ -1245,17 +1179,6 @@
     "player_id": "466.p.5161",
     "sort_group": 0,
     "sort_label": "cj mccollum"
-  },
-  {
-    "asset_id": "PLAYER::machines::466.p.10468",
-    "asset_type": "PLAYER",
-    "team_name": "Machines",
-    "display_name": "Cooper Flagg",
-    "salary_value": 10.0,
-    "player_name": "Cooper Flagg",
-    "player_id": "466.p.10468",
-    "sort_group": 0,
-    "sort_label": "cooper flagg"
   },
   {
     "asset_id": "PLAYER::machines::joan_beringer",
@@ -1278,17 +1201,6 @@
     "player_id": "466.p.5832",
     "sort_group": 0,
     "sort_label": "john collins"
-  },
-  {
-    "asset_id": "PLAYER::machines::466.p.10450",
-    "asset_type": "PLAYER",
-    "team_name": "Machines",
-    "display_name": "Kon Knueppel",
-    "salary_value": 7.0,
-    "player_name": "Kon Knueppel",
-    "player_id": "466.p.10450",
-    "sort_group": 0,
-    "sort_label": "kon knueppel"
   },
   {
     "asset_id": "PLAYER::machines::466.p.4840",
@@ -1344,50 +1256,6 @@
     "player_id": "466.p.6515",
     "sort_group": 0,
     "sort_label": "scottie barnes"
-  },
-  {
-    "asset_id": "PLAYER::machines::466.p.10290",
-    "asset_type": "PLAYER",
-    "team_name": "Machines",
-    "display_name": "Stephon Castle",
-    "salary_value": 12.0,
-    "player_name": "Stephon Castle",
-    "player_id": "466.p.10290",
-    "sort_group": 0,
-    "sort_label": "stephon castle"
-  },
-  {
-    "asset_id": "PLAYER::machines::466.p.10110",
-    "asset_type": "PLAYER",
-    "team_name": "Machines",
-    "display_name": "Taylor Hendricks",
-    "salary_value": 9.0,
-    "player_name": "Taylor Hendricks",
-    "player_id": "466.p.10110",
-    "sort_group": 0,
-    "sort_label": "taylor hendricks"
-  },
-  {
-    "asset_id": "PLAYER::machines::466.p.10289",
-    "asset_type": "PLAYER",
-    "team_name": "Machines",
-    "display_name": "Yves Missi",
-    "salary_value": 5.0,
-    "player_name": "Yves Missi",
-    "player_id": "466.p.10289",
-    "sort_group": 0,
-    "sort_label": "yves missi"
-  },
-  {
-    "asset_id": "PLAYER::machines::466.p.10287",
-    "asset_type": "PLAYER",
-    "team_name": "Machines",
-    "display_name": "Zach Edey",
-    "salary_value": 7.0,
-    "player_name": "Zach Edey",
-    "player_id": "466.p.10287",
-    "sort_group": 0,
-    "sort_label": "zach edey"
   },
   {
     "asset_id": "PICK::2026::1::466.l.7111.t.5",
@@ -1791,6 +1659,17 @@
     "sort_label": "2026_2"
   },
   {
+    "asset_id": "PLAYER::obi_stoppin___poppin::466.p.10468",
+    "asset_type": "PLAYER",
+    "team_name": "Obi Stoppin & Poppin",
+    "display_name": "Cooper Flagg",
+    "salary_value": 10.0,
+    "player_name": "Cooper Flagg",
+    "player_id": "466.p.10468",
+    "sort_group": 0,
+    "sort_label": "cooper flagg"
+  },
+  {
     "asset_id": "PLAYER::obi_stoppin___poppin::466.p.5958",
     "asset_type": "PLAYER",
     "team_name": "Obi Stoppin & Poppin",
@@ -1844,6 +1723,50 @@
     "player_id": "",
     "sort_group": 0,
     "sort_label": "khaman maluach"
+  },
+  {
+    "asset_id": "PLAYER::obi_stoppin___poppin::466.p.10450",
+    "asset_type": "PLAYER",
+    "team_name": "Obi Stoppin & Poppin",
+    "display_name": "Kon Knueppel",
+    "salary_value": 7.0,
+    "player_name": "Kon Knueppel",
+    "player_id": "466.p.10450",
+    "sort_group": 0,
+    "sort_label": "kon knueppel"
+  },
+  {
+    "asset_id": "PLAYER::obi_stoppin___poppin::466.p.10290",
+    "asset_type": "PLAYER",
+    "team_name": "Obi Stoppin & Poppin",
+    "display_name": "Stephon Castle",
+    "salary_value": 12.0,
+    "player_name": "Stephon Castle",
+    "player_id": "466.p.10290",
+    "sort_group": 0,
+    "sort_label": "stephon castle"
+  },
+  {
+    "asset_id": "PLAYER::obi_stoppin___poppin::466.p.10289",
+    "asset_type": "PLAYER",
+    "team_name": "Obi Stoppin & Poppin",
+    "display_name": "Yves Missi",
+    "salary_value": 5.0,
+    "player_name": "Yves Missi",
+    "player_id": "466.p.10289",
+    "sort_group": 0,
+    "sort_label": "yves missi"
+  },
+  {
+    "asset_id": "PLAYER::obi_stoppin___poppin::466.p.10287",
+    "asset_type": "PLAYER",
+    "team_name": "Obi Stoppin & Poppin",
+    "display_name": "Zach Edey",
+    "salary_value": 7.0,
+    "player_name": "Zach Edey",
+    "player_id": "466.p.10287",
+    "sort_group": 0,
+    "sort_label": "zach edey"
   },
   {
     "asset_id": "PICK::2026::1::466.l.7111.t.7",
@@ -2023,17 +1946,6 @@
     "amnesty_slot": 1,
     "sort_group": 2,
     "sort_label": "2026_1"
-  },
-  {
-    "asset_id": "AMNESTY::2026::obi_stoppin___poppin::2",
-    "asset_type": "AMNESTY",
-    "team_name": "Obi Stoppin & Poppin",
-    "display_name": "2026 Amnesty 2",
-    "salary_value": 0.0,
-    "season": 2026,
-    "amnesty_slot": 2,
-    "sort_group": 2,
-    "sort_label": "2026_2"
   },
   {
     "asset_id": "PLAYER::speedsters::466.p.6606",

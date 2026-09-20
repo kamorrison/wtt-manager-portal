@@ -1,7 +1,7 @@
 {
   "teams_found": 12,
   "current_league_year": 2026,
-  "active_players": 90,
+  "active_players": 87,
   "contract_rows": 90,
   "players_missing_team": 0,
   "players_missing_salary": 0,
@@ -109,8 +109,8 @@
   "current_season_pick_asset_rows": 24,
   "future_pick_asset_rows": 144,
   "past_pick_asset_rows": 120,
-  "active_current_exception_rows": 13,
-  "archived_prior_exception_rows": 94,
+  "active_current_exception_rows": 8,
+  "archived_prior_exception_rows": 104,
   "future_exception_rows": 0,
   "g_league_eligibility_warnings": 0,
   "amnesty_reset_warnings": [],
@@ -169,5 +169,5 @@
     "G-League duplicated in RFA: Matas Buzelis",
     "G-League duplicated in RFA: Kel'el Ware"
   ],
-  "last_generated_timestamp": "2026-09-18T16:49:51.638366"
+  "last_generated_timestamp": "2026-09-19T20:20:56.758772"
 }

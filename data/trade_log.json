@@ -2119,5 +2119,26 @@
     "team_4_salary_change": "",
     "commissioner_approved_date": "",
     "notes": "Manual Yahoo workaround for IL-locked player"
+  },
+  {
+    "trade_number": "6.1",
+    "trade_season_key": "6",
+    "trade_season_label": "Season 6",
+    "trade_date": "9/19/2026",
+    "trade_date_iso": "2026-09-19",
+    "team_1_name": "KOMPUTERS 'PUTIN'",
+    "team_2_name": "Crossover king",
+    "team_3_name": "",
+    "team_4_name": "",
+    "team_1_receives": "Crossover king 2026 Amnesty 1; Crossover king 2026 Amnesty 2",
+    "team_1_salary_change": "$0",
+    "team_2_receives": "KOMPUTERS 'PUTIN' 2027 Second; KOMPUTERS 'PUTIN' 2027 Amnesty",
+    "team_2_salary_change": "$0",
+    "team_3_receives": "",
+    "team_3_salary_change": "",
+    "team_4_receives": "",
+    "team_4_salary_change": "",
+    "commissioner_approved_date": "2026-09-19",
+    "notes": "Commissioner-confirmed amnesty and future-second exchange."
   }
 ]
