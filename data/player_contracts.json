@@ -652,19 +652,19 @@
     "rookie_salary_pct": "",
     "rookie_salary_source": "",
     "current_salary": "25",
-    "salary_used": "25",
+    "salary_used": "0",
     "contract_years_remaining": "1",
     "original_contract_length": "2",
     "contract_start_year": "2024",
     "contract_end_year": "2026",
-    "inactive_flag": "N",
+    "inactive_flag": "Y",
     "disabled_exception_flag": "N",
-    "released_flag": "N",
-    "amnesty_flag": "N",
+    "released_flag": "Y",
+    "amnesty_flag": "Y",
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "51",
-    "notes": "=IF($H51=\"Y\",0,C51)"
+    "notes": "Amnestied in 2026 season"
   },
   {
     "season": "2026",
@@ -838,7 +838,7 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "68",
-    "notes": "Amnestied on 2026-09-19"
+    "notes": "Amnestied in 2026 season"
   },
   {
     "season": "2026",
@@ -1708,7 +1708,7 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "119",
-    "notes": "Amnestied on 2026-09-19"
+    "notes": "Amnestied in 2026 season"
   },
   {
     "season": "2026",
@@ -2056,7 +2056,7 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "146",
-    "notes": "Amnestied on 2026-09-19"
+    "notes": "Amnestied in 2026 season"
   },
   {
     "season": "2026",

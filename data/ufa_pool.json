@@ -42,6 +42,12 @@
     "average_pick": 79.8
   },
   {
+    "player_name": "Amen Thompson",
+    "position": "PG,SG,G,SF,F,Util",
+    "average_rank": 16,
+    "average_pick": 22.5
+  },
+  {
     "player_name": "Trey Murphy III",
     "position": "SG,G,SF,PF,F,Util,IL+",
     "average_rank": 17,
@@ -180,6 +186,12 @@
     "average_pick": 14.4
   },
   {
+    "player_name": "Kyle Filipowski",
+    "position": "PF,F,C,Util,IL+",
+    "average_rank": 87,
+    "average_pick": 125.8
+  },
+  {
     "player_name": "Mark Williams",
     "position": "C,Util,IL+",
     "average_rank": 88,
@@ -300,6 +312,12 @@
     "average_pick": 109.6
   },
   {
+    "player_name": "Bilal Coulibaly",
+    "position": "SG,G,SF,F,Util,IL+",
+    "average_rank": 165,
+    "average_pick": 126.5
+  },
+  {
     "player_name": "P.J. Washington",
     "position": "SF,PF,F,C,Util,IL+",
     "average_rank": 170,
@@ -408,6 +426,12 @@
     "average_pick": 10.1
   },
   {
+    "player_name": "Drake Powell",
+    "position": "SG,G,Util",
+    "average_rank": 305,
+    "average_pick": null
+  },
+  {
     "player_name": "Domantas Sabonis",
     "position": "PF,F,C,Util,IL+",
     "average_rank": 344,
@@ -418,6 +442,12 @@
     "position": "PG,G,Util,IL+",
     "average_rank": 348,
     "average_pick": 42.7
+  },
+  {
+    "player_name": "Tidjane Salaun",
+    "position": "PF,F,Util",
+    "average_rank": 358,
+    "average_pick": null
   },
   {
     "player_name": "Cameron Payne",
@@ -436,6 +466,18 @@
     "position": "SF,PF,F,Util,IL+",
     "average_rank": 418,
     "average_pick": 130.1
+  },
+  {
+    "player_name": "Dillon Jones",
+    "position": "SF,PF,F,Util",
+    "average_rank": 528,
+    "average_pick": null
+  },
+  {
+    "player_name": "Nikola Topic",
+    "position": "PG,G,Util",
+    "average_rank": 531,
+    "average_pick": null
   },
   {
     "player_name": "Malik Beasley",

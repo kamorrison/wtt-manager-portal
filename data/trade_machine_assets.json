@@ -1670,17 +1670,6 @@
     "sort_label": "cooper flagg"
   },
   {
-    "asset_id": "PLAYER::obi_stoppin___poppin::466.p.5958",
-    "asset_type": "PLAYER",
-    "team_name": "Obi Stoppin & Poppin",
-    "display_name": "Deandre Ayton",
-    "salary_value": 25.0,
-    "player_name": "Deandre Ayton",
-    "player_id": "466.p.5958",
-    "sort_group": 0,
-    "sort_label": "deandre ayton"
-  },
-  {
     "asset_id": "PLAYER::obi_stoppin___poppin::466.p.6695",
     "asset_type": "PLAYER",
     "team_name": "Obi Stoppin & Poppin",
@@ -1935,17 +1924,6 @@
     "original_team_name": "Obi Stoppin & Poppin",
     "sort_group": 1,
     "sort_label": "2032_2_obi stoppin & poppin"
-  },
-  {
-    "asset_id": "AMNESTY::2026::obi_stoppin___poppin::1",
-    "asset_type": "AMNESTY",
-    "team_name": "Obi Stoppin & Poppin",
-    "display_name": "2026 Amnesty 1",
-    "salary_value": 0.0,
-    "season": 2026,
-    "amnesty_slot": 1,
-    "sort_group": 2,
-    "sort_label": "2026_1"
   },
   {
     "asset_id": "PLAYER::speedsters::466.p.6606",

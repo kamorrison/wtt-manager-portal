@@ -457,7 +457,7 @@
     "salary_2031": "0",
     "expires_after_year": "2026",
     "becomes_free_agent_type": "UFA",
-    "notes": "=IF($H51=\"Y\",0,C51)"
+    "notes": "Amnestied in 2026 season"
   },
   {
     "team_id": "466.l.7111.t.5",
@@ -577,7 +577,7 @@
     "salary_2031": "0",
     "expires_after_year": "2026",
     "becomes_free_agent_type": "UFA",
-    "notes": "Amnestied on 2026-09-19"
+    "notes": "Amnestied in 2026 season"
   },
   {
     "team_id": "466.l.7111.t.5",
@@ -1177,7 +1177,7 @@
     "salary_2031": "0",
     "expires_after_year": "2026",
     "becomes_free_agent_type": "RFA",
-    "notes": "Amnestied on 2026-09-19"
+    "notes": "Amnestied in 2026 season"
   },
   {
     "team_id": "466.l.7111.t.5",
@@ -1417,7 +1417,7 @@
     "salary_2031": "0",
     "expires_after_year": "2026",
     "becomes_free_agent_type": "UFA",
-    "notes": "Amnestied on 2026-09-19"
+    "notes": "Amnestied in 2026 season"
   },
   {
     "team_id": "466.l.7111.t.2",
