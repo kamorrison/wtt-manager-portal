@@ -104,14 +104,14 @@
     "winning_bidder_team_name": "SteveBlakeExpress",
     "winning_offer_salary": "5",
     "winning_offer_years": "3",
-    "decision": "RIGHTS_TRADED",
+    "decision": "RIGHTS_TRADED_FINALIZED",
     "final_team_id": "466.l.7111.t.9",
     "final_team_name": "SteveBlakeExpress",
-    "final_salary": "",
-    "final_years": "",
-    "rfa_cap_status": "RIGHTS_TRADED",
-    "transaction_status": "RIGHTS_ONLY",
-    "notes": "Rights traded before RFA contract activation; no current cap charge"
+    "final_salary": "5",
+    "final_years": "3",
+    "rfa_cap_status": "PENDING_ACTIVATION",
+    "transaction_status": "COMPLETE",
+    "notes": "RFA rights traded, then final contract recorded; excluded from current UFA cap until activation"
   },
   {
     "season": "2026",
@@ -123,14 +123,14 @@
     "winning_bidder_team_name": "SteveBlakeExpress",
     "winning_offer_salary": "4",
     "winning_offer_years": "2",
-    "decision": "RIGHTS_TRADED",
+    "decision": "RIGHTS_TRADED_FINALIZED",
     "final_team_id": "466.l.7111.t.9",
     "final_team_name": "SteveBlakeExpress",
-    "final_salary": "",
-    "final_years": "",
-    "rfa_cap_status": "RIGHTS_TRADED",
-    "transaction_status": "RIGHTS_ONLY",
-    "notes": "Rights traded before RFA contract activation; no current cap charge"
+    "final_salary": "4",
+    "final_years": "2",
+    "rfa_cap_status": "PENDING_ACTIVATION",
+    "transaction_status": "COMPLETE",
+    "notes": "RFA rights traded, then final contract recorded; excluded from current UFA cap until activation"
   },
   {
     "season": "2026",
@@ -256,14 +256,14 @@
     "winning_bidder_team_name": "NYK FTW ∆",
     "winning_offer_salary": "35",
     "winning_offer_years": "3",
-    "decision": "RIGHTS_TRADED",
+    "decision": "RIGHTS_TRADED_FINALIZED",
     "final_team_id": "466.l.7111.t.6",
     "final_team_name": "NYK FTW ∆",
-    "final_salary": "",
-    "final_years": "",
-    "rfa_cap_status": "RIGHTS_TRADED",
-    "transaction_status": "RIGHTS_ONLY",
-    "notes": "Rights traded before RFA contract activation; no current cap charge"
+    "final_salary": "35",
+    "final_years": "3",
+    "rfa_cap_status": "PENDING_ACTIVATION",
+    "transaction_status": "COMPLETE",
+    "notes": "RFA rights traded, then final contract recorded; excluded from current UFA cap until activation"
   },
   {
     "season": "2026",

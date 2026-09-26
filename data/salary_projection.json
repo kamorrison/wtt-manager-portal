@@ -1817,7 +1817,7 @@
     "salary_2031": "0",
     "expires_after_year": "2029",
     "becomes_free_agent_type": "UFA",
-    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation"
+    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from current UFA cap until activation"
   },
   {
     "team_id": "466.l.7111.t.1",
@@ -1837,7 +1837,7 @@
     "salary_2031": "0",
     "expires_after_year": "2029",
     "becomes_free_agent_type": "UFA",
-    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation"
+    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from current UFA cap until activation"
   },
   {
     "team_id": "466.l.7111.t.6",
@@ -1877,7 +1877,7 @@
     "salary_2031": "0",
     "expires_after_year": "2028",
     "becomes_free_agent_type": "UFA",
-    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation"
+    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from current UFA cap until activation"
   },
   {
     "team_id": "466.l.7111.t.8",
@@ -1900,6 +1900,46 @@
     "notes": "RFA rights renounced by tbach24; counts against current UFA cap"
   },
   {
+    "team_id": "466.l.7111.t.9",
+    "team_name": "SteveBlakeExpress",
+    "player_id": "466.p.10496",
+    "player_name": "Maxime Raynaud",
+    "contract_class": "RFA",
+    "rookie_contract_designation": "",
+    "contract_type": "RFA_RIGHTS_TRADE",
+    "start_salary": "5.0",
+    "years_remaining_entering_2026": "3",
+    "salary_2026": "5.0",
+    "salary_2027": "7.0",
+    "salary_2028": "9.0",
+    "salary_2029": "0.0",
+    "salary_2030": "0",
+    "salary_2031": "0",
+    "expires_after_year": "2028",
+    "becomes_free_agent_type": "UFA",
+    "notes": "RFA rights traded, then final contract recorded; excluded from current UFA cap until activation; excluded from current UFA cap until activation"
+  },
+  {
+    "team_id": "466.l.7111.t.9",
+    "team_name": "SteveBlakeExpress",
+    "player_id": "466.p.6733",
+    "player_name": "Moussa Diabate",
+    "contract_class": "RFA",
+    "rookie_contract_designation": "",
+    "contract_type": "RFA_RIGHTS_TRADE",
+    "start_salary": "4.0",
+    "years_remaining_entering_2026": "2",
+    "salary_2026": "4.0",
+    "salary_2027": "6.0",
+    "salary_2028": "0.0",
+    "salary_2029": "0.0",
+    "salary_2030": "0",
+    "salary_2031": "0",
+    "expires_after_year": "2027",
+    "becomes_free_agent_type": "UFA",
+    "notes": "RFA rights traded, then final contract recorded; excluded from current UFA cap until activation; excluded from current UFA cap until activation"
+  },
+  {
     "team_id": "466.l.7111.t.6",
     "team_name": "NYK FTW ∆",
     "player_id": "466.p.6212",
@@ -1917,7 +1957,7 @@
     "salary_2031": "0",
     "expires_after_year": "2027",
     "becomes_free_agent_type": "UFA",
-    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation"
+    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from current UFA cap until activation"
   },
   {
     "team_id": "466.l.7111.t.5",
@@ -1977,7 +2017,7 @@
     "salary_2031": "0",
     "expires_after_year": "2026",
     "becomes_free_agent_type": "UFA",
-    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation"
+    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from current UFA cap until activation"
   },
   {
     "team_id": "466.l.7111.t.7",
@@ -1997,7 +2037,7 @@
     "salary_2031": "0",
     "expires_after_year": "2029",
     "becomes_free_agent_type": "UFA",
-    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation"
+    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from current UFA cap until activation"
   },
   {
     "team_id": "466.l.7111.t.6",
@@ -2020,6 +2060,26 @@
     "notes": "Commissioner-recorded completed 2026 RFA result; counts against current UFA cap"
   },
   {
+    "team_id": "466.l.7111.t.6",
+    "team_name": "NYK FTW ∆",
+    "player_id": "466.p.10285",
+    "player_name": "Donovan Clingan",
+    "contract_class": "RFA",
+    "rookie_contract_designation": "",
+    "contract_type": "RFA_RIGHTS_TRADE",
+    "start_salary": "35.0",
+    "years_remaining_entering_2026": "3",
+    "salary_2026": "35.0",
+    "salary_2027": "38.0",
+    "salary_2028": "41.0",
+    "salary_2029": "0.0",
+    "salary_2030": "0",
+    "salary_2031": "0",
+    "expires_after_year": "2028",
+    "becomes_free_agent_type": "UFA",
+    "notes": "RFA rights traded, then final contract recorded; excluded from current UFA cap until activation; excluded from current UFA cap until activation"
+  },
+  {
     "team_id": "466.l.7111.t.5",
     "team_name": "Machines",
     "player_id": "466.p.10265",
@@ -2037,7 +2097,7 @@
     "salary_2031": "0",
     "expires_after_year": "2029",
     "becomes_free_agent_type": "UFA",
-    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation"
+    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from current UFA cap until activation"
   },
   {
     "team_id": "466.l.7111.t.5",
@@ -2057,7 +2117,7 @@
     "salary_2031": "0",
     "expires_after_year": "2029",
     "becomes_free_agent_type": "UFA",
-    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation"
+    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from current UFA cap until activation"
   },
   {
     "team_id": "466.l.7111.t.10",

@@ -1547,6 +1547,17 @@
     "sort_label": "devin booker"
   },
   {
+    "asset_id": "PLAYER::nyk_ftw_delta::466.p.10285",
+    "asset_type": "PLAYER",
+    "team_name": "NYK FTW ∆",
+    "display_name": "Donovan Clingan",
+    "salary_value": 35.0,
+    "player_name": "Donovan Clingan",
+    "player_id": "466.p.10285",
+    "sort_group": 0,
+    "sort_label": "donovan clingan"
+  },
+  {
     "asset_id": "PLAYER::nyk_ftw_delta::466.p.5638",
     "asset_type": "PLAYER",
     "team_name": "NYK FTW ∆",
@@ -2344,6 +2355,28 @@
     "player_id": "466.p.10467",
     "sort_group": 0,
     "sort_label": "dylan harper"
+  },
+  {
+    "asset_id": "PLAYER::steveblakeexpress::466.p.10496",
+    "asset_type": "PLAYER",
+    "team_name": "SteveBlakeExpress",
+    "display_name": "Maxime Raynaud",
+    "salary_value": 5.0,
+    "player_name": "Maxime Raynaud",
+    "player_id": "466.p.10496",
+    "sort_group": 0,
+    "sort_label": "maxime raynaud"
+  },
+  {
+    "asset_id": "PLAYER::steveblakeexpress::466.p.6733",
+    "asset_type": "PLAYER",
+    "team_name": "SteveBlakeExpress",
+    "display_name": "Moussa Diabate",
+    "salary_value": 4.0,
+    "player_name": "Moussa Diabate",
+    "player_id": "466.p.6733",
+    "sort_group": 0,
+    "sort_label": "moussa diabate"
   },
   {
     "asset_id": "PLAYER::steveblakeexpress::466.p.6707",
