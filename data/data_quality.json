@@ -1,8 +1,8 @@
 {
   "teams_found": 12,
   "current_league_year": 2026,
-  "active_players": 86,
-  "contract_rows": 90,
+  "active_players": 103,
+  "contract_rows": 107,
   "players_missing_team": 0,
   "players_missing_salary": 0,
   "players_missing_years": 0,
@@ -13,19 +13,19 @@
   "teams_over_hard_cap": [],
   "rfa_rights_count_by_team": {
     "CG Paper": 3,
-    "Crossover king": 7,
-    "James42": 3,
-    "KOMPUTERS 'PUTIN'": 8,
-    "Machines": 6,
-    "NYK FTW ∆": 9,
-    "Obi Stoppin & Poppin": 4,
-    "Speedsters": 9,
-    "SteveBlakeExpress": 5,
-    "tbach24": 6,
-    "Terror Squad": 8,
+    "Crossover king": 6,
+    "James42": 2,
+    "KOMPUTERS 'PUTIN'": 6,
+    "Machines": 4,
+    "NYK FTW ∆": 6,
+    "Obi Stoppin & Poppin": 1,
+    "Speedsters": 7,
+    "SteveBlakeExpress": 4,
+    "tbach24": 4,
+    "Terror Squad": 7,
     "TheBoogieDowns": 4
   },
-  "rfa_rights_rows": 72,
+  "rfa_rights_rows": 54,
   "rfa_rights_rows_final": 88,
   "rfa_excluded_candidate_rows": 211,
   "rfa_exclusion_reasons": {
@@ -131,10 +131,10 @@
   },
   "rows_imported_by_tab": {
     "teams": 12,
-    "players": 90,
-    "rfa_rights": 72,
-    "free_agent_pool": 169,
-    "salary_projection": 90,
+    "players": 107,
+    "rfa_rights": 54,
+    "free_agent_pool": 151,
+    "salary_projection": 107,
     "pick_assets": 288,
     "g_league": 34,
     "rookie_lottery_assignments": 24,
@@ -154,7 +154,7 @@
   "validation_status": "WARNING",
   "critical_error_count": 0,
   "warning_count": 3,
-  "manual_review_count": 4,
+  "manual_review_count": 2,
   "build_workbook_allowed": true,
   "public_badge": "WARNING",
   "status_note": "Unofficial / pending commissioner validation.",
@@ -166,9 +166,7 @@
   ],
   "manual_review": [
     "Expired rookie missing RFA rights: noa essengue",
-    "G-League duplicated in RFA: Will Riley",
-    "G-League duplicated in RFA: Matas Buzelis",
-    "G-League duplicated in RFA: Kel'el Ware"
+    "G-League duplicated in RFA: Will Riley"
   ],
-  "last_generated_timestamp": "2026-09-23T06:30:52.014491"
+  "last_generated_timestamp": "2026-09-26T19:06:18.448899"
 }

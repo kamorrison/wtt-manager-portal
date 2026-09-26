@@ -26,7 +26,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "2",
-    "notes": "=IF($H2=\"Y\",0,C2)"
+    "notes": "=IF($H2=\"Y\",0,C2)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -55,7 +59,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "3",
-    "notes": "=IF($H3=\"Y\",0,C3)"
+    "notes": "=IF($H3=\"Y\",0,C3)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -84,7 +92,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "4",
-    "notes": "=IF($H4=\"Y\",0,C4)"
+    "notes": "=IF($H4=\"Y\",0,C4)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -113,7 +125,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "6",
-    "notes": "=IF($H6=\"Y\",0,C6)"
+    "notes": "=IF($H6=\"Y\",0,C6)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -142,7 +158,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "7",
-    "notes": "=IF($H7=\"Y\",0,C7)"
+    "notes": "=IF($H7=\"Y\",0,C7)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -171,7 +191,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "10",
-    "notes": "Updated from 2026-02-19 trade"
+    "notes": "Updated from 2026-02-19 trade",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -200,7 +224,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "11",
-    "notes": "=IF($H11=\"Y\",0,C11)"
+    "notes": "=IF($H11=\"Y\",0,C11)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -229,7 +257,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "13",
-    "notes": "=IF($H13=\"Y\",0,C13)"
+    "notes": "=IF($H13=\"Y\",0,C13)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -258,7 +290,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "15",
-    "notes": "=IF($H15=\"Y\",0,C15)"
+    "notes": "=IF($H15=\"Y\",0,C15)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -287,7 +323,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "21",
-    "notes": "=IF($H21=\"Y\",0,C21)"
+    "notes": "=IF($H21=\"Y\",0,C21)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -316,7 +356,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "22",
-    "notes": "=IF($H22=\"Y\",0,C22)"
+    "notes": "=IF($H22=\"Y\",0,C22)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -345,7 +389,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "23",
-    "notes": "=IF($H23=\"Y\",0,C23)"
+    "notes": "=IF($H23=\"Y\",0,C23)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -374,7 +422,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "24",
-    "notes": "=IF($H24=\"Y\",0,C24)"
+    "notes": "=IF($H24=\"Y\",0,C24)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -403,7 +455,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "25",
-    "notes": "=IF($H25=\"Y\",0,C25)"
+    "notes": "=IF($H25=\"Y\",0,C25)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -432,7 +488,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "30",
-    "notes": "=IF($H30=\"Y\",0,C30)"
+    "notes": "=IF($H30=\"Y\",0,C30)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -461,7 +521,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "34",
-    "notes": "=IF($H34=\"Y\",0,C34)"
+    "notes": "=IF($H34=\"Y\",0,C34)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -490,7 +554,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "35",
-    "notes": "=IF($H35=\"Y\",0,C35)"
+    "notes": "=IF($H35=\"Y\",0,C35)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -519,7 +587,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "36",
-    "notes": "=IF($H36=\"Y\",0,C36)"
+    "notes": "=IF($H36=\"Y\",0,C36)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -548,7 +620,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "38",
-    "notes": "=IF($H38=\"Y\",0,C38)"
+    "notes": "=IF($H38=\"Y\",0,C38)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -577,7 +653,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "43",
-    "notes": "=IF($H43=\"Y\",0,C43)"
+    "notes": "=IF($H43=\"Y\",0,C43)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -606,7 +686,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "44",
-    "notes": "=IF($H44=\"Y\",0,C44)"
+    "notes": "=IF($H44=\"Y\",0,C44)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -635,7 +719,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "50",
-    "notes": "=IF($H50=\"Y\",0,C50)"
+    "notes": "=IF($H50=\"Y\",0,C50)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -664,7 +752,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "51",
-    "notes": "Amnestied in 2026 season"
+    "notes": "Amnestied in 2026 season",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -693,7 +785,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "57",
-    "notes": "=IF($H57=\"Y\",0,C57)"
+    "notes": "=IF($H57=\"Y\",0,C57)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -722,7 +818,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "58",
-    "notes": "=IF($H58=\"Y\",0,C58)"
+    "notes": "=IF($H58=\"Y\",0,C58)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -751,7 +851,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "59",
-    "notes": "=IF($H59=\"Y\",0,C59)"
+    "notes": "=IF($H59=\"Y\",0,C59)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -780,7 +884,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "60",
-    "notes": "=IF($H60=\"Y\",0,C60)"
+    "notes": "=IF($H60=\"Y\",0,C60)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -809,7 +917,11 @@
     "g_league_flag": "Y",
     "source_sheet": "Players",
     "source_row": "61",
-    "notes": "=IF($H61=\"Y\",0,C61)"
+    "notes": "=IF($H61=\"Y\",0,C61)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -838,7 +950,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "68",
-    "notes": "Amnestied in 2026 season"
+    "notes": "Amnestied in 2026 season",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -867,7 +983,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "69",
-    "notes": "=IF($H69=\"Y\",0,C69)"
+    "notes": "=IF($H69=\"Y\",0,C69)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -896,7 +1016,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "70",
-    "notes": "=IF($H70=\"Y\",0,C70)"
+    "notes": "=IF($H70=\"Y\",0,C70)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -925,7 +1049,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "71",
-    "notes": "Commissioner correction"
+    "notes": "Commissioner correction",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -954,7 +1082,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "73",
-    "notes": "=IF($H73=\"Y\",0,C73)"
+    "notes": "=IF($H73=\"Y\",0,C73)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -983,7 +1115,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "76",
-    "notes": "=IF($H76=\"Y\",0,C76)"
+    "notes": "=IF($H76=\"Y\",0,C76)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1012,7 +1148,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "81",
-    "notes": "=IF($H81=\"Y\",0,C81)"
+    "notes": "=IF($H81=\"Y\",0,C81)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1041,7 +1181,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "82",
-    "notes": "=IF($H82=\"Y\",0,C82)"
+    "notes": "=IF($H82=\"Y\",0,C82)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1070,7 +1214,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "83",
-    "notes": "=IF($H83=\"Y\",0,C83)"
+    "notes": "=IF($H83=\"Y\",0,C83)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1099,7 +1247,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "84",
-    "notes": "=IF($H84=\"Y\",0,C84)"
+    "notes": "=IF($H84=\"Y\",0,C84)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1128,7 +1280,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "85",
-    "notes": "Commissioner correction"
+    "notes": "Commissioner correction",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1157,7 +1313,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "87",
-    "notes": "Commissioner correction"
+    "notes": "Commissioner correction",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1186,7 +1346,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "89",
-    "notes": "=IF($H89=\"Y\",0,C89)"
+    "notes": "=IF($H89=\"Y\",0,C89)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1215,7 +1379,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "92",
-    "notes": "Commissioner correction"
+    "notes": "Commissioner correction",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1244,7 +1412,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "93",
-    "notes": "Verified final Yahoo roster; commissioner correction"
+    "notes": "Verified final Yahoo roster; commissioner correction",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1273,7 +1445,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "94",
-    "notes": "Commissioner correction"
+    "notes": "Commissioner correction",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1302,7 +1478,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "97",
-    "notes": "Verified final Yahoo roster; commissioner correction"
+    "notes": "Verified final Yahoo roster; commissioner correction",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1331,7 +1511,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "98",
-    "notes": "=IF($H98=\"Y\",0,C98)"
+    "notes": "=IF($H98=\"Y\",0,C98)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1360,7 +1544,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "99",
-    "notes": "=IF($H99=\"Y\",0,C99)"
+    "notes": "=IF($H99=\"Y\",0,C99)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1389,7 +1577,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "101",
-    "notes": "=IF($H101=\"Y\",0,C101)"
+    "notes": "=IF($H101=\"Y\",0,C101)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1418,7 +1610,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "104",
-    "notes": "=IF($H104=\"Y\",0,C104)"
+    "notes": "=IF($H104=\"Y\",0,C104)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1447,7 +1643,11 @@
     "g_league_flag": "Y",
     "source_sheet": "Players",
     "source_row": "105",
-    "notes": "Commissioner correction"
+    "notes": "Commissioner correction",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1476,7 +1676,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "106",
-    "notes": "=IF($H106=\"Y\",0,C106)"
+    "notes": "=IF($H106=\"Y\",0,C106)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1505,7 +1709,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "108",
-    "notes": "=IF($H108=\"Y\",0,C108)"
+    "notes": "=IF($H108=\"Y\",0,C108)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1534,7 +1742,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "109",
-    "notes": "=IF($H109=\"Y\",0,C109)"
+    "notes": "=IF($H109=\"Y\",0,C109)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1563,7 +1775,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "110",
-    "notes": "=IF($H110=\"Y\",0,C110)"
+    "notes": "=IF($H110=\"Y\",0,C110)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1592,7 +1808,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "111",
-    "notes": "=IF($H111=\"Y\",0,C111)"
+    "notes": "=IF($H111=\"Y\",0,C111)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1621,7 +1841,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "113",
-    "notes": "Verified final Yahoo roster; commissioner correction"
+    "notes": "Verified final Yahoo roster; commissioner correction",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1650,7 +1874,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "114",
-    "notes": "Commissioner correction"
+    "notes": "Commissioner correction",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1679,7 +1907,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "115",
-    "notes": "=IF($H115=\"Y\",0,C115)"
+    "notes": "=IF($H115=\"Y\",0,C115)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1708,7 +1940,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "119",
-    "notes": "Amnestied in 2026 season"
+    "notes": "Amnestied in 2026 season",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1737,7 +1973,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "123",
-    "notes": "=IF($H123=\"Y\",0,C123)"
+    "notes": "=IF($H123=\"Y\",0,C123)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1766,7 +2006,11 @@
     "g_league_flag": "Y",
     "source_sheet": "Players",
     "source_row": "128",
-    "notes": "=IF($H128=\"Y\",0,C128)"
+    "notes": "=IF($H128=\"Y\",0,C128)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1795,7 +2039,11 @@
     "g_league_flag": "Y",
     "source_sheet": "Players",
     "source_row": "129",
-    "notes": "=IF($H129=\"Y\",0,C129)"
+    "notes": "=IF($H129=\"Y\",0,C129)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1824,7 +2072,11 @@
     "g_league_flag": "Y",
     "source_sheet": "Players",
     "source_row": "130",
-    "notes": "=IF($H130=\"Y\",0,C130)"
+    "notes": "=IF($H130=\"Y\",0,C130)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1853,7 +2105,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "131",
-    "notes": "=IF($H131=\"Y\",0,C131)"
+    "notes": "=IF($H131=\"Y\",0,C131)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1882,7 +2138,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "136",
-    "notes": "Verified final Yahoo roster; commissioner correction"
+    "notes": "Verified final Yahoo roster; commissioner correction",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1911,7 +2171,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "138",
-    "notes": "=IF($H138=\"Y\",0,C138)"
+    "notes": "=IF($H138=\"Y\",0,C138)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1940,7 +2204,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "139",
-    "notes": "Commissioner correction"
+    "notes": "Commissioner correction",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1969,7 +2237,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "141",
-    "notes": "=IF($H141=\"Y\",0,C141)"
+    "notes": "=IF($H141=\"Y\",0,C141)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -1998,7 +2270,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "142",
-    "notes": "=IF($H142=\"Y\",0,C142)"
+    "notes": "=IF($H142=\"Y\",0,C142)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -2027,7 +2303,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "143",
-    "notes": "Verified final Yahoo roster; commissioner correction"
+    "notes": "Verified final Yahoo roster; commissioner correction",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -2056,7 +2336,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "146",
-    "notes": "Amnestied in 2026 season"
+    "notes": "Amnestied in 2026 season",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -2085,7 +2369,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "148",
-    "notes": "Commissioner correction"
+    "notes": "Commissioner correction",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -2114,7 +2402,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "150",
-    "notes": "=IF($H150=\"Y\",0,C150)"
+    "notes": "=IF($H150=\"Y\",0,C150)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -2143,7 +2435,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "156",
-    "notes": "=IF($H156=\"Y\",0,C156)"
+    "notes": "=IF($H156=\"Y\",0,C156)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -2172,7 +2468,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "158",
-    "notes": "Commissioner correction"
+    "notes": "Commissioner correction",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -2201,7 +2501,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "159",
-    "notes": "Commissioner correction"
+    "notes": "Commissioner correction",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -2230,7 +2534,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "161",
-    "notes": "Commissioner correction"
+    "notes": "Commissioner correction",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -2259,7 +2567,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "163",
-    "notes": "Commissioner correction"
+    "notes": "Commissioner correction",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -2288,7 +2600,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "164",
-    "notes": "Commissioner correction"
+    "notes": "Commissioner correction",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -2317,7 +2633,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "165",
-    "notes": "Commissioner correction"
+    "notes": "Commissioner correction",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -2346,7 +2666,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "166",
-    "notes": "Commissioner correction"
+    "notes": "Commissioner correction",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -2375,7 +2699,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "173",
-    "notes": "=IF($H173=\"Y\",0,C173)"
+    "notes": "=IF($H173=\"Y\",0,C173)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -2404,7 +2732,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "174",
-    "notes": "=IF($H174=\"Y\",0,C174)"
+    "notes": "=IF($H174=\"Y\",0,C174)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -2433,7 +2765,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "175",
-    "notes": "=IF($H175=\"Y\",0,C175)"
+    "notes": "=IF($H175=\"Y\",0,C175)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -2462,7 +2798,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "177",
-    "notes": "=IF($H177=\"Y\",0,C177)"
+    "notes": "=IF($H177=\"Y\",0,C177)",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -2491,7 +2831,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "112",
-    "notes": "Commissioner correction"
+    "notes": "Commissioner correction",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -2520,7 +2864,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "154",
-    "notes": "Commissioner correction"
+    "notes": "Commissioner correction",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -2549,7 +2897,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "169",
-    "notes": "Commissioner correction"
+    "notes": "Commissioner correction",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -2578,7 +2930,11 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "162",
-    "notes": "Updated from 2026-02-19 trade"
+    "notes": "Updated from 2026-02-19 trade",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
   },
   {
     "season": "2026",
@@ -2607,6 +2963,571 @@
     "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "160",
-    "notes": "Commissioner correction"
+    "notes": "Commissioner correction",
+    "rfa_status": "",
+    "rfa_cap_status": "",
+    "rfa_winning_bidder_team_name": "",
+    "acquisition_type": ""
+  },
+  {
+    "season": "2026",
+    "team_id": "466.l.7111.t.1",
+    "team_name": "KOMPUTERS 'PUTIN'",
+    "player_id": "466.p.6562",
+    "player_name": "Jalen Johnson",
+    "contract_class": "RFA",
+    "contract_type": "RFA_MATCHED",
+    "rookie_contract_designation": "",
+    "rookie_draft_year": "",
+    "rookie_draft_round": "",
+    "rookie_draft_pick": "",
+    "rookie_salary_pct": "",
+    "rookie_salary_source": "",
+    "current_salary": "39",
+    "salary_used": "0",
+    "contract_years_remaining": "4",
+    "original_contract_length": "4",
+    "contract_start_year": "2026",
+    "contract_end_year": "2029",
+    "inactive_flag": "N",
+    "disabled_exception_flag": "N",
+    "released_flag": "N",
+    "amnesty_flag": "N",
+    "g_league_flag": "N",
+    "source_sheet": "2026 RFA Results",
+    "source_row": "RFA_2026_01",
+    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation",
+    "rfa_status": "matched",
+    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_winning_bidder_team_name": "tbach24",
+    "acquisition_type": "RFA Match"
+  },
+  {
+    "season": "2026",
+    "team_id": "466.l.7111.t.1",
+    "team_name": "KOMPUTERS 'PUTIN'",
+    "player_id": "466.p.10304",
+    "player_name": "Ajay Mitchell",
+    "contract_class": "RFA",
+    "contract_type": "RFA_MATCHED",
+    "rookie_contract_designation": "",
+    "rookie_draft_year": "",
+    "rookie_draft_round": "",
+    "rookie_draft_pick": "",
+    "rookie_salary_pct": "",
+    "rookie_salary_source": "",
+    "current_salary": "6",
+    "salary_used": "0",
+    "contract_years_remaining": "4",
+    "original_contract_length": "4",
+    "contract_start_year": "2026",
+    "contract_end_year": "2029",
+    "inactive_flag": "N",
+    "disabled_exception_flag": "N",
+    "released_flag": "N",
+    "amnesty_flag": "N",
+    "g_league_flag": "N",
+    "source_sheet": "2026 RFA Results",
+    "source_row": "RFA_2026_02",
+    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation",
+    "rfa_status": "matched",
+    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_winning_bidder_team_name": "tbach24",
+    "acquisition_type": "RFA Match"
+  },
+  {
+    "season": "2026",
+    "team_id": "466.l.7111.t.6",
+    "team_name": "NYK FTW ∆",
+    "player_id": "466.p.10107",
+    "player_name": "Cason Wallace",
+    "contract_class": "RFA",
+    "contract_type": "RFA_ACQUIRED",
+    "rookie_contract_designation": "",
+    "rookie_draft_year": "",
+    "rookie_draft_round": "",
+    "rookie_draft_pick": "",
+    "rookie_salary_pct": "",
+    "rookie_salary_source": "",
+    "current_salary": "15",
+    "salary_used": "0",
+    "contract_years_remaining": "3",
+    "original_contract_length": "3",
+    "contract_start_year": "2026",
+    "contract_end_year": "2028",
+    "inactive_flag": "N",
+    "disabled_exception_flag": "N",
+    "released_flag": "N",
+    "amnesty_flag": "N",
+    "g_league_flag": "N",
+    "source_sheet": "2026 RFA Results",
+    "source_row": "RFA_2026_03",
+    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation",
+    "rfa_status": "declined",
+    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_winning_bidder_team_name": "NYK FTW ∆",
+    "acquisition_type": "RFA Acquisition"
+  },
+  {
+    "season": "2026",
+    "team_id": "466.l.7111.t.4",
+    "team_name": "James42",
+    "player_id": "466.p.6720",
+    "player_name": "Peyton Watson",
+    "contract_class": "RFA",
+    "contract_type": "RFA_MATCHED",
+    "rookie_contract_designation": "",
+    "rookie_draft_year": "",
+    "rookie_draft_round": "",
+    "rookie_draft_pick": "",
+    "rookie_salary_pct": "",
+    "rookie_salary_source": "",
+    "current_salary": "15",
+    "salary_used": "0",
+    "contract_years_remaining": "3",
+    "original_contract_length": "3",
+    "contract_start_year": "2026",
+    "contract_end_year": "2028",
+    "inactive_flag": "N",
+    "disabled_exception_flag": "N",
+    "released_flag": "N",
+    "amnesty_flag": "N",
+    "g_league_flag": "N",
+    "source_sheet": "2026 RFA Results",
+    "source_row": "RFA_2026_04",
+    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation",
+    "rfa_status": "matched",
+    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_winning_bidder_team_name": "NYK FTW ∆",
+    "acquisition_type": "RFA Match"
+  },
+  {
+    "season": "2026",
+    "team_id": "466.l.7111.t.8",
+    "team_name": "Speedsters",
+    "player_id": "466.p.6032",
+    "player_name": "Grayson Allen",
+    "contract_class": "RFA",
+    "contract_type": "RFA_ACQUIRED",
+    "rookie_contract_designation": "",
+    "rookie_draft_year": "",
+    "rookie_draft_round": "",
+    "rookie_draft_pick": "",
+    "rookie_salary_pct": "",
+    "rookie_salary_source": "",
+    "current_salary": "2",
+    "salary_used": "0",
+    "contract_years_remaining": "1",
+    "original_contract_length": "1",
+    "contract_start_year": "2026",
+    "contract_end_year": "2026",
+    "inactive_flag": "N",
+    "disabled_exception_flag": "N",
+    "released_flag": "N",
+    "amnesty_flag": "N",
+    "g_league_flag": "N",
+    "source_sheet": "2026 RFA Results",
+    "source_row": "RFA_2026_05",
+    "notes": "RFA rights renounced by tbach24; excluded from pre-UFA cap until activation",
+    "rfa_status": "renounced",
+    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_winning_bidder_team_name": "Speedsters",
+    "acquisition_type": "RFA Acquisition"
+  },
+  {
+    "season": "2026",
+    "team_id": "466.l.7111.t.6",
+    "team_name": "NYK FTW ∆",
+    "player_id": "466.p.10496",
+    "player_name": "Maxime Raynaud",
+    "contract_class": "RFA",
+    "contract_type": "RFA_MATCHED",
+    "rookie_contract_designation": "",
+    "rookie_draft_year": "",
+    "rookie_draft_round": "",
+    "rookie_draft_pick": "",
+    "rookie_salary_pct": "",
+    "rookie_salary_source": "",
+    "current_salary": "5",
+    "salary_used": "0",
+    "contract_years_remaining": "3",
+    "original_contract_length": "3",
+    "contract_start_year": "2026",
+    "contract_end_year": "2028",
+    "inactive_flag": "N",
+    "disabled_exception_flag": "N",
+    "released_flag": "N",
+    "amnesty_flag": "N",
+    "g_league_flag": "N",
+    "source_sheet": "2026 RFA Results",
+    "source_row": "RFA_2026_06",
+    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation",
+    "rfa_status": "matched",
+    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_winning_bidder_team_name": "SteveBlakeExpress",
+    "acquisition_type": "RFA Match"
+  },
+  {
+    "season": "2026",
+    "team_id": "466.l.7111.t.6",
+    "team_name": "NYK FTW ∆",
+    "player_id": "466.p.6733",
+    "player_name": "Moussa Diabate",
+    "contract_class": "RFA",
+    "contract_type": "RFA_MATCHED",
+    "rookie_contract_designation": "",
+    "rookie_draft_year": "",
+    "rookie_draft_round": "",
+    "rookie_draft_pick": "",
+    "rookie_salary_pct": "",
+    "rookie_salary_source": "",
+    "current_salary": "4",
+    "salary_used": "0",
+    "contract_years_remaining": "2",
+    "original_contract_length": "2",
+    "contract_start_year": "2026",
+    "contract_end_year": "2027",
+    "inactive_flag": "N",
+    "disabled_exception_flag": "N",
+    "released_flag": "N",
+    "amnesty_flag": "N",
+    "g_league_flag": "N",
+    "source_sheet": "2026 RFA Results",
+    "source_row": "RFA_2026_07",
+    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation",
+    "rfa_status": "matched",
+    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_winning_bidder_team_name": "SteveBlakeExpress",
+    "acquisition_type": "RFA Match"
+  },
+  {
+    "season": "2026",
+    "team_id": "466.l.7111.t.6",
+    "team_name": "NYK FTW ∆",
+    "player_id": "466.p.6212",
+    "player_name": "Ty Jerome",
+    "contract_class": "RFA",
+    "contract_type": "RFA_MATCHED",
+    "rookie_contract_designation": "",
+    "rookie_draft_year": "",
+    "rookie_draft_round": "",
+    "rookie_draft_pick": "",
+    "rookie_salary_pct": "",
+    "rookie_salary_source": "",
+    "current_salary": "9",
+    "salary_used": "0",
+    "contract_years_remaining": "2",
+    "original_contract_length": "2",
+    "contract_start_year": "2026",
+    "contract_end_year": "2027",
+    "inactive_flag": "N",
+    "disabled_exception_flag": "N",
+    "released_flag": "N",
+    "amnesty_flag": "N",
+    "g_league_flag": "N",
+    "source_sheet": "2026 RFA Results",
+    "source_row": "RFA_2026_08",
+    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation",
+    "rfa_status": "matched",
+    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_winning_bidder_team_name": "tbach24",
+    "acquisition_type": "RFA Match"
+  },
+  {
+    "season": "2026",
+    "team_id": "466.l.7111.t.5",
+    "team_name": "Machines",
+    "player_id": "466.p.10100",
+    "player_name": "Keyonte George",
+    "contract_class": "RFA",
+    "contract_type": "RFA_ACQUIRED",
+    "rookie_contract_designation": "",
+    "rookie_draft_year": "",
+    "rookie_draft_round": "",
+    "rookie_draft_pick": "",
+    "rookie_salary_pct": "",
+    "rookie_salary_source": "",
+    "current_salary": "30",
+    "salary_used": "0",
+    "contract_years_remaining": "4",
+    "original_contract_length": "4",
+    "contract_start_year": "2026",
+    "contract_end_year": "2029",
+    "inactive_flag": "N",
+    "disabled_exception_flag": "N",
+    "released_flag": "N",
+    "amnesty_flag": "N",
+    "g_league_flag": "N",
+    "source_sheet": "2026 RFA Results",
+    "source_row": "RFA_2026_09",
+    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation",
+    "rfa_status": "declined",
+    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_winning_bidder_team_name": "Machines",
+    "acquisition_type": "RFA Acquisition"
+  },
+  {
+    "season": "2026",
+    "team_id": "466.l.7111.t.1",
+    "team_name": "KOMPUTERS 'PUTIN'",
+    "player_id": "466.p.6692",
+    "player_name": "Chet Holmgren",
+    "contract_class": "RFA",
+    "contract_type": "RFA_ACQUIRED",
+    "rookie_contract_designation": "",
+    "rookie_draft_year": "",
+    "rookie_draft_round": "",
+    "rookie_draft_pick": "",
+    "rookie_salary_pct": "",
+    "rookie_salary_source": "",
+    "current_salary": "38",
+    "salary_used": "0",
+    "contract_years_remaining": "4",
+    "original_contract_length": "4",
+    "contract_start_year": "2026",
+    "contract_end_year": "2029",
+    "inactive_flag": "N",
+    "disabled_exception_flag": "N",
+    "released_flag": "N",
+    "amnesty_flag": "N",
+    "g_league_flag": "N",
+    "source_sheet": "2026 RFA Results",
+    "source_row": "RFA_2026_10",
+    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation",
+    "rfa_status": "declined",
+    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_winning_bidder_team_name": "KOMPUTERS 'PUTIN'",
+    "acquisition_type": "RFA Acquisition"
+  },
+  {
+    "season": "2026",
+    "team_id": "466.l.7111.t.8",
+    "team_name": "Speedsters",
+    "player_id": "466.p.6734",
+    "player_name": "Ryan Rollins",
+    "contract_class": "RFA",
+    "contract_type": "RFA_MATCHED",
+    "rookie_contract_designation": "",
+    "rookie_draft_year": "",
+    "rookie_draft_round": "",
+    "rookie_draft_pick": "",
+    "rookie_salary_pct": "",
+    "rookie_salary_source": "",
+    "current_salary": "9",
+    "salary_used": "0",
+    "contract_years_remaining": "1",
+    "original_contract_length": "1",
+    "contract_start_year": "2026",
+    "contract_end_year": "2026",
+    "inactive_flag": "N",
+    "disabled_exception_flag": "N",
+    "released_flag": "N",
+    "amnesty_flag": "N",
+    "g_league_flag": "N",
+    "source_sheet": "2026 RFA Results",
+    "source_row": "RFA_2026_11",
+    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation",
+    "rfa_status": "matched",
+    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_winning_bidder_team_name": "tbach24",
+    "acquisition_type": "RFA Match"
+  },
+  {
+    "season": "2026",
+    "team_id": "466.l.7111.t.7",
+    "team_name": "Obi Stoppin & Poppin",
+    "player_id": "466.p.6702",
+    "player_name": "Jalen Williams",
+    "contract_class": "RFA",
+    "contract_type": "RFA_MATCHED",
+    "rookie_contract_designation": "",
+    "rookie_draft_year": "",
+    "rookie_draft_round": "",
+    "rookie_draft_pick": "",
+    "rookie_salary_pct": "",
+    "rookie_salary_source": "",
+    "current_salary": "28",
+    "salary_used": "0",
+    "contract_years_remaining": "4",
+    "original_contract_length": "4",
+    "contract_start_year": "2026",
+    "contract_end_year": "2029",
+    "inactive_flag": "N",
+    "disabled_exception_flag": "N",
+    "released_flag": "N",
+    "amnesty_flag": "N",
+    "g_league_flag": "N",
+    "source_sheet": "2026 RFA Results",
+    "source_row": "RFA_2026_12",
+    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation",
+    "rfa_status": "matched",
+    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_winning_bidder_team_name": "KOMPUTERS 'PUTIN'",
+    "acquisition_type": "RFA Match"
+  },
+  {
+    "season": "2026",
+    "team_id": "466.l.7111.t.6",
+    "team_name": "NYK FTW ∆",
+    "player_id": "466.p.6694",
+    "player_name": "Keegan Murray",
+    "contract_class": "RFA",
+    "contract_type": "RFA_ACQUIRED",
+    "rookie_contract_designation": "",
+    "rookie_draft_year": "",
+    "rookie_draft_round": "",
+    "rookie_draft_pick": "",
+    "rookie_salary_pct": "",
+    "rookie_salary_source": "",
+    "current_salary": "26",
+    "salary_used": "0",
+    "contract_years_remaining": "3",
+    "original_contract_length": "3",
+    "contract_start_year": "2026",
+    "contract_end_year": "2028",
+    "inactive_flag": "N",
+    "disabled_exception_flag": "N",
+    "released_flag": "N",
+    "amnesty_flag": "N",
+    "g_league_flag": "N",
+    "source_sheet": "2026 RFA Results",
+    "source_row": "RFA_2026_13",
+    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation",
+    "rfa_status": "declined",
+    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_winning_bidder_team_name": "NYK FTW ∆",
+    "acquisition_type": "RFA Acquisition"
+  },
+  {
+    "season": "2026",
+    "team_id": "466.l.7111.t.9",
+    "team_name": "SteveBlakeExpress",
+    "player_id": "466.p.10285",
+    "player_name": "Donovan Clingan",
+    "contract_class": "RFA",
+    "contract_type": "RFA_MATCHED",
+    "rookie_contract_designation": "",
+    "rookie_draft_year": "",
+    "rookie_draft_round": "",
+    "rookie_draft_pick": "",
+    "rookie_salary_pct": "",
+    "rookie_salary_source": "",
+    "current_salary": "35",
+    "salary_used": "0",
+    "contract_years_remaining": "3",
+    "original_contract_length": "3",
+    "contract_start_year": "2026",
+    "contract_end_year": "2028",
+    "inactive_flag": "N",
+    "disabled_exception_flag": "N",
+    "released_flag": "N",
+    "amnesty_flag": "N",
+    "g_league_flag": "N",
+    "source_sheet": "2026 RFA Results",
+    "source_row": "RFA_2026_14",
+    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation",
+    "rfa_status": "matched",
+    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_winning_bidder_team_name": "NYK FTW ∆",
+    "acquisition_type": "RFA Match"
+  },
+  {
+    "season": "2026",
+    "team_id": "466.l.7111.t.5",
+    "team_name": "Machines",
+    "player_id": "466.p.10265",
+    "player_name": "Matas Buzelis",
+    "contract_class": "RFA",
+    "contract_type": "RFA_MATCHED",
+    "rookie_contract_designation": "",
+    "rookie_draft_year": "",
+    "rookie_draft_round": "",
+    "rookie_draft_pick": "",
+    "rookie_salary_pct": "",
+    "rookie_salary_source": "",
+    "current_salary": "25",
+    "salary_used": "0",
+    "contract_years_remaining": "4",
+    "original_contract_length": "4",
+    "contract_start_year": "2026",
+    "contract_end_year": "2029",
+    "inactive_flag": "N",
+    "disabled_exception_flag": "N",
+    "released_flag": "N",
+    "amnesty_flag": "N",
+    "g_league_flag": "N",
+    "source_sheet": "2026 RFA Results",
+    "source_row": "RFA_2026_15",
+    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation",
+    "rfa_status": "matched",
+    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_winning_bidder_team_name": "Obi Stoppin & Poppin",
+    "acquisition_type": "RFA Match"
+  },
+  {
+    "season": "2026",
+    "team_id": "466.l.7111.t.5",
+    "team_name": "Machines",
+    "player_id": "466.p.6173",
+    "player_name": "Cameron Johnson",
+    "contract_class": "RFA",
+    "contract_type": "RFA_MATCHED",
+    "rookie_contract_designation": "",
+    "rookie_draft_year": "",
+    "rookie_draft_round": "",
+    "rookie_draft_pick": "",
+    "rookie_salary_pct": "",
+    "rookie_salary_source": "",
+    "current_salary": "2",
+    "salary_used": "0",
+    "contract_years_remaining": "4",
+    "original_contract_length": "4",
+    "contract_start_year": "2026",
+    "contract_end_year": "2029",
+    "inactive_flag": "N",
+    "disabled_exception_flag": "N",
+    "released_flag": "N",
+    "amnesty_flag": "N",
+    "g_league_flag": "N",
+    "source_sheet": "2026 RFA Results",
+    "source_row": "RFA_2026_16",
+    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation",
+    "rfa_status": "matched",
+    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_winning_bidder_team_name": "Speedsters",
+    "acquisition_type": "RFA Match"
+  },
+  {
+    "season": "2026",
+    "team_id": "466.l.7111.t.10",
+    "team_name": "tbach24",
+    "player_id": "466.p.10274",
+    "player_name": "Kel'el Ware",
+    "contract_class": "RFA",
+    "contract_type": "RFA_ACQUIRED",
+    "rookie_contract_designation": "",
+    "rookie_draft_year": "",
+    "rookie_draft_round": "",
+    "rookie_draft_pick": "",
+    "rookie_salary_pct": "",
+    "rookie_salary_source": "",
+    "current_salary": "22",
+    "salary_used": "0",
+    "contract_years_remaining": "1",
+    "original_contract_length": "1",
+    "contract_start_year": "2026",
+    "contract_end_year": "2026",
+    "inactive_flag": "N",
+    "disabled_exception_flag": "N",
+    "released_flag": "N",
+    "amnesty_flag": "N",
+    "g_league_flag": "N",
+    "source_sheet": "2026 RFA Results",
+    "source_row": "RFA_2026_17",
+    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation",
+    "rfa_status": "declined",
+    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_winning_bidder_team_name": "tbach24",
+    "acquisition_type": "RFA Acquisition"
   }
 ]

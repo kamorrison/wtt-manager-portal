@@ -2103,7 +2103,7 @@
     "status": "OWNED_BY_ORIGINAL_TEAM",
     "source_file": "",
     "source_column": "",
-    "notes": "Commissioner-confirmed future second owned by original team"
+    "notes": "Returned to NYK FTW ∆ in RFA rights trade: Donovan Clingan / Maxime Raynaud / Moussa Diabate"
   },
   {
     "asset_year": "2027",
@@ -2149,13 +2149,13 @@
     "round": "2",
     "original_team_id": "466.l.7111.t.11",
     "original_team_name": "Terror Squad",
-    "current_owner_team_id": "466.l.7111.t.11",
-    "current_owner_team_name": "Terror Squad",
+    "current_owner_team_id": "466.l.7111.t.8",
+    "current_owner_team_name": "Speedsters",
     "asset_type": "ROOKIE_PICK",
-    "status": "OWNED_BY_ORIGINAL_TEAM",
+    "status": "TRADED_PICK",
     "source_file": "",
     "source_column": "",
-    "notes": "Commissioner-confirmed future second owned by original team"
+    "notes": "RFA rights trade return for Anthony Black"
   },
   {
     "asset_year": "2027",
