@@ -2499,6 +2499,27 @@
     "notes": "RFA: Obi Stoppin & Poppin declined to match; player joins tbach24's $22M / 1-year offer. Final contract $22M / 1 years with tbach24."
   },
   {
+    "trade_number": "RFA-2026-18",
+    "trade_season_key": "6",
+    "trade_season_label": "Season 6",
+    "trade_date": "9/26/2026",
+    "trade_date_iso": "2026-09-26",
+    "team_1_name": "Obi Stoppin & Poppin",
+    "team_2_name": "Speedsters",
+    "team_3_name": "",
+    "team_4_name": "",
+    "team_1_receives": "",
+    "team_1_salary_change": "",
+    "team_2_receives": "Jusuf Nurkic",
+    "team_2_salary_change": "",
+    "team_3_receives": "",
+    "team_3_salary_change": "",
+    "team_4_receives": "",
+    "team_4_salary_change": "",
+    "commissioner_approved_date": "2026-09-26",
+    "notes": "RFA: Obi Stoppin & Poppin renounced rights to Speedsters's $3M / 1-year offer. Final contract $3M / 1 years with Speedsters."
+  },
+  {
     "trade_number": "6.2",
     "trade_season_key": "6",
     "trade_season_label": "Season 6",

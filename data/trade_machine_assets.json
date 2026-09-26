@@ -2102,6 +2102,17 @@
     "sort_label": "grayson allen"
   },
   {
+    "asset_id": "PLAYER::speedsters::466.p.5327",
+    "asset_type": "PLAYER",
+    "team_name": "Speedsters",
+    "display_name": "Jusuf Nurkic",
+    "salary_value": 3.0,
+    "player_name": "Jusuf Nurkic",
+    "player_id": "466.p.5327",
+    "sort_group": 0,
+    "sort_label": "jusuf nurkic"
+  },
+  {
     "asset_id": "PLAYER::speedsters::peyton_pritchard",
     "asset_type": "PLAYER",
     "team_name": "Speedsters",

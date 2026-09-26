@@ -52,7 +52,7 @@
     "final_team_name": "NYK FTW ∆",
     "final_salary": "15",
     "final_years": "3",
-    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
     "notes": "Commissioner-recorded completed 2026 RFA result"
   },
@@ -90,7 +90,7 @@
     "final_team_name": "Speedsters",
     "final_salary": "2",
     "final_years": "1",
-    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
     "notes": "RFA rights renounced by tbach24"
   },
@@ -166,7 +166,7 @@
     "final_team_name": "Machines",
     "final_salary": "30",
     "final_years": "4",
-    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
     "notes": "Commissioner-recorded completed 2026 RFA result"
   },
@@ -185,7 +185,7 @@
     "final_team_name": "KOMPUTERS 'PUTIN'",
     "final_salary": "38",
     "final_years": "4",
-    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
     "notes": "Commissioner-recorded completed 2026 RFA result"
   },
@@ -242,7 +242,7 @@
     "final_team_name": "NYK FTW ∆",
     "final_salary": "26",
     "final_years": "3",
-    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
     "notes": "Commissioner-recorded completed 2026 RFA result"
   },
@@ -318,7 +318,7 @@
     "final_team_name": "tbach24",
     "final_salary": "22",
     "final_years": "1",
-    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
     "notes": "Commissioner-recorded completed 2026 RFA result"
   },
@@ -332,13 +332,13 @@
     "winning_bidder_team_name": "Speedsters",
     "winning_offer_salary": "3",
     "winning_offer_years": "1",
-    "decision": "PENDING",
-    "final_team_id": "",
-    "final_team_name": "",
-    "final_salary": "",
-    "final_years": "",
-    "rfa_cap_status": "PENDING_DECISION",
-    "transaction_status": "PENDING",
-    "notes": "Awaiting Obi Stoppin & Poppin decision"
+    "decision": "RENOUNCED",
+    "final_team_id": "466.l.7111.t.8",
+    "final_team_name": "Speedsters",
+    "final_salary": "3",
+    "final_years": "1",
+    "rfa_cap_status": "CAP_ACTIVE",
+    "transaction_status": "COMPLETE",
+    "notes": "RFA rights relinquished by Obi Stoppin & Poppin"
   }
 ]

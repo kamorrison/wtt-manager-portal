@@ -1857,7 +1857,7 @@
     "salary_2031": "0",
     "expires_after_year": "2028",
     "becomes_free_agent_type": "UFA",
-    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation"
+    "notes": "Commissioner-recorded completed 2026 RFA result; counts against current UFA cap"
   },
   {
     "team_id": "466.l.7111.t.4",
@@ -1897,7 +1897,7 @@
     "salary_2031": "0",
     "expires_after_year": "2026",
     "becomes_free_agent_type": "UFA",
-    "notes": "RFA rights renounced by tbach24; excluded from pre-UFA cap until activation"
+    "notes": "RFA rights renounced by tbach24; counts against current UFA cap"
   },
   {
     "team_id": "466.l.7111.t.6",
@@ -1977,7 +1977,7 @@
     "salary_2031": "0",
     "expires_after_year": "2029",
     "becomes_free_agent_type": "UFA",
-    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation"
+    "notes": "Commissioner-recorded completed 2026 RFA result; counts against current UFA cap"
   },
   {
     "team_id": "466.l.7111.t.1",
@@ -1997,7 +1997,7 @@
     "salary_2031": "0",
     "expires_after_year": "2029",
     "becomes_free_agent_type": "UFA",
-    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation"
+    "notes": "Commissioner-recorded completed 2026 RFA result; counts against current UFA cap"
   },
   {
     "team_id": "466.l.7111.t.8",
@@ -2057,7 +2057,7 @@
     "salary_2031": "0",
     "expires_after_year": "2028",
     "becomes_free_agent_type": "UFA",
-    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation"
+    "notes": "Commissioner-recorded completed 2026 RFA result; counts against current UFA cap"
   },
   {
     "team_id": "466.l.7111.t.9",
@@ -2137,6 +2137,26 @@
     "salary_2031": "0",
     "expires_after_year": "2026",
     "becomes_free_agent_type": "UFA",
-    "notes": "Commissioner-recorded completed 2026 RFA result; excluded from pre-UFA cap until activation"
+    "notes": "Commissioner-recorded completed 2026 RFA result; counts against current UFA cap"
+  },
+  {
+    "team_id": "466.l.7111.t.8",
+    "team_name": "Speedsters",
+    "player_id": "466.p.5327",
+    "player_name": "Jusuf Nurkic",
+    "contract_class": "RFA",
+    "rookie_contract_designation": "",
+    "contract_type": "RFA_ACQUIRED",
+    "start_salary": "3.0",
+    "years_remaining_entering_2026": "1",
+    "salary_2026": "3.0",
+    "salary_2027": "0.0",
+    "salary_2028": "0.0",
+    "salary_2029": "0.0",
+    "salary_2030": "0",
+    "salary_2031": "0",
+    "expires_after_year": "2026",
+    "becomes_free_agent_type": "UFA",
+    "notes": "RFA rights relinquished by Obi Stoppin & Poppin; counts against current UFA cap"
   }
 ]
