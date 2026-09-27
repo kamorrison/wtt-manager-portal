@@ -11,6 +11,17 @@
     "sort_label": "ace bailey"
   },
   {
+    "asset_id": "PLAYER::cg_paper::aj_dybantsa",
+    "asset_type": "PLAYER",
+    "team_name": "CG Paper",
+    "display_name": "AJ Dybantsa",
+    "salary_value": 10.0,
+    "player_name": "AJ Dybantsa",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "aj dybantsa"
+  },
+  {
     "asset_id": "PLAYER::cg_paper::carter_bryant",
     "asset_type": "PLAYER",
     "team_name": "CG Paper",
@@ -20,6 +31,17 @@
     "player_id": "",
     "sort_group": 0,
     "sort_label": "carter bryant"
+  },
+  {
+    "asset_id": "PLAYER::cg_paper::dailyn_swain",
+    "asset_type": "PLAYER",
+    "team_name": "CG Paper",
+    "display_name": "Dailyn Swain",
+    "salary_value": 1.0,
+    "player_name": "Dailyn Swain",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "dailyn swain"
   },
   {
     "asset_id": "PLAYER::cg_paper::466.p.5826",
@@ -300,6 +322,17 @@
     "sort_label": "brandin podziemski"
   },
   {
+    "asset_id": "PLAYER::crossover_king::darius_acuff_jr",
+    "asset_type": "PLAYER",
+    "team_name": "Crossover king",
+    "display_name": "Darius Acuff Jr.",
+    "salary_value": 7.0,
+    "player_name": "Darius Acuff Jr.",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "darius acuff jr."
+  },
+  {
     "asset_id": "PLAYER::crossover_king::466.p.5660",
     "asset_type": "PLAYER",
     "team_name": "Crossover king",
@@ -331,6 +364,17 @@
     "player_id": "466.p.6550",
     "sort_group": 0,
     "sort_label": "franz wagner"
+  },
+  {
+    "asset_id": "PLAYER::crossover_king::hannes_steinbach",
+    "asset_type": "PLAYER",
+    "team_name": "Crossover king",
+    "display_name": "Hannes Steinbach",
+    "salary_value": 5.0,
+    "player_name": "Hannes Steinbach",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "hannes steinbach"
   },
   {
     "asset_id": "PLAYER::crossover_king::466.p.5602",
@@ -559,6 +603,17 @@
     "sort_label": "2032_2_crossover king"
   },
   {
+    "asset_id": "PLAYER::james42::cameron_boozer",
+    "asset_type": "PLAYER",
+    "team_name": "James42",
+    "display_name": "Cameron Boozer",
+    "salary_value": 10.0,
+    "player_name": "Cameron Boozer",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "cameron boozer"
+  },
+  {
     "asset_id": "PLAYER::james42::cedric_coward",
     "asset_type": "PLAYER",
     "team_name": "James42",
@@ -601,6 +656,17 @@
     "player_id": "466.p.10097",
     "sort_group": 0,
     "sort_label": "dereck lively ii"
+  },
+  {
+    "asset_id": "PLAYER::james42::ebuka_okorie",
+    "asset_type": "PLAYER",
+    "team_name": "James42",
+    "display_name": "Ebuka Okorie",
+    "salary_value": 1.0,
+    "player_name": "Ebuka Okorie",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "ebuka okorie"
   },
   {
     "asset_id": "PLAYER::james42::466.p.6514",
@@ -970,6 +1036,17 @@
     "sort_label": "chet holmgren"
   },
   {
+    "asset_id": "PLAYER::komputers__putin::christian_anderson",
+    "asset_type": "PLAYER",
+    "team_name": "KOMPUTERS 'PUTIN'",
+    "display_name": "Christian Anderson",
+    "salary_value": 1.0,
+    "player_name": "Christian Anderson",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "christian anderson"
+  },
+  {
     "asset_id": "PLAYER::komputers__putin::466.p.6019",
     "asset_type": "PLAYER",
     "team_name": "KOMPUTERS 'PUTIN'",
@@ -1034,6 +1111,17 @@
     "player_id": "466.p.6014",
     "sort_group": 0,
     "sort_label": "luka doncic"
+  },
+  {
+    "asset_id": "PLAYER::komputers__putin::morez_johnson_jr",
+    "asset_type": "PLAYER",
+    "team_name": "KOMPUTERS 'PUTIN'",
+    "display_name": "Morez Johnson Jr.",
+    "salary_value": 2.0,
+    "player_name": "Morez Johnson Jr.",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "morez johnson jr."
   },
   {
     "asset_id": "PLAYER::komputers__putin::466.p.5658",
@@ -1258,6 +1346,17 @@
     "sort_label": "john collins"
   },
   {
+    "asset_id": "PLAYER::machines::keaton_wagler",
+    "asset_type": "PLAYER",
+    "team_name": "Machines",
+    "display_name": "Keaton Wagler",
+    "salary_value": 5.0,
+    "player_name": "Keaton Wagler",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "keaton wagler"
+  },
+  {
     "asset_id": "PLAYER::machines::466.p.10100",
     "asset_type": "PLAYER",
     "team_name": "Machines",
@@ -1278,6 +1377,17 @@
     "player_id": "466.p.4840",
     "sort_group": 0,
     "sort_label": "kyrie irving"
+  },
+  {
+    "asset_id": "PLAYER::machines::labaron_philon_jr",
+    "asset_type": "PLAYER",
+    "team_name": "Machines",
+    "display_name": "Labaron Philon Jr.",
+    "salary_value": 1.0,
+    "player_name": "Labaron Philon Jr.",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "labaron philon jr."
   },
   {
     "asset_id": "PLAYER::machines::466.p.10265",
@@ -1525,6 +1635,17 @@
     "sort_label": "2026_2"
   },
   {
+    "asset_id": "PLAYER::nyk_ftw_delta::allen_graves",
+    "asset_type": "PLAYER",
+    "team_name": "NYK FTW ∆",
+    "display_name": "Allen Graves",
+    "salary_value": 1.0,
+    "player_name": "Allen Graves",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "allen graves"
+  },
+  {
     "asset_id": "PLAYER::nyk_ftw_delta::466.p.10107",
     "asset_type": "PLAYER",
     "team_name": "NYK FTW ∆",
@@ -1589,6 +1710,17 @@
     "player_id": "466.p.6694",
     "sort_group": 0,
     "sort_label": "keegan murray"
+  },
+  {
+    "asset_id": "PLAYER::nyk_ftw_delta::meleek_thomas",
+    "asset_type": "PLAYER",
+    "team_name": "NYK FTW ∆",
+    "display_name": "Meleek Thomas",
+    "salary_value": 1.0,
+    "player_name": "Meleek Thomas",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "meleek thomas"
   },
   {
     "asset_id": "PLAYER::nyk_ftw_delta::466.p.6212",
@@ -1857,6 +1989,28 @@
     "sort_label": "kon knueppel"
   },
   {
+    "asset_id": "PLAYER::obi_stoppin___poppin::mikel_brown_jr",
+    "asset_type": "PLAYER",
+    "team_name": "Obi Stoppin & Poppin",
+    "display_name": "Mikel Brown Jr.",
+    "salary_value": 7.0,
+    "player_name": "Mikel Brown Jr.",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "mikel brown jr."
+  },
+  {
+    "asset_id": "PLAYER::obi_stoppin___poppin::nate_ament",
+    "asset_type": "PLAYER",
+    "team_name": "Obi Stoppin & Poppin",
+    "display_name": "Nate Ament",
+    "salary_value": 1.0,
+    "player_name": "Nate Ament",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "nate ament"
+  },
+  {
     "asset_id": "PLAYER::obi_stoppin___poppin::466.p.10290",
     "asset_type": "PLAYER",
     "team_name": "Obi Stoppin & Poppin",
@@ -2080,6 +2234,17 @@
     "sort_label": "brandon ingram"
   },
   {
+    "asset_id": "PLAYER::speedsters::brayden_burries",
+    "asset_type": "PLAYER",
+    "team_name": "Speedsters",
+    "display_name": "Brayden Burries",
+    "salary_value": 2.0,
+    "player_name": "Brayden Burries",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "brayden burries"
+  },
+  {
     "asset_id": "PLAYER::speedsters::466.p.6032",
     "asset_type": "PLAYER",
     "team_name": "Speedsters",
@@ -2122,6 +2287,17 @@
     "player_id": "466.p.6734",
     "sort_group": 0,
     "sort_label": "ryan rollins"
+  },
+  {
+    "asset_id": "PLAYER::speedsters::sergio_de_larrea",
+    "asset_type": "PLAYER",
+    "team_name": "Speedsters",
+    "display_name": "Sergio De Larrea",
+    "salary_value": 1.0,
+    "player_name": "Sergio De Larrea",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "sergio de larrea"
   },
   {
     "asset_id": "PLAYER::speedsters::466.p.4901",
@@ -2324,6 +2500,17 @@
     "sort_label": "2026_2"
   },
   {
+    "asset_id": "PLAYER::steveblakeexpress::aday_mara",
+    "asset_type": "PLAYER",
+    "team_name": "SteveBlakeExpress",
+    "display_name": "Aday Mara",
+    "salary_value": 1.0,
+    "player_name": "Aday Mara",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "aday mara"
+  },
+  {
     "asset_id": "PLAYER::steveblakeexpress::466.p.10096",
     "asset_type": "PLAYER",
     "team_name": "SteveBlakeExpress",
@@ -2388,6 +2575,17 @@
     "player_id": "466.p.6707",
     "sort_group": 0,
     "sort_label": "tari eason"
+  },
+  {
+    "asset_id": "PLAYER::steveblakeexpress::yaxel_lendeborg",
+    "asset_type": "PLAYER",
+    "team_name": "SteveBlakeExpress",
+    "display_name": "Yaxel Lendeborg",
+    "salary_value": 5.0,
+    "player_name": "Yaxel Lendeborg",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "yaxel lendeborg"
   },
   {
     "asset_id": "PICK::2026::1::466.l.7111.t.9",
@@ -2591,6 +2789,17 @@
     "sort_label": "christian braun"
   },
   {
+    "asset_id": "PLAYER::tbach24::darryn_peterson",
+    "asset_type": "PLAYER",
+    "team_name": "tbach24",
+    "display_name": "Darryn Peterson",
+    "salary_value": 7.0,
+    "player_name": "Darryn Peterson",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "darryn peterson"
+  },
+  {
     "asset_id": "PLAYER::tbach24::466.p.5842",
     "asset_type": "PLAYER",
     "team_name": "tbach24",
@@ -2600,6 +2809,17 @@
     "player_id": "466.p.5842",
     "sort_group": 0,
     "sort_label": "derrick white"
+  },
+  {
+    "asset_id": "PLAYER::tbach24::karim_lopez",
+    "asset_type": "PLAYER",
+    "team_name": "tbach24",
+    "display_name": "Karim López",
+    "salary_value": 1.0,
+    "player_name": "Karim López",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "karim lopez"
   },
   {
     "asset_id": "PLAYER::tbach24::466.p.10274",
@@ -2858,6 +3078,17 @@
     "sort_label": "darius garland"
   },
   {
+    "asset_id": "PLAYER::terror_squad::kingston_flemings",
+    "asset_type": "PLAYER",
+    "team_name": "Terror Squad",
+    "display_name": "Kingston Flemings",
+    "salary_value": 2.0,
+    "player_name": "Kingston Flemings",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "kingston flemings"
+  },
+  {
     "asset_id": "PLAYER::terror_squad::466.p.6398",
     "asset_type": "PLAYER",
     "team_name": "Terror Squad",
@@ -2878,6 +3109,17 @@
     "player_id": "",
     "sort_group": 0,
     "sort_label": "thomas sorber"
+  },
+  {
+    "asset_id": "PLAYER::terror_squad::zuby_ejiofor",
+    "asset_type": "PLAYER",
+    "team_name": "Terror Squad",
+    "display_name": "Zuby Ejiofor",
+    "salary_value": 1.0,
+    "player_name": "Zuby Ejiofor",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "zuby ejiofor"
   },
   {
     "asset_id": "PICK::2026::1::466.l.7111.t.11",
@@ -3089,6 +3331,28 @@
     "player_id": "466.p.6696",
     "sort_group": 0,
     "sort_label": "bennedict mathurin"
+  },
+  {
+    "asset_id": "PLAYER::theboogiedowns::caleb_wilson",
+    "asset_type": "PLAYER",
+    "team_name": "TheBoogieDowns",
+    "display_name": "Caleb Wilson",
+    "salary_value": 10.0,
+    "player_name": "Caleb Wilson",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "caleb wilson"
+  },
+  {
+    "asset_id": "PLAYER::theboogiedowns::cameron_carr",
+    "asset_type": "PLAYER",
+    "team_name": "TheBoogieDowns",
+    "display_name": "Cameron Carr",
+    "salary_value": 1.0,
+    "player_name": "Cameron Carr",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "cameron carr"
   },
   {
     "asset_id": "PLAYER::theboogiedowns::466.p.10469",
