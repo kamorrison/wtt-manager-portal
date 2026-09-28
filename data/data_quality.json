@@ -77,6 +77,8 @@
   "draft_pick_rows_excluded_from_ufa": 48,
   "draft_pick_rows_excluded_from_salary_projection": 0,
   "draft_pick_asset_leak_errors": [],
+  "salary_floor_reconciliation_errors": [],
+  "salary_rows_normalized_to_floor": [],
   "rookie_pick_ownership_warnings": 172,
   "pick_asset_count_by_year_round": {
     "2021-R1": 12,
@@ -166,5 +168,5 @@
   "manual_review": [
     "Expired rookie missing RFA rights: noa essengue"
   ],
-  "last_generated_timestamp": "2026-09-28T08:38:07.578919"
+  "last_generated_timestamp": "2026-09-28T12:55:45.021904"
 }
