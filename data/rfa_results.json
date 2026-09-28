@@ -16,6 +16,7 @@
     "final_years": "4",
     "rfa_cap_status": "PENDING_ACTIVATION",
     "transaction_status": "COMPLETE",
+    "decision_date": "2026-09-26",
     "notes": "Commissioner-recorded completed 2026 RFA result"
   },
   {
@@ -35,6 +36,7 @@
     "final_years": "4",
     "rfa_cap_status": "PENDING_ACTIVATION",
     "transaction_status": "COMPLETE",
+    "decision_date": "2026-09-26",
     "notes": "Commissioner-recorded completed 2026 RFA result"
   },
   {
@@ -54,6 +56,7 @@
     "final_years": "3",
     "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
+    "decision_date": "2026-09-26",
     "notes": "Commissioner-recorded completed 2026 RFA result"
   },
   {
@@ -73,6 +76,7 @@
     "final_years": "3",
     "rfa_cap_status": "PENDING_ACTIVATION",
     "transaction_status": "COMPLETE",
+    "decision_date": "2026-09-26",
     "notes": "Commissioner-recorded completed 2026 RFA result"
   },
   {
@@ -92,6 +96,7 @@
     "final_years": "1",
     "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
+    "decision_date": "2026-09-26",
     "notes": "RFA rights renounced by tbach24"
   },
   {
@@ -111,6 +116,7 @@
     "final_years": "3",
     "rfa_cap_status": "PENDING_ACTIVATION",
     "transaction_status": "COMPLETE",
+    "decision_date": "2026-09-26",
     "notes": "RFA rights traded, then final contract recorded; excluded from current UFA cap until activation"
   },
   {
@@ -130,6 +136,7 @@
     "final_years": "2",
     "rfa_cap_status": "PENDING_ACTIVATION",
     "transaction_status": "COMPLETE",
+    "decision_date": "2026-09-26",
     "notes": "RFA rights traded, then final contract recorded; excluded from current UFA cap until activation"
   },
   {
@@ -149,6 +156,7 @@
     "final_years": "2",
     "rfa_cap_status": "PENDING_ACTIVATION",
     "transaction_status": "COMPLETE",
+    "decision_date": "2026-09-26",
     "notes": "Commissioner-recorded completed 2026 RFA result"
   },
   {
@@ -168,6 +176,7 @@
     "final_years": "4",
     "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
+    "decision_date": "2026-09-26",
     "notes": "Commissioner-recorded completed 2026 RFA result"
   },
   {
@@ -187,6 +196,7 @@
     "final_years": "4",
     "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
+    "decision_date": "2026-09-26",
     "notes": "Commissioner-recorded completed 2026 RFA result"
   },
   {
@@ -206,6 +216,7 @@
     "final_years": "1",
     "rfa_cap_status": "PENDING_ACTIVATION",
     "transaction_status": "COMPLETE",
+    "decision_date": "2026-09-26",
     "notes": "Commissioner-recorded completed 2026 RFA result"
   },
   {
@@ -225,6 +236,7 @@
     "final_years": "4",
     "rfa_cap_status": "PENDING_ACTIVATION",
     "transaction_status": "COMPLETE",
+    "decision_date": "2026-09-26",
     "notes": "Commissioner-recorded completed 2026 RFA result"
   },
   {
@@ -244,6 +256,7 @@
     "final_years": "3",
     "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
+    "decision_date": "2026-09-26",
     "notes": "Commissioner-recorded completed 2026 RFA result"
   },
   {
@@ -263,6 +276,7 @@
     "final_years": "3",
     "rfa_cap_status": "PENDING_ACTIVATION",
     "transaction_status": "COMPLETE",
+    "decision_date": "2026-09-26",
     "notes": "RFA rights traded, then final contract recorded; excluded from current UFA cap until activation"
   },
   {
@@ -282,6 +296,7 @@
     "final_years": "4",
     "rfa_cap_status": "PENDING_ACTIVATION",
     "transaction_status": "COMPLETE",
+    "decision_date": "2026-09-26",
     "notes": "Commissioner-recorded completed 2026 RFA result"
   },
   {
@@ -301,6 +316,7 @@
     "final_years": "4",
     "rfa_cap_status": "PENDING_ACTIVATION",
     "transaction_status": "COMPLETE",
+    "decision_date": "2026-09-26",
     "notes": "Commissioner-recorded completed 2026 RFA result"
   },
   {
@@ -320,6 +336,7 @@
     "final_years": "1",
     "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
+    "decision_date": "2026-09-26",
     "notes": "Commissioner-recorded completed 2026 RFA result"
   },
   {
@@ -339,6 +356,107 @@
     "final_years": "1",
     "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
+    "decision_date": "2026-09-26",
     "notes": "RFA rights relinquished by Obi Stoppin & Poppin"
+  },
+  {
+    "season": "2026",
+    "result_id": "RFA_2026_19",
+    "player_name": "De'Anthony Melton",
+    "original_rights_team_id": "466.l.7111.t.6",
+    "original_rights_team_name": "NYK FTW ∆",
+    "winning_bidder_team_id": "",
+    "winning_bidder_team_name": "",
+    "winning_offer_salary": "",
+    "winning_offer_years": "",
+    "decision": "NO_COMPETING_OFFER_RETAINED",
+    "final_team_id": "466.l.7111.t.6",
+    "final_team_name": "NYK FTW ∆",
+    "final_salary": "1",
+    "final_years": "1",
+    "rfa_cap_status": "PENDING_ACTIVATION",
+    "transaction_status": "COMPLETE",
+    "decision_date": "2026-09-27",
+    "notes": "Retained by rights holder after receiving no competing offer; Discord declaration recorded 2026-09-27"
+  },
+  {
+    "season": "2026",
+    "result_id": "RFA_2026_20",
+    "player_name": "Dillon Brooks",
+    "original_rights_team_id": "466.l.7111.t.2",
+    "original_rights_team_name": "Crossover king",
+    "winning_bidder_team_id": "",
+    "winning_bidder_team_name": "",
+    "winning_offer_salary": "",
+    "winning_offer_years": "",
+    "decision": "NO_COMPETING_OFFER_RETAINED",
+    "final_team_id": "466.l.7111.t.2",
+    "final_team_name": "Crossover king",
+    "final_salary": "1",
+    "final_years": "2",
+    "rfa_cap_status": "PENDING_ACTIVATION",
+    "transaction_status": "COMPLETE",
+    "decision_date": "2026-09-27",
+    "notes": "Retained by rights holder after receiving no competing offer; Discord declaration recorded 2026-09-27"
+  },
+  {
+    "season": "2026",
+    "result_id": "RFA_2026_21",
+    "player_name": "Klay Thompson",
+    "original_rights_team_id": "466.l.7111.t.2",
+    "original_rights_team_name": "Crossover king",
+    "winning_bidder_team_id": "",
+    "winning_bidder_team_name": "",
+    "winning_offer_salary": "",
+    "winning_offer_years": "",
+    "decision": "NO_COMPETING_OFFER_RETAINED",
+    "final_team_id": "466.l.7111.t.2",
+    "final_team_name": "Crossover king",
+    "final_salary": "1",
+    "final_years": "1",
+    "rfa_cap_status": "PENDING_ACTIVATION",
+    "transaction_status": "COMPLETE",
+    "decision_date": "2026-09-27",
+    "notes": "Retained by rights holder after receiving no competing offer; Discord declaration recorded 2026-09-27"
+  },
+  {
+    "season": "2026",
+    "result_id": "RFA_2026_22",
+    "player_name": "Precious Achiuwa",
+    "original_rights_team_id": "466.l.7111.t.10",
+    "original_rights_team_name": "tbach24",
+    "winning_bidder_team_id": "",
+    "winning_bidder_team_name": "",
+    "winning_offer_salary": "",
+    "winning_offer_years": "",
+    "decision": "NO_COMPETING_OFFER_RETAINED",
+    "final_team_id": "466.l.7111.t.10",
+    "final_team_name": "tbach24",
+    "final_salary": "1",
+    "final_years": "1",
+    "rfa_cap_status": "PENDING_ACTIVATION",
+    "transaction_status": "COMPLETE",
+    "decision_date": "2026-09-27",
+    "notes": "Retained by rights holder after receiving no competing offer; Discord declaration recorded 2026-09-27"
+  },
+  {
+    "season": "2026",
+    "result_id": "RFA_2026_23",
+    "player_name": "Anthony Black",
+    "original_rights_team_id": "466.l.7111.t.11",
+    "original_rights_team_name": "Terror Squad",
+    "winning_bidder_team_id": "",
+    "winning_bidder_team_name": "",
+    "winning_offer_salary": "",
+    "winning_offer_years": "",
+    "decision": "NO_COMPETING_OFFER_RETAINED",
+    "final_team_id": "466.l.7111.t.11",
+    "final_team_name": "Terror Squad",
+    "final_salary": "1",
+    "final_years": "4",
+    "rfa_cap_status": "PENDING_ACTIVATION",
+    "transaction_status": "COMPLETE",
+    "decision_date": "2026-09-27",
+    "notes": "Retained by rights holder after receiving no competing offer; Discord declaration recorded 2026-09-27"
   }
 ]

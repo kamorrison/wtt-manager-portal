@@ -1,8 +1,8 @@
 {
   "teams_found": 12,
   "current_league_year": 2026,
-  "active_players": 128,
-  "contract_rows": 132,
+  "active_players": 133,
+  "contract_rows": 137,
   "players_missing_team": 0,
   "players_missing_salary": 0,
   "players_missing_years": 0,
@@ -13,18 +13,18 @@
   "teams_over_hard_cap": [],
   "rfa_rights_count_by_team": {
     "CG Paper": 3,
-    "Crossover king": 6,
+    "Crossover king": 4,
     "James42": 2,
     "KOMPUTERS 'PUTIN'": 6,
     "Machines": 4,
-    "NYK FTW ∆": 6,
-    "Speedsters": 7,
+    "NYK FTW ∆": 5,
+    "Speedsters": 6,
     "SteveBlakeExpress": 4,
     "tbach24": 4,
-    "Terror Squad": 7,
+    "Terror Squad": 6,
     "TheBoogieDowns": 4
   },
-  "rfa_rights_rows": 53,
+  "rfa_rights_rows": 48,
   "rfa_rights_rows_final": 88,
   "rfa_excluded_candidate_rows": 211,
   "rfa_exclusion_reasons": {
@@ -131,10 +131,10 @@
   },
   "rows_imported_by_tab": {
     "teams": 12,
-    "players": 132,
-    "rfa_rights": 53,
-    "free_agent_pool": 150,
-    "salary_projection": 132,
+    "players": 137,
+    "rfa_rights": 48,
+    "free_agent_pool": 144,
+    "salary_projection": 137,
     "pick_assets": 288,
     "g_league": 34,
     "rookie_lottery_assignments": 24,
@@ -166,5 +166,5 @@
   "manual_review": [
     "Expired rookie missing RFA rights: noa essengue"
   ],
-  "last_generated_timestamp": "2026-09-26T20:03:16.860991"
+  "last_generated_timestamp": "2026-09-28T08:38:07.578919"
 }

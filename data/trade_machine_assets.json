@@ -355,6 +355,17 @@
     "sort_label": "devin carter"
   },
   {
+    "asset_id": "PLAYER::crossover_king::466.p.5858",
+    "asset_type": "PLAYER",
+    "team_name": "Crossover king",
+    "display_name": "Dillon Brooks",
+    "salary_value": 1.0,
+    "player_name": "Dillon Brooks",
+    "player_id": "466.p.5858",
+    "sort_group": 0,
+    "sort_label": "dillon brooks"
+  },
+  {
     "asset_id": "PLAYER::crossover_king::466.p.6550",
     "asset_type": "PLAYER",
     "team_name": "Crossover king",
@@ -386,6 +397,17 @@
     "player_id": "466.p.5602",
     "sort_group": 0,
     "sort_label": "jaylen brown"
+  },
+  {
+    "asset_id": "PLAYER::crossover_king::466.p.4892",
+    "asset_type": "PLAYER",
+    "team_name": "Crossover king",
+    "display_name": "Klay Thompson",
+    "salary_value": 1.0,
+    "player_name": "Klay Thompson",
+    "player_id": "466.p.4892",
+    "sort_group": 0,
+    "sort_label": "klay thompson"
   },
   {
     "asset_id": "PLAYER::crossover_king::466.p.10476",
@@ -1657,6 +1679,17 @@
     "sort_label": "cason wallace"
   },
   {
+    "asset_id": "PLAYER::nyk_ftw_delta::466.p.6057",
+    "asset_type": "PLAYER",
+    "team_name": "NYK FTW ∆",
+    "display_name": "De'Anthony Melton",
+    "salary_value": 1.0,
+    "player_name": "De'Anthony Melton",
+    "player_id": "466.p.6057",
+    "sort_group": 0,
+    "sort_label": "de'anthony melton"
+  },
+  {
     "asset_id": "PLAYER::nyk_ftw_delta::466.p.5473",
     "asset_type": "PLAYER",
     "team_name": "NYK FTW ∆",
@@ -2833,6 +2866,17 @@
     "sort_label": "kel'el ware"
   },
   {
+    "asset_id": "PLAYER::tbach24::466.p.6412",
+    "asset_type": "PLAYER",
+    "team_name": "tbach24",
+    "display_name": "Precious Achiuwa",
+    "salary_value": 1.0,
+    "player_name": "Precious Achiuwa",
+    "player_id": "466.p.6412",
+    "sort_group": 0,
+    "sort_label": "precious achiuwa"
+  },
+  {
     "asset_id": "PLAYER::tbach24::466.p.5197",
     "asset_type": "PLAYER",
     "team_name": "tbach24",
@@ -3043,6 +3087,17 @@
     "amnesty_slot": 2,
     "sort_group": 2,
     "sort_label": "2026_2"
+  },
+  {
+    "asset_id": "PLAYER::terror_squad::466.p.10095",
+    "asset_type": "PLAYER",
+    "team_name": "Terror Squad",
+    "display_name": "Anthony Black",
+    "salary_value": 1.0,
+    "player_name": "Anthony Black",
+    "player_id": "466.p.10095",
+    "sort_group": 0,
+    "sort_label": "anthony black"
   },
   {
     "asset_id": "PLAYER::terror_squad::466.p.5827",

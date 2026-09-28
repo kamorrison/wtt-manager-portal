@@ -276,12 +276,6 @@
     "average_pick": 45.8
   },
   {
-    "player_name": "Precious Achiuwa",
-    "position": "PF,F,C,Util",
-    "average_rank": 132,
-    "average_pick": null
-  },
-  {
     "player_name": "Joel Embiid",
     "position": "C,Util,IL+",
     "average_rank": 139,
@@ -322,6 +316,12 @@
     "position": "SG,G,SF,F,Util,IL+",
     "average_rank": 165,
     "average_pick": 126.5
+  },
+  {
+    "player_name": "Kelly Oubre Jr.",
+    "position": "SF,PF,F,Util",
+    "average_rank": 167,
+    "average_pick": 120.0
   },
   {
     "player_name": "P.J. Washington",
