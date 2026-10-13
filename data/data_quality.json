@@ -1,14 +1,15 @@
 {
   "teams_found": 12,
   "current_league_year": 2026,
-  "active_players": 133,
-  "contract_rows": 137,
+  "active_players": 200,
+  "contract_rows": 203,
   "players_missing_team": 0,
   "players_missing_salary": 0,
   "players_missing_years": 0,
   "duplicate_player_names": [],
   "teams_over_soft_cap": [
-    "James42"
+    "James42",
+    "TheBoogieDowns"
   ],
   "teams_over_hard_cap": [],
   "rfa_rights_count_by_team": {
@@ -16,15 +17,15 @@
     "Crossover king": 4,
     "James42": 2,
     "KOMPUTERS 'PUTIN'": 6,
-    "Machines": 4,
-    "NYK FTW ∆": 5,
+    "Machines": 3,
+    "NYK FTW ∆": 4,
     "Speedsters": 6,
     "SteveBlakeExpress": 4,
     "tbach24": 4,
-    "Terror Squad": 6,
-    "TheBoogieDowns": 4
+    "Terror Squad": 5,
+    "TheBoogieDowns": 3
   },
-  "rfa_rights_rows": 48,
+  "rfa_rights_rows": 44,
   "rfa_rights_rows_final": 88,
   "rfa_excluded_candidate_rows": 211,
   "rfa_exclusion_reasons": {
@@ -71,7 +72,7 @@
       "warning": "WARNING_HIGH_RFA_COUNT"
     }
   ],
-  "ufa_count": 94,
+  "ufa_count": 38,
   "draft_pick_rows_excluded_from_players": 0,
   "draft_pick_rows_excluded_from_rfa": 48,
   "draft_pick_rows_excluded_from_ufa": 48,
@@ -133,12 +134,12 @@
   },
   "rows_imported_by_tab": {
     "teams": 12,
-    "players": 137,
-    "rfa_rights": 48,
-    "free_agent_pool": 144,
-    "salary_projection": 137,
+    "players": 203,
+    "rfa_rights": 44,
+    "free_agent_pool": 84,
+    "salary_projection": 203,
     "pick_assets": 288,
-    "g_league": 34,
+    "g_league": 33,
     "rookie_lottery_assignments": 24,
     "rookie_draft_results": 84,
     "rookie_draft_board": 24
@@ -168,5 +169,5 @@
   "manual_review": [
     "Expired rookie missing RFA rights: noa essengue"
   ],
-  "last_generated_timestamp": "2026-09-28T12:55:45.021904"
+  "last_generated_timestamp": "2026-10-13T06:43:26.744847"
 }

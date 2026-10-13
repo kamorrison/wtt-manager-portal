@@ -22,6 +22,17 @@
     "sort_label": "aj dybantsa"
   },
   {
+    "asset_id": "PLAYER::cg_paper::466.p.6580",
+    "asset_type": "PLAYER",
+    "team_name": "CG Paper",
+    "display_name": "Ayo Dosunmu",
+    "salary_value": 2,
+    "player_name": "Ayo Dosunmu",
+    "player_id": "466.p.6580",
+    "sort_group": 0,
+    "sort_label": "ayo dosunmu"
+  },
+  {
     "asset_id": "PLAYER::cg_paper::carter_bryant",
     "asset_type": "PLAYER",
     "team_name": "CG Paper",
@@ -77,6 +88,39 @@
     "sort_label": "jase richardson"
   },
   {
+    "asset_id": "PLAYER::cg_paper::466.p.6218",
+    "asset_type": "PLAYER",
+    "team_name": "CG Paper",
+    "display_name": "Kevin Porter Jr.",
+    "salary_value": 2,
+    "player_name": "Kevin Porter Jr.",
+    "player_id": "466.p.6218",
+    "sort_group": 0,
+    "sort_label": "kevin porter jr."
+  },
+  {
+    "asset_id": "PLAYER::cg_paper::466.p.6705",
+    "asset_type": "PLAYER",
+    "team_name": "CG Paper",
+    "display_name": "Mark Williams",
+    "salary_value": 3,
+    "player_name": "Mark Williams",
+    "player_id": "466.p.6705",
+    "sort_group": 0,
+    "sort_label": "mark williams"
+  },
+  {
+    "asset_id": "PLAYER::cg_paper::466.p.6219",
+    "asset_type": "PLAYER",
+    "team_name": "CG Paper",
+    "display_name": "Nic Claxton",
+    "salary_value": 1,
+    "player_name": "Nic Claxton",
+    "player_id": "466.p.6219",
+    "sort_group": 0,
+    "sort_label": "nic claxton"
+  },
+  {
     "asset_id": "PLAYER::cg_paper::466.p.5352",
     "asset_type": "PLAYER",
     "team_name": "CG Paper",
@@ -97,6 +141,17 @@
     "player_id": "",
     "sort_group": 0,
     "sort_label": "rob dillingham"
+  },
+  {
+    "asset_id": "PLAYER::cg_paper::rui_hachimura",
+    "asset_type": "PLAYER",
+    "team_name": "CG Paper",
+    "display_name": "Rui Hachimura",
+    "salary_value": 1,
+    "player_name": "Rui Hachimura",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "rui hachimura"
   },
   {
     "asset_id": "PLAYER::cg_paper::wemby",
@@ -300,6 +355,17 @@
     "sort_label": "2026_2"
   },
   {
+    "asset_id": "PLAYER::crossover_king::466.p.6558",
+    "asset_type": "PLAYER",
+    "team_name": "Crossover king",
+    "display_name": "Alperen Sengun",
+    "salary_value": 40,
+    "player_name": "Alperen Sengun",
+    "player_id": "466.p.6558",
+    "sort_group": 0,
+    "sort_label": "alperen sengun"
+  },
+  {
     "asset_id": "PLAYER::crossover_king::466.p.5292",
     "asset_type": "PLAYER",
     "team_name": "Crossover king",
@@ -342,6 +408,17 @@
     "player_id": "466.p.5660",
     "sort_group": 0,
     "sort_label": "dejounte murray"
+  },
+  {
+    "asset_id": "PLAYER::crossover_king::466.p.6422",
+    "asset_type": "PLAYER",
+    "team_name": "Crossover king",
+    "display_name": "Desmond Bane",
+    "salary_value": 32,
+    "player_name": "Desmond Bane",
+    "player_id": "466.p.6422",
+    "sort_group": 0,
+    "sort_label": "desmond bane"
   },
   {
     "asset_id": "PLAYER::crossover_king::466.p.10293",
@@ -410,6 +487,28 @@
     "sort_label": "klay thompson"
   },
   {
+    "asset_id": "PLAYER::crossover_king::466.p.6395",
+    "asset_type": "PLAYER",
+    "team_name": "Crossover king",
+    "display_name": "LaMelo Ball",
+    "salary_value": 37,
+    "player_name": "LaMelo Ball",
+    "player_id": "466.p.6395",
+    "sort_group": 0,
+    "sort_label": "lamelo ball"
+  },
+  {
+    "asset_id": "PLAYER::crossover_king::466.p.3704",
+    "asset_type": "PLAYER",
+    "team_name": "Crossover king",
+    "display_name": "LeBron James",
+    "salary_value": 17,
+    "player_name": "LeBron James",
+    "player_id": "466.p.3704",
+    "sort_group": 0,
+    "sort_label": "lebron james"
+  },
+  {
     "asset_id": "PLAYER::crossover_king::466.p.10476",
     "asset_type": "PLAYER",
     "team_name": "Crossover king",
@@ -419,6 +518,17 @@
     "player_id": "466.p.10476",
     "sort_group": 0,
     "sort_label": "ryan kalkbrenner"
+  },
+  {
+    "asset_id": "PLAYER::crossover_king::466.p.6163",
+    "asset_type": "PLAYER",
+    "team_name": "Crossover king",
+    "display_name": "Zion Williamson",
+    "salary_value": 13,
+    "player_name": "Zion Williamson",
+    "player_id": "466.p.6163",
+    "sort_group": 0,
+    "sort_label": "zion williamson"
   },
   {
     "asset_id": "PICK::2026::1::466.l.7111.t.2",
@@ -1102,6 +1212,17 @@
     "sort_label": "immanuel quickley"
   },
   {
+    "asset_id": "PLAYER::komputers__putin::466.p.6164",
+    "asset_type": "PLAYER",
+    "team_name": "KOMPUTERS 'PUTIN'",
+    "display_name": "Ja Morant",
+    "salary_value": 10,
+    "player_name": "Ja Morant",
+    "player_id": "466.p.6164",
+    "sort_group": 0,
+    "sort_label": "ja morant"
+  },
+  {
     "asset_id": "PLAYER::komputers__putin::466.p.6562",
     "asset_type": "PLAYER",
     "team_name": "KOMPUTERS 'PUTIN'",
@@ -1111,6 +1232,17 @@
     "player_id": "466.p.6562",
     "sort_group": 0,
     "sort_label": "jalen johnson"
+  },
+  {
+    "asset_id": "PLAYER::komputers__putin::466.p.5294",
+    "asset_type": "PLAYER",
+    "team_name": "KOMPUTERS 'PUTIN'",
+    "display_name": "Joel Embiid",
+    "salary_value": 15,
+    "player_name": "Joel Embiid",
+    "player_id": "466.p.5294",
+    "sort_group": 0,
+    "sort_label": "joel embiid"
   },
   {
     "asset_id": "PLAYER::komputers__putin::kasparas_jakucionis",
@@ -1157,6 +1289,17 @@
     "sort_label": "pascal siakam"
   },
   {
+    "asset_id": "PLAYER::komputers__putin::466.p.10048",
+    "asset_type": "PLAYER",
+    "team_name": "KOMPUTERS 'PUTIN'",
+    "display_name": "Scoot Henderson",
+    "salary_value": 1,
+    "player_name": "Scoot Henderson",
+    "player_id": "466.p.10048",
+    "sort_group": 0,
+    "sort_label": "scoot henderson"
+  },
+  {
     "asset_id": "PLAYER::komputers__putin::shaedon_sharpe",
     "asset_type": "PLAYER",
     "team_name": "KOMPUTERS 'PUTIN'",
@@ -1166,6 +1309,17 @@
     "player_id": "",
     "sort_group": 0,
     "sort_label": "shaedon sharpe"
+  },
+  {
+    "asset_id": "PLAYER::komputers__putin::466.p.6413",
+    "asset_type": "PLAYER",
+    "team_name": "KOMPUTERS 'PUTIN'",
+    "display_name": "Tyrese Maxey",
+    "salary_value": 42,
+    "player_name": "Tyrese Maxey",
+    "player_id": "466.p.6413",
+    "sort_group": 0,
+    "sort_label": "tyrese maxey"
   },
   {
     "asset_id": "PICK::2026::1::466.l.7111.t.1",
@@ -1346,6 +1500,28 @@
     "sort_label": "cj mccollum"
   },
   {
+    "asset_id": "PLAYER::machines::fred_vanvleet",
+    "asset_type": "PLAYER",
+    "team_name": "Machines",
+    "display_name": "Fred VanVleet",
+    "salary_value": 20,
+    "player_name": "Fred VanVleet",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "fred vanvleet"
+  },
+  {
+    "asset_id": "PLAYER::machines::466.p.5185",
+    "asset_type": "PLAYER",
+    "team_name": "Machines",
+    "display_name": "Giannis Antetokounmpo",
+    "salary_value": 46,
+    "player_name": "Giannis Antetokounmpo",
+    "player_id": "466.p.5185",
+    "sort_group": 0,
+    "sort_label": "giannis antetokounmpo"
+  },
+  {
     "asset_id": "PLAYER::machines::joan_beringer",
     "asset_type": "PLAYER",
     "team_name": "Machines",
@@ -1443,6 +1619,17 @@
     "player_id": "466.p.6023",
     "sort_group": 0,
     "sort_label": "miles bridges"
+  },
+  {
+    "asset_id": "PLAYER::machines::466.p.6253",
+    "asset_type": "PLAYER",
+    "team_name": "Machines",
+    "display_name": "Naz Reid",
+    "salary_value": 23,
+    "player_name": "Naz Reid",
+    "player_id": "466.p.6253",
+    "sort_group": 0,
+    "sort_label": "naz reid"
   },
   {
     "asset_id": "PLAYER::machines::466.p.4725",
@@ -1679,6 +1866,17 @@
     "sort_label": "cason wallace"
   },
   {
+    "asset_id": "PLAYER::nyk_ftw_delta::day_ron_sharpe",
+    "asset_type": "PLAYER",
+    "team_name": "NYK FTW ∆",
+    "display_name": "Day'Ron Sharpe",
+    "salary_value": 15,
+    "player_name": "Day'Ron Sharpe",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "day'ron sharpe"
+  },
+  {
     "asset_id": "PLAYER::nyk_ftw_delta::466.p.6057",
     "asset_type": "PLAYER",
     "team_name": "NYK FTW ∆",
@@ -1710,6 +1908,17 @@
     "player_id": "466.p.10285",
     "sort_group": 0,
     "sort_label": "donovan clingan"
+  },
+  {
+    "asset_id": "PLAYER::nyk_ftw_delta::466.p.6516",
+    "asset_type": "PLAYER",
+    "team_name": "NYK FTW ∆",
+    "display_name": "Jalen Suggs",
+    "salary_value": 11,
+    "player_name": "Jalen Suggs",
+    "player_id": "466.p.6516",
+    "sort_group": 0,
+    "sort_label": "jalen suggs"
   },
   {
     "asset_id": "PLAYER::nyk_ftw_delta::466.p.5638",
@@ -1756,6 +1965,50 @@
     "sort_label": "meleek thomas"
   },
   {
+    "asset_id": "PLAYER::nyk_ftw_delta::466.p.5471",
+    "asset_type": "PLAYER",
+    "team_name": "NYK FTW ∆",
+    "display_name": "Myles Turner",
+    "salary_value": 19,
+    "player_name": "Myles Turner",
+    "player_id": "466.p.5471",
+    "sort_group": 0,
+    "sort_label": "myles turner"
+  },
+  {
+    "asset_id": "PLAYER::nyk_ftw_delta::466.p.6205",
+    "asset_type": "PLAYER",
+    "team_name": "NYK FTW ∆",
+    "display_name": "Nickeil Alexander-Walker",
+    "salary_value": 27,
+    "player_name": "Nickeil Alexander-Walker",
+    "player_id": "466.p.6205",
+    "sort_group": 0,
+    "sort_label": "nickeil alexander-walker"
+  },
+  {
+    "asset_id": "PLAYER::nyk_ftw_delta::466.p.6567",
+    "asset_type": "PLAYER",
+    "team_name": "NYK FTW ∆",
+    "display_name": "Quentin Grimes",
+    "salary_value": 1,
+    "player_name": "Quentin Grimes",
+    "player_id": "466.p.6567",
+    "sort_group": 0,
+    "sort_label": "quentin grimes"
+  },
+  {
+    "asset_id": "PLAYER::nyk_ftw_delta::466.p.6165",
+    "asset_type": "PLAYER",
+    "team_name": "NYK FTW ∆",
+    "display_name": "RJ Barrett",
+    "salary_value": 2,
+    "player_name": "RJ Barrett",
+    "player_id": "466.p.6165",
+    "sort_group": 0,
+    "sort_label": "rj barrett"
+  },
+  {
     "asset_id": "PLAYER::nyk_ftw_delta::466.p.6212",
     "asset_type": "PLAYER",
     "team_name": "NYK FTW ∆",
@@ -1765,6 +2018,17 @@
     "player_id": "466.p.6212",
     "sort_group": 0,
     "sort_label": "ty jerome"
+  },
+  {
+    "asset_id": "PLAYER::nyk_ftw_delta::yaxel_lendeborg",
+    "asset_type": "PLAYER",
+    "team_name": "NYK FTW ∆",
+    "display_name": "Yaxel Lendeborg",
+    "salary_value": 1,
+    "player_name": "Yaxel Lendeborg",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "yaxel lendeborg"
   },
   {
     "asset_id": "PICK::2026::2::466.l.7111.t.2",
@@ -1945,6 +2209,17 @@
     "sort_label": "2026_2"
   },
   {
+    "asset_id": "PLAYER::obi_stoppin___poppin::466.p.6721",
+    "asset_type": "PLAYER",
+    "team_name": "Obi Stoppin & Poppin",
+    "display_name": "Andrew Nembhard",
+    "salary_value": 2,
+    "player_name": "Andrew Nembhard",
+    "player_id": "466.p.6721",
+    "sort_group": 0,
+    "sort_label": "andrew nembhard"
+  },
+  {
     "asset_id": "PLAYER::obi_stoppin___poppin::466.p.10468",
     "asset_type": "PLAYER",
     "team_name": "Obi Stoppin & Poppin",
@@ -1956,6 +2231,28 @@
     "sort_label": "cooper flagg"
   },
   {
+    "asset_id": "PLAYER::obi_stoppin___poppin::466.p.5663",
+    "asset_type": "PLAYER",
+    "team_name": "Obi Stoppin & Poppin",
+    "display_name": "Ivica Zubac",
+    "salary_value": 26,
+    "player_name": "Ivica Zubac",
+    "player_id": "466.p.5663",
+    "sort_group": 0,
+    "sort_label": "ivica zubac"
+  },
+  {
+    "asset_id": "PLAYER::obi_stoppin___poppin::466.p.6693",
+    "asset_type": "PLAYER",
+    "team_name": "Obi Stoppin & Poppin",
+    "display_name": "Jabari Smith Jr.",
+    "salary_value": 21,
+    "player_name": "Jabari Smith Jr.",
+    "player_id": "466.p.6693",
+    "sort_group": 0,
+    "sort_label": "jabari smith jr."
+  },
+  {
     "asset_id": "PLAYER::obi_stoppin___poppin::466.p.6695",
     "asset_type": "PLAYER",
     "team_name": "Obi Stoppin & Poppin",
@@ -1965,6 +2262,17 @@
     "player_id": "466.p.6695",
     "sort_group": 0,
     "sort_label": "jaden ivey"
+  },
+  {
+    "asset_id": "PLAYER::obi_stoppin___poppin::466.p.6420",
+    "asset_type": "PLAYER",
+    "team_name": "Obi Stoppin & Poppin",
+    "display_name": "Jaden McDaniels",
+    "salary_value": 12,
+    "player_name": "Jaden McDaniels",
+    "player_id": "466.p.6420",
+    "sort_group": 0,
+    "sort_label": "jaden mcdaniels"
   },
   {
     "asset_id": "PLAYER::obi_stoppin___poppin::466.p.6044",
@@ -2022,6 +2330,17 @@
     "sort_label": "kon knueppel"
   },
   {
+    "asset_id": "PLAYER::obi_stoppin___poppin::466.p.6021",
+    "asset_type": "PLAYER",
+    "team_name": "Obi Stoppin & Poppin",
+    "display_name": "Mikal Bridges",
+    "salary_value": 18,
+    "player_name": "Mikal Bridges",
+    "player_id": "466.p.6021",
+    "sort_group": 0,
+    "sort_label": "mikal bridges"
+  },
+  {
     "asset_id": "PLAYER::obi_stoppin___poppin::mikel_brown_jr",
     "asset_type": "PLAYER",
     "team_name": "Obi Stoppin & Poppin",
@@ -2042,6 +2361,17 @@
     "player_id": "",
     "sort_group": 0,
     "sort_label": "nate ament"
+  },
+  {
+    "asset_id": "PLAYER::obi_stoppin___poppin::466.p.5836",
+    "asset_type": "PLAYER",
+    "team_name": "Obi Stoppin & Poppin",
+    "display_name": "OG Anunoby",
+    "salary_value": 27,
+    "player_name": "OG Anunoby",
+    "player_id": "466.p.5836",
+    "sort_group": 0,
+    "sort_label": "og anunoby"
   },
   {
     "asset_id": "PLAYER::obi_stoppin___poppin::466.p.10290",
@@ -2278,6 +2608,17 @@
     "sort_label": "brayden burries"
   },
   {
+    "asset_id": "PLAYER::speedsters::damian_lillard",
+    "asset_type": "PLAYER",
+    "team_name": "Speedsters",
+    "display_name": "Damian Lillard",
+    "salary_value": 14,
+    "player_name": "Damian Lillard",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "damian lillard"
+  },
+  {
     "asset_id": "PLAYER::speedsters::466.p.6032",
     "asset_type": "PLAYER",
     "team_name": "Speedsters",
@@ -2289,6 +2630,28 @@
     "sort_label": "grayson allen"
   },
   {
+    "asset_id": "PLAYER::speedsters::466.p.5856",
+    "asset_type": "PLAYER",
+    "team_name": "Speedsters",
+    "display_name": "Isaiah Hartenstein",
+    "salary_value": 2,
+    "player_name": "Isaiah Hartenstein",
+    "player_id": "466.p.5856",
+    "sort_group": 0,
+    "sort_label": "isaiah hartenstein"
+  },
+  {
+    "asset_id": "PLAYER::speedsters::466.p.6015",
+    "asset_type": "PLAYER",
+    "team_name": "Speedsters",
+    "display_name": "Jaren Jackson Jr.",
+    "salary_value": 32,
+    "player_name": "Jaren Jackson Jr.",
+    "player_id": "466.p.6015",
+    "sort_group": 0,
+    "sort_label": "jaren jackson jr."
+  },
+  {
     "asset_id": "PLAYER::speedsters::466.p.5327",
     "asset_type": "PLAYER",
     "team_name": "Speedsters",
@@ -2298,6 +2661,39 @@
     "player_id": "466.p.5327",
     "sort_group": 0,
     "sort_label": "jusuf nurkic"
+  },
+  {
+    "asset_id": "PLAYER::speedsters::466.p.5432",
+    "asset_type": "PLAYER",
+    "team_name": "Speedsters",
+    "display_name": "Karl-Anthony Towns",
+    "salary_value": 47,
+    "player_name": "Karl-Anthony Towns",
+    "player_id": "466.p.5432",
+    "sort_group": 0,
+    "sort_label": "karl-anthony towns"
+  },
+  {
+    "asset_id": "PLAYER::speedsters::466.p.4244",
+    "asset_type": "PLAYER",
+    "team_name": "Speedsters",
+    "display_name": "Kevin Durant",
+    "salary_value": 37,
+    "player_name": "Kevin Durant",
+    "player_id": "466.p.4244",
+    "sort_group": 0,
+    "sort_label": "kevin durant"
+  },
+  {
+    "asset_id": "PLAYER::speedsters::466.p.5506",
+    "asset_type": "PLAYER",
+    "team_name": "Speedsters",
+    "display_name": "Norman Powell",
+    "salary_value": 19,
+    "player_name": "Norman Powell",
+    "player_id": "466.p.5506",
+    "sort_group": 0,
+    "sort_label": "norman powell"
   },
   {
     "asset_id": "PLAYER::speedsters::peyton_pritchard",
@@ -2353,6 +2749,17 @@
     "player_id": "466.p.6175",
     "sort_group": 0,
     "sort_label": "tyler herro"
+  },
+  {
+    "asset_id": "PLAYER::speedsters::zach_lavine",
+    "asset_type": "PLAYER",
+    "team_name": "Speedsters",
+    "display_name": "Zach LaVine",
+    "salary_value": 19,
+    "player_name": "Zach LaVine",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "zach lavine"
   },
   {
     "asset_id": "PICK::2026::1::466.l.7111.t.8",
@@ -2544,6 +2951,28 @@
     "sort_label": "aday mara"
   },
   {
+    "asset_id": "PLAYER::steveblakeexpress::466.p.10108",
+    "asset_type": "PLAYER",
+    "team_name": "SteveBlakeExpress",
+    "display_name": "Amen Thompson",
+    "salary_value": 45,
+    "player_name": "Amen Thompson",
+    "player_id": "466.p.10108",
+    "sort_group": 0,
+    "sort_label": "amen thompson"
+  },
+  {
+    "asset_id": "PLAYER::steveblakeexpress::466.p.5007",
+    "asset_type": "PLAYER",
+    "team_name": "SteveBlakeExpress",
+    "display_name": "Anthony Davis",
+    "salary_value": 37,
+    "player_name": "Anthony Davis",
+    "player_id": "466.p.5007",
+    "sort_group": 0,
+    "sort_label": "anthony davis"
+  },
+  {
     "asset_id": "PLAYER::steveblakeexpress::466.p.10096",
     "asset_type": "PLAYER",
     "team_name": "SteveBlakeExpress",
@@ -2566,6 +2995,17 @@
     "sort_label": "derik queen"
   },
   {
+    "asset_id": "PLAYER::steveblakeexpress::466.p.5069",
+    "asset_type": "PLAYER",
+    "team_name": "SteveBlakeExpress",
+    "display_name": "Draymond Green",
+    "salary_value": 12,
+    "player_name": "Draymond Green",
+    "player_id": "466.p.5069",
+    "sort_group": 0,
+    "sort_label": "draymond green"
+  },
+  {
     "asset_id": "PLAYER::steveblakeexpress::466.p.10467",
     "asset_type": "PLAYER",
     "team_name": "SteveBlakeExpress",
@@ -2575,6 +3015,61 @@
     "player_id": "466.p.10467",
     "sort_group": 0,
     "sort_label": "dylan harper"
+  },
+  {
+    "asset_id": "PLAYER::steveblakeexpress::466.p.6698",
+    "asset_type": "PLAYER",
+    "team_name": "SteveBlakeExpress",
+    "display_name": "Dyson Daniels",
+    "salary_value": 40,
+    "player_name": "Dyson Daniels",
+    "player_id": "466.p.6698",
+    "sort_group": 0,
+    "sort_label": "dyson daniels"
+  },
+  {
+    "asset_id": "PLAYER::steveblakeexpress::466.p.6577",
+    "asset_type": "PLAYER",
+    "team_name": "SteveBlakeExpress",
+    "display_name": "Herbert Jones",
+    "salary_value": 7,
+    "player_name": "Herbert Jones",
+    "player_id": "466.p.6577",
+    "sort_group": 0,
+    "sort_label": "herbert jones"
+  },
+  {
+    "asset_id": "PLAYER::steveblakeexpress::466.p.6703",
+    "asset_type": "PLAYER",
+    "team_name": "SteveBlakeExpress",
+    "display_name": "Jalen Duren",
+    "salary_value": 38,
+    "player_name": "Jalen Duren",
+    "player_id": "466.p.6703",
+    "sort_group": 0,
+    "sort_label": "jalen duren"
+  },
+  {
+    "asset_id": "PLAYER::steveblakeexpress::466.p.5835",
+    "asset_type": "PLAYER",
+    "team_name": "SteveBlakeExpress",
+    "display_name": "Jarrett Allen",
+    "salary_value": 27,
+    "player_name": "Jarrett Allen",
+    "player_id": "466.p.5835",
+    "sort_group": 0,
+    "sort_label": "jarrett allen"
+  },
+  {
+    "asset_id": "PLAYER::steveblakeexpress::matisse_thybulle",
+    "asset_type": "PLAYER",
+    "team_name": "SteveBlakeExpress",
+    "display_name": "Matisse Thybulle",
+    "salary_value": 1,
+    "player_name": "Matisse Thybulle",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "matisse thybulle"
   },
   {
     "asset_id": "PLAYER::steveblakeexpress::466.p.10496",
@@ -2599,6 +3094,17 @@
     "sort_label": "moussa diabate"
   },
   {
+    "asset_id": "PLAYER::steveblakeexpress::466.p.6581",
+    "asset_type": "PLAYER",
+    "team_name": "SteveBlakeExpress",
+    "display_name": "Neemias Queta",
+    "salary_value": 21,
+    "player_name": "Neemias Queta",
+    "player_id": "466.p.6581",
+    "sort_group": 0,
+    "sort_label": "neemias queta"
+  },
+  {
     "asset_id": "PLAYER::steveblakeexpress::466.p.6707",
     "asset_type": "PLAYER",
     "team_name": "SteveBlakeExpress",
@@ -2608,17 +3114,6 @@
     "player_id": "466.p.6707",
     "sort_group": 0,
     "sort_label": "tari eason"
-  },
-  {
-    "asset_id": "PLAYER::steveblakeexpress::yaxel_lendeborg",
-    "asset_type": "PLAYER",
-    "team_name": "SteveBlakeExpress",
-    "display_name": "Yaxel Lendeborg",
-    "salary_value": 5,
-    "player_name": "Yaxel Lendeborg",
-    "player_id": "",
-    "sort_group": 0,
-    "sort_label": "yaxel lendeborg"
   },
   {
     "asset_id": "PICK::2026::1::466.l.7111.t.9",
@@ -2822,6 +3317,17 @@
     "sort_label": "christian braun"
   },
   {
+    "asset_id": "PLAYER::tbach24::466.p.6169",
+    "asset_type": "PLAYER",
+    "team_name": "tbach24",
+    "display_name": "Coby White",
+    "salary_value": 20,
+    "player_name": "Coby White",
+    "player_id": "466.p.6169",
+    "sort_group": 0,
+    "sort_label": "coby white"
+  },
+  {
     "asset_id": "PLAYER::tbach24::darryn_peterson",
     "asset_type": "PLAYER",
     "team_name": "tbach24",
@@ -2833,6 +3339,17 @@
     "sort_label": "darryn peterson"
   },
   {
+    "asset_id": "PLAYER::tbach24::466.p.6551",
+    "asset_type": "PLAYER",
+    "team_name": "tbach24",
+    "display_name": "Davion Mitchell",
+    "salary_value": 3,
+    "player_name": "Davion Mitchell",
+    "player_id": "466.p.6551",
+    "sort_group": 0,
+    "sort_label": "davion mitchell"
+  },
+  {
     "asset_id": "PLAYER::tbach24::466.p.5842",
     "asset_type": "PLAYER",
     "team_name": "tbach24",
@@ -2842,6 +3359,28 @@
     "player_id": "466.p.5842",
     "sort_group": 0,
     "sort_label": "derrick white"
+  },
+  {
+    "asset_id": "PLAYER::tbach24::466.p.5640",
+    "asset_type": "PLAYER",
+    "team_name": "tbach24",
+    "display_name": "Jakob Poeltl",
+    "salary_value": 1,
+    "player_name": "Jakob Poeltl",
+    "player_id": "466.p.5640",
+    "sort_group": 0,
+    "sort_label": "jakob poeltl"
+  },
+  {
+    "asset_id": "PLAYER::tbach24::466.p.4563",
+    "asset_type": "PLAYER",
+    "team_name": "tbach24",
+    "display_name": "James Harden",
+    "salary_value": 39,
+    "player_name": "James Harden",
+    "player_id": "466.p.4563",
+    "sort_group": 0,
+    "sort_label": "james harden"
   },
   {
     "asset_id": "PLAYER::tbach24::karim_lopez",
@@ -2866,6 +3405,17 @@
     "sort_label": "kel'el ware"
   },
   {
+    "asset_id": "PLAYER::tbach24::466.p.5769",
+    "asset_type": "PLAYER",
+    "team_name": "tbach24",
+    "display_name": "Lauri Markkanen",
+    "salary_value": 37,
+    "player_name": "Lauri Markkanen",
+    "player_id": "466.p.5769",
+    "sort_group": 0,
+    "sort_label": "lauri markkanen"
+  },
+  {
     "asset_id": "PLAYER::tbach24::466.p.6412",
     "asset_type": "PLAYER",
     "team_name": "tbach24",
@@ -2886,6 +3436,28 @@
     "player_id": "466.p.5197",
     "sort_group": 0,
     "sort_label": "rudy gobert"
+  },
+  {
+    "asset_id": "PLAYER::tbach24::466.p.4612",
+    "asset_type": "PLAYER",
+    "team_name": "tbach24",
+    "display_name": "Stephen Curry",
+    "salary_value": 31,
+    "player_name": "Stephen Curry",
+    "player_id": "466.p.4612",
+    "sort_group": 0,
+    "sort_label": "stephen curry"
+  },
+  {
+    "asset_id": "PLAYER::tbach24::466.p.6559",
+    "asset_type": "PLAYER",
+    "team_name": "tbach24",
+    "display_name": "Trey Murphy III",
+    "salary_value": 40,
+    "player_name": "Trey Murphy III",
+    "player_id": "466.p.6559",
+    "sort_group": 0,
+    "sort_label": "trey murphy iii"
   },
   {
     "asset_id": "PLAYER::tbach24::walter_clayton_jr",
@@ -3089,6 +3661,17 @@
     "sort_label": "2026_2"
   },
   {
+    "asset_id": "PLAYER::terror_squad::466.p.6406",
+    "asset_type": "PLAYER",
+    "team_name": "Terror Squad",
+    "display_name": "Aaron Nesmith",
+    "salary_value": 1,
+    "player_name": "Aaron Nesmith",
+    "player_id": "466.p.6406",
+    "sort_group": 0,
+    "sort_label": "aaron nesmith"
+  },
+  {
     "asset_id": "PLAYER::terror_squad::466.p.10095",
     "asset_type": "PLAYER",
     "team_name": "Terror Squad",
@@ -3133,6 +3716,61 @@
     "sort_label": "darius garland"
   },
   {
+    "asset_id": "PLAYER::terror_squad::466.p.5767",
+    "asset_type": "PLAYER",
+    "team_name": "Terror Squad",
+    "display_name": "De'Aaron Fox",
+    "salary_value": 25,
+    "player_name": "De'Aaron Fox",
+    "player_id": "466.p.5767",
+    "sort_group": 0,
+    "sort_label": "de'aaron fox"
+  },
+  {
+    "asset_id": "PLAYER::terror_squad::466.p.6403",
+    "asset_type": "PLAYER",
+    "team_name": "Terror Squad",
+    "display_name": "Devin Vassell",
+    "salary_value": 2,
+    "player_name": "Devin Vassell",
+    "player_id": "466.p.6403",
+    "sort_group": 0,
+    "sort_label": "devin vassell"
+  },
+  {
+    "asset_id": "PLAYER::terror_squad::isaiah_stewart",
+    "asset_type": "PLAYER",
+    "team_name": "Terror Squad",
+    "display_name": "Isaiah Stewart",
+    "salary_value": 1,
+    "player_name": "Isaiah Stewart",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "isaiah stewart"
+  },
+  {
+    "asset_id": "PLAYER::terror_squad::466.p.5318",
+    "asset_type": "PLAYER",
+    "team_name": "Terror Squad",
+    "display_name": "Julius Randle",
+    "salary_value": 19,
+    "player_name": "Julius Randle",
+    "player_id": "466.p.5318",
+    "sort_group": 0,
+    "sort_label": "julius randle"
+  },
+  {
+    "asset_id": "PLAYER::terror_squad::466.p.4896",
+    "asset_type": "PLAYER",
+    "team_name": "Terror Squad",
+    "display_name": "Kawhi Leonard",
+    "salary_value": 40,
+    "player_name": "Kawhi Leonard",
+    "player_id": "466.p.4896",
+    "sort_group": 0,
+    "sort_label": "kawhi leonard"
+  },
+  {
     "asset_id": "PLAYER::terror_squad::kingston_flemings",
     "asset_type": "PLAYER",
     "team_name": "Terror Squad",
@@ -3155,6 +3793,17 @@
     "sort_label": "onyeka okongwu"
   },
   {
+    "asset_id": "PLAYER::terror_squad::scotty_pippen_jr",
+    "asset_type": "PLAYER",
+    "team_name": "Terror Squad",
+    "display_name": "Scotty Pippen Jr.",
+    "salary_value": 1,
+    "player_name": "Scotty Pippen Jr.",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "scotty pippen jr."
+  },
+  {
     "asset_id": "PLAYER::terror_squad::thomas_sorber",
     "asset_type": "PLAYER",
     "team_name": "Terror Squad",
@@ -3164,6 +3813,28 @@
     "player_id": "",
     "sort_group": 0,
     "sort_label": "thomas sorber"
+  },
+  {
+    "asset_id": "PLAYER::terror_squad::466.p.10065",
+    "asset_type": "PLAYER",
+    "team_name": "Terror Squad",
+    "display_name": "Toumani Camara",
+    "salary_value": 10,
+    "player_name": "Toumani Camara",
+    "player_id": "466.p.10065",
+    "sort_group": 0,
+    "sort_label": "toumani camara"
+  },
+  {
+    "asset_id": "PLAYER::terror_squad::466.p.6018",
+    "asset_type": "PLAYER",
+    "team_name": "Terror Squad",
+    "display_name": "Wendell Carter Jr.",
+    "salary_value": 2,
+    "player_name": "Wendell Carter Jr.",
+    "player_id": "466.p.6018",
+    "sort_group": 0,
+    "sort_label": "wendell carter jr."
   },
   {
     "asset_id": "PLAYER::terror_squad::zuby_ejiofor",
@@ -3355,6 +4026,17 @@
     "sort_label": "2026_2"
   },
   {
+    "asset_id": "PLAYER::theboogiedowns::466.p.5295",
+    "asset_type": "PLAYER",
+    "team_name": "TheBoogieDowns",
+    "display_name": "Aaron Gordon",
+    "salary_value": 1,
+    "player_name": "Aaron Gordon",
+    "player_id": "466.p.5295",
+    "sort_group": 0,
+    "sort_label": "aaron gordon"
+  },
+  {
     "asset_id": "PLAYER::theboogiedowns::466.p.10294",
     "asset_type": "PLAYER",
     "team_name": "TheBoogieDowns",
@@ -3410,6 +4092,39 @@
     "sort_label": "cameron carr"
   },
   {
+    "asset_id": "PLAYER::theboogiedowns::466.p.6751",
+    "asset_type": "PLAYER",
+    "team_name": "TheBoogieDowns",
+    "display_name": "Collin Gillespie",
+    "salary_value": 1,
+    "player_name": "Collin Gillespie",
+    "player_id": "466.p.6751",
+    "sort_group": 0,
+    "sort_label": "collin gillespie"
+  },
+  {
+    "asset_id": "PLAYER::theboogiedowns::466.p.6226",
+    "asset_type": "PLAYER",
+    "team_name": "TheBoogieDowns",
+    "display_name": "Daniel Gafford",
+    "salary_value": 1,
+    "player_name": "Daniel Gafford",
+    "player_id": "466.p.6226",
+    "sort_group": 0,
+    "sort_label": "daniel gafford"
+  },
+  {
+    "asset_id": "PLAYER::theboogiedowns::466.p.6549",
+    "asset_type": "PLAYER",
+    "team_name": "TheBoogieDowns",
+    "display_name": "Jonathan Kuminga",
+    "salary_value": 1,
+    "player_name": "Jonathan Kuminga",
+    "player_id": "466.p.6549",
+    "sort_group": 0,
+    "sort_label": "jonathan kuminga"
+  },
+  {
     "asset_id": "PLAYER::theboogiedowns::466.p.10469",
     "asset_type": "PLAYER",
     "team_name": "TheBoogieDowns",
@@ -3421,6 +4136,17 @@
     "sort_label": "nique clifford"
   },
   {
+    "asset_id": "PLAYER::theboogiedowns::466.p.6174",
+    "asset_type": "PLAYER",
+    "team_name": "TheBoogieDowns",
+    "display_name": "P.J. Washington",
+    "salary_value": 1,
+    "player_name": "P.J. Washington",
+    "player_id": "466.p.6174",
+    "sort_group": 0,
+    "sort_label": "p.j. washington"
+  },
+  {
     "asset_id": "PLAYER::theboogiedowns::466.p.6691",
     "asset_type": "PLAYER",
     "team_name": "TheBoogieDowns",
@@ -3430,6 +4156,17 @@
     "player_id": "466.p.6691",
     "sort_group": 0,
     "sort_label": "paolo banchero"
+  },
+  {
+    "asset_id": "PLAYER::theboogiedowns::sandro_mamukelashvili",
+    "asset_type": "PLAYER",
+    "team_name": "TheBoogieDowns",
+    "display_name": "Sandro Mamukelashvili",
+    "salary_value": 1,
+    "player_name": "Sandro Mamukelashvili",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "sandro mamukelashvili"
   },
   {
     "asset_id": "PLAYER::theboogiedowns::466.p.6022",
