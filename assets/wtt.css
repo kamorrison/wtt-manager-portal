@@ -40,6 +40,9 @@ h1 { margin: 0; font-size: clamp(32px, 4vw, 52px); }
 .metric-card { padding: 18px; }
 .metric-label { color: var(--muted); display: block; font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; }
 .metric-value { display: block; font-size: 28px; margin-top: 10px; }
+.cap-positive { color: #9ef0cb; }
+.cap-negative { color: #ff9f9f; }
+.cap-neutral { color: var(--text); }
 .metric-note { color: var(--muted); margin: 10px 0 0; font-size: 14px; }
 .notice { padding: 14px 16px; margin-bottom: 24px; }
 .notice.warning { border-color: rgba(217,142,4,0.45); background: rgba(217,142,4,0.09); }
