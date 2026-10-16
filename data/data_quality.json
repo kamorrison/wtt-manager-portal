@@ -9,6 +9,8 @@
   "duplicate_player_names": [],
   "teams_over_soft_cap": [
     "James42",
+    "KOMPUTERS 'PUTIN'",
+    "SteveBlakeExpress",
     "TheBoogieDowns"
   ],
   "teams_over_hard_cap": [],
@@ -139,7 +141,7 @@
     "free_agent_pool": 84,
     "salary_projection": 203,
     "pick_assets": 288,
-    "g_league": 33,
+    "g_league": 34,
     "rookie_lottery_assignments": 24,
     "rookie_draft_results": 84,
     "rookie_draft_board": 24
@@ -169,5 +171,5 @@
   "manual_review": [
     "Expired rookie missing RFA rights: noa essengue"
   ],
-  "last_generated_timestamp": "2026-10-14T06:02:02.169225"
+  "last_generated_timestamp": "2026-10-16T19:43:24.910001"
 }

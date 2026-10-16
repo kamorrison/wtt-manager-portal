@@ -2020,17 +2020,6 @@
     "sort_label": "ty jerome"
   },
   {
-    "asset_id": "PLAYER::nyk_ftw_delta::yaxel_lendeborg",
-    "asset_type": "PLAYER",
-    "team_name": "NYK FTW ∆",
-    "display_name": "Yaxel Lendeborg",
-    "salary_value": 1,
-    "player_name": "Yaxel Lendeborg",
-    "player_id": "",
-    "sort_group": 0,
-    "sort_label": "yaxel lendeborg"
-  },
-  {
     "asset_id": "PICK::2026::2::466.l.7111.t.2",
     "asset_type": "ROOKIE_PICK",
     "team_name": "NYK FTW ∆",
@@ -3114,6 +3103,17 @@
     "player_id": "466.p.6707",
     "sort_group": 0,
     "sort_label": "tari eason"
+  },
+  {
+    "asset_id": "PLAYER::steveblakeexpress::yaxel_lendeborg",
+    "asset_type": "PLAYER",
+    "team_name": "SteveBlakeExpress",
+    "display_name": "Yaxel Lendeborg",
+    "salary_value": 1,
+    "player_name": "Yaxel Lendeborg",
+    "player_id": "",
+    "sort_group": 0,
+    "sort_label": "yaxel lendeborg"
   },
   {
     "asset_id": "PICK::2026::1::466.l.7111.t.9",
