@@ -2288,16 +2288,16 @@
     "rookie_contract_designation": "",
     "contract_type": "UFA_DRAFT_2026",
     "start_salary": "37",
-    "years_remaining_entering_2026": "1",
+    "years_remaining_entering_2026": "3",
     "salary_2026": "37",
-    "salary_2027": "0",
-    "salary_2028": "0",
+    "salary_2027": "40",
+    "salary_2028": "44",
     "salary_2029": "0",
     "salary_2030": "0",
     "salary_2031": "0",
-    "expires_after_year": "2026",
+    "expires_after_year": "2028",
     "becomes_free_agent_type": "UFA",
-    "notes": "2026 UFA draft: $37M; contract length pending commissioner confirmation"
+    "notes": "Commissioner-confirmed 2026 contract: $37M / 3 years"
   },
   {
     "team_id": "466.l.7111.t.7",
@@ -2368,16 +2368,16 @@
     "rookie_contract_designation": "",
     "contract_type": "UFA_DRAFT_2026",
     "start_salary": "40",
-    "years_remaining_entering_2026": "1",
+    "years_remaining_entering_2026": "2",
     "salary_2026": "40",
-    "salary_2027": "0",
+    "salary_2027": "44",
     "salary_2028": "0",
     "salary_2029": "0",
     "salary_2030": "0",
     "salary_2031": "0",
-    "expires_after_year": "2026",
+    "expires_after_year": "2027",
     "becomes_free_agent_type": "UFA",
-    "notes": "2026 UFA draft: $40M; contract length pending commissioner confirmation"
+    "notes": "Commissioner-confirmed 2026 contract: $40M / 2 years"
   },
   {
     "team_id": "466.l.7111.t.10",
@@ -2388,16 +2388,16 @@
     "rookie_contract_designation": "",
     "contract_type": "UFA_DRAFT_2026",
     "start_salary": "31",
-    "years_remaining_entering_2026": "1",
+    "years_remaining_entering_2026": "3",
     "salary_2026": "31",
-    "salary_2027": "0",
-    "salary_2028": "0",
+    "salary_2027": "34",
+    "salary_2028": "37",
     "salary_2029": "0",
     "salary_2030": "0",
     "salary_2031": "0",
-    "expires_after_year": "2026",
+    "expires_after_year": "2028",
     "becomes_free_agent_type": "UFA",
-    "notes": "2026 UFA draft: $31M; contract length pending commissioner confirmation"
+    "notes": "Commissioner-confirmed 2026 contract: $31M / 3 years"
   },
   {
     "team_id": "466.l.7111.t.7",
@@ -2448,16 +2448,16 @@
     "rookie_contract_designation": "",
     "contract_type": "UFA_DRAFT_2026",
     "start_salary": "13",
-    "years_remaining_entering_2026": "1",
+    "years_remaining_entering_2026": "3",
     "salary_2026": "13",
-    "salary_2027": "0",
-    "salary_2028": "0",
+    "salary_2027": "15",
+    "salary_2028": "17",
     "salary_2029": "0",
     "salary_2030": "0",
     "salary_2031": "0",
-    "expires_after_year": "2026",
+    "expires_after_year": "2028",
     "becomes_free_agent_type": "UFA",
-    "notes": "2026 UFA draft: $13M; contract length pending commissioner confirmation"
+    "notes": "Commissioner-confirmed 2026 contract: $13M / 3 years"
   },
   {
     "team_id": "466.l.7111.t.10",
@@ -3606,7 +3606,7 @@
     "player_name": "Cameron Boozer",
     "contract_class": "ROOKIE",
     "rookie_contract_designation": "ROOKIE_1",
-    "contract_type": "ROOKIE_DRAFT_PENDING",
+    "contract_type": "ROOKIE",
     "start_salary": "10",
     "years_remaining_entering_2026": "4",
     "salary_2026": "10",
@@ -3616,8 +3616,8 @@
     "salary_2030": "0",
     "salary_2031": "0",
     "expires_after_year": "2029",
-    "becomes_free_agent_type": "UFA",
-    "notes": "Completed 2026 rookie draft result; reserved until the UFA draft concludes"
+    "becomes_free_agent_type": "RFA",
+    "notes": "Commissioner-confirmed 2026 contract: $10M / 4 years"
   },
   {
     "team_id": "466.l.7111.t.3",
@@ -3666,7 +3666,7 @@
     "player_name": "Darryn Peterson",
     "contract_class": "ROOKIE",
     "rookie_contract_designation": "ROOKIE_2",
-    "contract_type": "ROOKIE_DRAFT_PENDING",
+    "contract_type": "ROOKIE",
     "start_salary": "7",
     "years_remaining_entering_2026": "4",
     "salary_2026": "7",
@@ -3676,8 +3676,8 @@
     "salary_2030": "0",
     "salary_2031": "0",
     "expires_after_year": "2029",
-    "becomes_free_agent_type": "UFA",
-    "notes": "Completed 2026 rookie draft result; reserved until the UFA draft concludes"
+    "becomes_free_agent_type": "RFA",
+    "notes": "Commissioner-confirmed 2026 contract: $7M / 4 years"
   },
   {
     "team_id": "466.l.7111.t.2",
@@ -3826,7 +3826,7 @@
     "player_name": "Ebuka Okorie",
     "contract_class": "ROOKIE",
     "rookie_contract_designation": "ROOKIE_5",
-    "contract_type": "ROOKIE_DRAFT_PENDING",
+    "contract_type": "ROOKIE",
     "start_salary": "1",
     "years_remaining_entering_2026": "4",
     "salary_2026": "1",
@@ -3836,8 +3836,8 @@
     "salary_2030": "0",
     "salary_2031": "0",
     "expires_after_year": "2029",
-    "becomes_free_agent_type": "UFA",
-    "notes": "Completed 2026 rookie draft result; reserved until the UFA draft concludes"
+    "becomes_free_agent_type": "RFA",
+    "notes": "Commissioner-confirmed 2026 contract: $1M / 4 years"
   },
   {
     "team_id": "466.l.7111.t.6",
