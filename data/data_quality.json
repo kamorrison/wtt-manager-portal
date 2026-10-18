@@ -31,7 +31,7 @@
     "TheBoogieDowns": 3
   },
   "rfa_rights_rows": 44,
-  "rfa_rights_rows_final": 88,
+  "rfa_rights_rows_final": 44,
   "rfa_excluded_candidate_rows": 211,
   "rfa_exclusion_reasons": {
     "DRAFT_PICK_ASSET_NOT_PLAYER": 48,
@@ -52,32 +52,20 @@
   "rfa_rows_missing_latest_transaction": 0,
   "rfa_manual_review_rows": 0,
   "rfa_count_by_team_final": {
-    "Terror Squad": 12,
-    "TheBoogieDowns": 5,
-    "Obi Stoppin & Poppin": 4,
-    "SteveBlakeExpress": 6,
-    "Crossover king": 12,
-    "Machines": 6,
-    "CG Paper": 6,
-    "KOMPUTERS 'PUTIN'": 10,
-    "Speedsters": 9,
-    "James42": 3,
-    "tbach24": 6,
-    "NYK FTW ∆": 9
+    "CG Paper": 3,
+    "Crossover king": 4,
+    "James42": 2,
+    "KOMPUTERS 'PUTIN'": 6,
+    "Machines": 3,
+    "NYK FTW ∆": 4,
+    "Speedsters": 6,
+    "SteveBlakeExpress": 4,
+    "tbach24": 4,
+    "Terror Squad": 5,
+    "TheBoogieDowns": 3
   },
-  "rfa_team_warnings": [
-    {
-      "team_name": "Crossover king",
-      "count": 12,
-      "warning": "WARNING_HIGH_RFA_COUNT"
-    },
-    {
-      "team_name": "Terror Squad",
-      "count": 12,
-      "warning": "WARNING_HIGH_RFA_COUNT"
-    }
-  ],
-  "ufa_count": 38,
+  "rfa_team_warnings": [],
+  "ufa_count": 39,
   "draft_pick_rows_excluded_from_players": 0,
   "draft_pick_rows_excluded_from_rfa": 48,
   "draft_pick_rows_excluded_from_ufa": 48,
@@ -85,7 +73,7 @@
   "draft_pick_asset_leak_errors": [],
   "salary_floor_reconciliation_errors": [],
   "salary_rows_normalized_to_floor": [],
-  "rookie_pick_ownership_warnings": 172,
+  "rookie_pick_ownership_warnings": 0,
   "pick_asset_count_by_year_round": {
     "2021-R1": 12,
     "2021-R2": 12,
@@ -149,30 +137,22 @@
     "rookie_draft_results": 84,
     "rookie_draft_board": 24
   },
-  "manual_review_items": [
-    "Dashboard amnesty cells include date-like values for some teams and should be reviewed manually.",
-    "Legacy workbook contains mixed rookie contract labels such as R, Rookie2, and Rookie4."
-  ],
+  "manual_review_items": [],
   "commissioner_confirmations": [
     "Discord confirmation dated 2026-02-13: Terror Squad renounced rights to Yang Hansen.",
     "Discord confirmation dated 2026-02-13: Obi Stoppin & Poppin signed Kon Knueppel on 2025-10-17 for $8 over 3 years as a 2025 rookie.",
     "Discord confirmation dated 2026-02-13: Isaiah Collier is not on KOMPUTERS 'PUTIN' roster or G League."
   ],
   "commissioner_confirmation_count": 3,
-  "validation_status": "WARNING",
+  "validation_status": "PASS",
   "critical_error_count": 0,
-  "warning_count": 2,
-  "manual_review_count": 1,
+  "warning_count": 0,
+  "manual_review_count": 0,
   "build_workbook_allowed": true,
-  "public_badge": "WARNING",
-  "status_note": "Unofficial / pending commissioner validation.",
+  "public_badge": "CLEAN",
+  "status_note": "Current processed snapshot.",
   "critical_errors": [],
-  "warnings": [
-    "Rookie contract metadata needs commissioner review.",
-    "Team aliases require commissioner review."
-  ],
-  "manual_review": [
-    "Expired rookie missing RFA rights: noa essengue"
-  ],
-  "last_generated_timestamp": "2026-10-18T06:59:46.791697"
+  "warnings": [],
+  "manual_review": [],
+  "last_generated_timestamp": "2026-10-18T07:17:35.596710"
 }
