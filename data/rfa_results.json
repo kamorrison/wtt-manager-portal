@@ -14,10 +14,10 @@
     "final_team_name": "KOMPUTERS 'PUTIN'",
     "final_salary": "39",
     "final_years": "4",
-    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
     "decision_date": "2026-09-26",
-    "notes": "Commissioner-recorded completed 2026 RFA result"
+    "notes": "Commissioner-recorded completed 2026 RFA result; contract activated"
   },
   {
     "season": "2026",
@@ -34,10 +34,10 @@
     "final_team_name": "KOMPUTERS 'PUTIN'",
     "final_salary": "6",
     "final_years": "4",
-    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
     "decision_date": "2026-09-26",
-    "notes": "Commissioner-recorded completed 2026 RFA result"
+    "notes": "Commissioner-recorded completed 2026 RFA result; contract activated"
   },
   {
     "season": "2026",
@@ -57,7 +57,7 @@
     "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
     "decision_date": "2026-09-26",
-    "notes": "Commissioner-recorded completed 2026 RFA result"
+    "notes": "Commissioner-recorded completed 2026 RFA result; contract activated"
   },
   {
     "season": "2026",
@@ -74,10 +74,10 @@
     "final_team_name": "James42",
     "final_salary": "15",
     "final_years": "3",
-    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
     "decision_date": "2026-09-26",
-    "notes": "Commissioner-recorded completed 2026 RFA result"
+    "notes": "Commissioner-recorded completed 2026 RFA result; contract activated"
   },
   {
     "season": "2026",
@@ -114,10 +114,10 @@
     "final_team_name": "SteveBlakeExpress",
     "final_salary": "5",
     "final_years": "3",
-    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
     "decision_date": "2026-09-26",
-    "notes": "RFA rights traded, then final contract recorded; excluded from current UFA cap until activation"
+    "notes": "RFA rights traded, then final contract recorded and activated"
   },
   {
     "season": "2026",
@@ -134,10 +134,10 @@
     "final_team_name": "SteveBlakeExpress",
     "final_salary": "4",
     "final_years": "2",
-    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
     "decision_date": "2026-09-26",
-    "notes": "RFA rights traded, then final contract recorded; excluded from current UFA cap until activation"
+    "notes": "RFA rights traded, then final contract recorded and activated"
   },
   {
     "season": "2026",
@@ -154,10 +154,10 @@
     "final_team_name": "NYK FTW ∆",
     "final_salary": "9",
     "final_years": "2",
-    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
     "decision_date": "2026-09-26",
-    "notes": "Commissioner-recorded completed 2026 RFA result"
+    "notes": "Commissioner-recorded completed 2026 RFA result; contract activated"
   },
   {
     "season": "2026",
@@ -177,7 +177,7 @@
     "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
     "decision_date": "2026-09-26",
-    "notes": "Commissioner-recorded completed 2026 RFA result"
+    "notes": "Commissioner-recorded completed 2026 RFA result; contract activated"
   },
   {
     "season": "2026",
@@ -197,7 +197,7 @@
     "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
     "decision_date": "2026-09-26",
-    "notes": "Commissioner-recorded completed 2026 RFA result"
+    "notes": "Commissioner-recorded completed 2026 RFA result; contract activated"
   },
   {
     "season": "2026",
@@ -214,10 +214,10 @@
     "final_team_name": "Speedsters",
     "final_salary": "9",
     "final_years": "1",
-    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
     "decision_date": "2026-09-26",
-    "notes": "Commissioner-recorded completed 2026 RFA result"
+    "notes": "Commissioner-recorded completed 2026 RFA result; contract activated"
   },
   {
     "season": "2026",
@@ -234,10 +234,10 @@
     "final_team_name": "Obi Stoppin & Poppin",
     "final_salary": "28",
     "final_years": "4",
-    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
     "decision_date": "2026-09-26",
-    "notes": "Commissioner-recorded completed 2026 RFA result"
+    "notes": "Commissioner-recorded completed 2026 RFA result; contract activated"
   },
   {
     "season": "2026",
@@ -257,7 +257,7 @@
     "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
     "decision_date": "2026-09-26",
-    "notes": "Commissioner-recorded completed 2026 RFA result"
+    "notes": "Commissioner-recorded completed 2026 RFA result; contract activated"
   },
   {
     "season": "2026",
@@ -274,10 +274,10 @@
     "final_team_name": "NYK FTW ∆",
     "final_salary": "35",
     "final_years": "3",
-    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
     "decision_date": "2026-09-26",
-    "notes": "RFA rights traded, then final contract recorded; excluded from current UFA cap until activation"
+    "notes": "RFA rights traded, then final contract recorded and activated"
   },
   {
     "season": "2026",
@@ -294,10 +294,10 @@
     "final_team_name": "Machines",
     "final_salary": "25",
     "final_years": "4",
-    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
     "decision_date": "2026-09-26",
-    "notes": "Commissioner-recorded completed 2026 RFA result"
+    "notes": "Commissioner-recorded completed 2026 RFA result; contract activated"
   },
   {
     "season": "2026",
@@ -314,10 +314,10 @@
     "final_team_name": "Machines",
     "final_salary": "2",
     "final_years": "4",
-    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
     "decision_date": "2026-09-26",
-    "notes": "Commissioner-recorded completed 2026 RFA result"
+    "notes": "Commissioner-recorded completed 2026 RFA result; contract activated"
   },
   {
     "season": "2026",
@@ -337,7 +337,7 @@
     "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
     "decision_date": "2026-09-26",
-    "notes": "Commissioner-recorded completed 2026 RFA result"
+    "notes": "Commissioner-recorded completed 2026 RFA result; contract activated"
   },
   {
     "season": "2026",
@@ -374,7 +374,7 @@
     "final_team_name": "NYK FTW ∆",
     "final_salary": "1",
     "final_years": "1",
-    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
     "decision_date": "2026-09-27",
     "notes": "Retained by rights holder after receiving no competing offer; Discord declaration recorded 2026-09-27"
@@ -394,7 +394,7 @@
     "final_team_name": "Crossover king",
     "final_salary": "1",
     "final_years": "2",
-    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
     "decision_date": "2026-09-27",
     "notes": "Retained by rights holder after receiving no competing offer; Discord declaration recorded 2026-09-27"
@@ -414,7 +414,7 @@
     "final_team_name": "Crossover king",
     "final_salary": "1",
     "final_years": "1",
-    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
     "decision_date": "2026-09-27",
     "notes": "Retained by rights holder after receiving no competing offer; Discord declaration recorded 2026-09-27"
@@ -434,7 +434,7 @@
     "final_team_name": "tbach24",
     "final_salary": "1",
     "final_years": "1",
-    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
     "decision_date": "2026-09-27",
     "notes": "Retained by rights holder after receiving no competing offer; Discord declaration recorded 2026-09-27"
@@ -454,7 +454,7 @@
     "final_team_name": "Terror Squad",
     "final_salary": "1",
     "final_years": "4",
-    "rfa_cap_status": "PENDING_ACTIVATION",
+    "rfa_cap_status": "CAP_ACTIVE",
     "transaction_status": "COMPLETE",
     "decision_date": "2026-09-27",
     "notes": "Retained by rights holder after receiving no competing offer; Discord declaration recorded 2026-09-27"
