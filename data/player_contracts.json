@@ -6466,7 +6466,7 @@
     "player_id": "",
     "player_name": "Kingston Flemings",
     "contract_class": "ROOKIE",
-    "contract_type": "ROOKIE_DRAFT_PENDING",
+    "contract_type": "ROOKIE",
     "rookie_contract_designation": "ROOKIE_4",
     "rookie_draft_year": "2026",
     "rookie_draft_round": "1",
@@ -6474,7 +6474,7 @@
     "rookie_salary_pct": "0.01",
     "rookie_salary_source": "2025+_SOFT_CAP_PCT",
     "current_salary": "2",
-    "salary_used": "0",
+    "salary_used": "2",
     "contract_years_remaining": "4",
     "original_contract_length": "4",
     "contract_start_year": "2026",
@@ -6486,12 +6486,12 @@
     "g_league_flag": "N",
     "source_sheet": "2026 Rookie Draft Results",
     "source_row": "Pick 12",
-    "notes": "Completed 2026 rookie draft result; reserved until the UFA draft concludes",
+    "notes": "Commissioner-confirmed 2026 contract: $2M / 4 years",
     "rfa_status": "",
     "rfa_cap_status": "",
     "rfa_winning_bidder_team_name": "",
     "acquisition_type": "",
-    "rookie_cap_status": "PENDING_ACTIVATION"
+    "rookie_cap_status": "CAP_ACTIVE"
   },
   {
     "season": "2026",
