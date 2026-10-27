@@ -2017,7 +2017,7 @@
     "salary_2031": "0",
     "expires_after_year": "2029",
     "becomes_free_agent_type": "UFA",
-    "notes": "Commissioner-recorded completed 2026 RFA result; contract activated; counts against the current salary ledger"
+    "notes": "Commissioner-approved 2026-27 disabled-player exception; $28M / 4-year contract preserved"
   },
   {
     "team_id": "466.l.7111.t.6",
@@ -2408,16 +2408,16 @@
     "rookie_contract_designation": "",
     "contract_type": "UFA_DRAFT_2026",
     "start_salary": "12",
-    "years_remaining_entering_2026": "1",
+    "years_remaining_entering_2026": "3",
     "salary_2026": "12",
-    "salary_2027": "0",
-    "salary_2028": "0",
+    "salary_2027": "14",
+    "salary_2028": "16",
     "salary_2029": "0",
     "salary_2030": "0",
     "salary_2031": "0",
-    "expires_after_year": "2026",
+    "expires_after_year": "2028",
     "becomes_free_agent_type": "UFA",
-    "notes": "2026 UFA draft: $12M; contract length pending commissioner confirmation"
+    "notes": "Commissioner-confirmed 2026 contract: $12M / 3 years"
   },
   {
     "team_id": "466.l.7111.t.8",

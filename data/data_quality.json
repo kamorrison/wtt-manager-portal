@@ -12,7 +12,6 @@
     "KOMPUTERS 'PUTIN'",
     "Machines",
     "NYK FTW ∆",
-    "Obi Stoppin & Poppin",
     "SteveBlakeExpress",
     "TheBoogieDowns"
   ],
@@ -104,8 +103,8 @@
   "current_season_pick_asset_rows": 24,
   "future_pick_asset_rows": 144,
   "past_pick_asset_rows": 120,
-  "active_current_exception_rows": 9,
-  "archived_prior_exception_rows": 104,
+  "active_current_exception_rows": 7,
+  "archived_prior_exception_rows": 107,
   "future_exception_rows": 0,
   "g_league_eligibility_warnings": 0,
   "g_league_validation_warnings": [],
@@ -154,5 +153,5 @@
   "critical_errors": [],
   "warnings": [],
   "manual_review": [],
-  "last_generated_timestamp": "2026-10-20T06:34:30.241379"
+  "last_generated_timestamp": "2026-10-26T20:39:32.024772"
 }
