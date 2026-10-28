@@ -1,8 +1,8 @@
 {
   "teams_found": 12,
   "current_league_year": 2026,
-  "active_players": 200,
-  "contract_rows": 203,
+  "active_players": 199,
+  "contract_rows": 202,
   "players_missing_team": 0,
   "players_missing_salary": 0,
   "players_missing_years": 0,
@@ -64,7 +64,7 @@
     "TheBoogieDowns": 3
   },
   "rfa_team_warnings": [],
-  "ufa_count": 39,
+  "ufa_count": 40,
   "draft_pick_rows_excluded_from_players": 0,
   "draft_pick_rows_excluded_from_rfa": 48,
   "draft_pick_rows_excluded_from_ufa": 48,
@@ -126,12 +126,12 @@
   },
   "rows_imported_by_tab": {
     "teams": 12,
-    "players": 203,
+    "players": 202,
     "rfa_rights": 44,
-    "free_agent_pool": 84,
-    "salary_projection": 203,
+    "free_agent_pool": 85,
+    "salary_projection": 202,
     "pick_assets": 288,
-    "g_league": 30,
+    "g_league": 31,
     "rookie_lottery_assignments": 24,
     "rookie_draft_results": 84,
     "rookie_draft_board": 24
@@ -153,5 +153,5 @@
   "critical_errors": [],
   "warnings": [],
   "manual_review": [],
-  "last_generated_timestamp": "2026-10-28T06:20:57.764944"
+  "last_generated_timestamp": "2026-10-28T06:29:20.857548"
 }

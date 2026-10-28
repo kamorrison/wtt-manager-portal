@@ -1577,17 +1577,6 @@
     "sort_label": "kyrie irving"
   },
   {
-    "asset_id": "PLAYER::machines::labaron_philon_jr",
-    "asset_type": "PLAYER",
-    "team_name": "Machines",
-    "display_name": "Labaron Philon Jr.",
-    "salary_value": 1,
-    "player_name": "Labaron Philon Jr.",
-    "player_id": "",
-    "sort_group": 0,
-    "sort_label": "labaron philon jr."
-  },
-  {
     "asset_id": "PLAYER::machines::466.p.10265",
     "asset_type": "PLAYER",
     "team_name": "Machines",
