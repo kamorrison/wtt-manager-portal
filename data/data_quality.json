@@ -106,10 +106,8 @@
   "active_current_exception_rows": 7,
   "archived_prior_exception_rows": 107,
   "future_exception_rows": 0,
-  "g_league_eligibility_warnings": 1,
-  "g_league_validation_warnings": [
-    "KOMPUTERS 'PUTIN': eligible 5/4"
-  ],
+  "g_league_eligibility_warnings": 0,
+  "g_league_validation_warnings": [],
   "amnesty_reset_warnings": [],
   "disabled_exemption_warnings": [],
   "rookie_board_selected_early_count": 0,
@@ -133,7 +131,7 @@
     "free_agent_pool": 84,
     "salary_projection": 203,
     "pick_assets": 288,
-    "g_league": 31,
+    "g_league": 30,
     "rookie_lottery_assignments": 24,
     "rookie_draft_results": 84,
     "rookie_draft_board": 24
@@ -155,5 +153,5 @@
   "critical_errors": [],
   "warnings": [],
   "manual_review": [],
-  "last_generated_timestamp": "2026-10-28T06:13:51.560822"
+  "last_generated_timestamp": "2026-10-28T06:20:57.764944"
 }

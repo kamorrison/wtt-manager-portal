@@ -2233,7 +2233,7 @@
     "disabled_exception_flag": "N",
     "released_flag": "N",
     "amnesty_flag": "N",
-    "g_league_flag": "Y",
+    "g_league_flag": "N",
     "source_sheet": "Players",
     "source_row": "139",
     "notes": "Commissioner correction",
