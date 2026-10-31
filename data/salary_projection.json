@@ -449,7 +449,7 @@
     "contract_type": "UFA",
     "start_salary": "25",
     "years_remaining_entering_2026": "1",
-    "salary_2026": "25",
+    "salary_2026": "0",
     "salary_2027": "0",
     "salary_2028": "0",
     "salary_2029": "0",
@@ -607,9 +607,9 @@
     "contract_class": "ROOKIE",
     "rookie_contract_designation": "ROOKIE_4",
     "contract_type": "ROOKIE",
-    "start_salary": "10",
+    "start_salary": "18",
     "years_remaining_entering_2026": "1",
-    "salary_2026": "10",
+    "salary_2026": "18",
     "salary_2027": "0",
     "salary_2028": "0",
     "salary_2029": "0",
@@ -729,7 +729,7 @@
     "contract_type": "ROOKIE",
     "start_salary": "10",
     "years_remaining_entering_2026": "1",
-    "salary_2026": "10",
+    "salary_2026": "0",
     "salary_2027": "0",
     "salary_2028": "0",
     "salary_2029": "0",
@@ -747,9 +747,9 @@
     "contract_class": "ROOKIE",
     "rookie_contract_designation": "ROOKIE_4",
     "contract_type": "ROOKIE",
-    "start_salary": "7",
+    "start_salary": "14",
     "years_remaining_entering_2026": "1",
-    "salary_2026": "7",
+    "salary_2026": "14",
     "salary_2027": "0",
     "salary_2028": "0",
     "salary_2029": "0",
@@ -767,9 +767,9 @@
     "contract_class": "ROOKIE",
     "rookie_contract_designation": "ROOKIE_4",
     "contract_type": "ROOKIE",
-    "start_salary": "7",
+    "start_salary": "13",
     "years_remaining_entering_2026": "1",
-    "salary_2026": "7",
+    "salary_2026": "13",
     "salary_2027": "0",
     "salary_2028": "0",
     "salary_2029": "0",
@@ -867,9 +867,9 @@
     "contract_class": "ROOKIE",
     "rookie_contract_designation": "ROOKIE_4",
     "contract_type": "ROOKIE",
-    "start_salary": "7",
+    "start_salary": "12",
     "years_remaining_entering_2026": "1",
-    "salary_2026": "7",
+    "salary_2026": "12",
     "salary_2027": "0",
     "salary_2028": "0",
     "salary_2029": "0",
@@ -967,9 +967,9 @@
     "contract_class": "ROOKIE",
     "rookie_contract_designation": "ROOKIE_4",
     "contract_type": "ROOKIE",
-    "start_salary": "5",
+    "start_salary": "10",
     "years_remaining_entering_2026": "1",
-    "salary_2026": "5",
+    "salary_2026": "10",
     "salary_2027": "0",
     "salary_2028": "0",
     "salary_2029": "0",
@@ -1147,9 +1147,9 @@
     "contract_class": "ROOKIE",
     "rookie_contract_designation": "ROOKIE_4",
     "contract_type": "ROOKIE",
-    "start_salary": "2",
+    "start_salary": "9",
     "years_remaining_entering_2026": "1",
-    "salary_2026": "2",
+    "salary_2026": "0",
     "salary_2027": "0",
     "salary_2028": "0",
     "salary_2029": "0",
@@ -1209,7 +1209,7 @@
     "contract_type": "ROOKIE3",
     "start_salary": "5",
     "years_remaining_entering_2026": "3",
-    "salary_2026": "5",
+    "salary_2026": "0",
     "salary_2027": "5",
     "salary_2028": "5",
     "salary_2029": "0",
@@ -1267,9 +1267,9 @@
     "contract_class": "ROOKIE",
     "rookie_contract_designation": "ROOKIE_4",
     "contract_type": "ROOKIE",
-    "start_salary": "2",
+    "start_salary": "7",
     "years_remaining_entering_2026": "1",
-    "salary_2026": "2",
+    "salary_2026": "7",
     "salary_2027": "0",
     "salary_2028": "0",
     "salary_2029": "0",
@@ -1367,9 +1367,9 @@
     "contract_class": "ROOKIE",
     "rookie_contract_designation": "ROOKIE_4",
     "contract_type": "ROOKIE",
-    "start_salary": "1",
+    "start_salary": "5",
     "years_remaining_entering_2026": "1",
-    "salary_2026": "1",
+    "salary_2026": "5",
     "salary_2027": "0",
     "salary_2028": "0",
     "salary_2029": "0",
@@ -1389,7 +1389,7 @@
     "contract_type": "UFA",
     "start_salary": "5",
     "years_remaining_entering_2026": "1",
-    "salary_2026": "5",
+    "salary_2026": "0",
     "salary_2027": "0",
     "salary_2028": "0",
     "salary_2029": "0",
@@ -1429,7 +1429,7 @@
     "contract_type": "ROOKIE",
     "start_salary": "2",
     "years_remaining_entering_2026": "2",
-    "salary_2026": "2",
+    "salary_2026": "0",
     "salary_2027": "2",
     "salary_2028": "0",
     "salary_2029": "0",
@@ -2009,7 +2009,7 @@
     "contract_type": "RFA_MATCHED",
     "start_salary": "28",
     "years_remaining_entering_2026": "4",
-    "salary_2026": "28",
+    "salary_2026": "0",
     "salary_2027": "30",
     "salary_2028": "33",
     "salary_2029": "36",
@@ -3637,7 +3637,7 @@
     "salary_2031": "0",
     "expires_after_year": "2029",
     "becomes_free_agent_type": "UFA",
-    "notes": "Completed 2026 rookie draft result; reserved until the UFA draft concludes"
+    "notes": "Completed 2026 rookie draft result; salary counts against the soft cap from the draft date"
   },
   {
     "team_id": "466.l.7111.t.12",
@@ -3657,7 +3657,7 @@
     "salary_2031": "0",
     "expires_after_year": "2029",
     "becomes_free_agent_type": "UFA",
-    "notes": "Completed 2026 rookie draft result; reserved until the UFA draft concludes"
+    "notes": "Completed 2026 rookie draft result; salary counts against the soft cap from the draft date"
   },
   {
     "team_id": "466.l.7111.t.10",
@@ -3697,7 +3697,7 @@
     "salary_2031": "0",
     "expires_after_year": "2029",
     "becomes_free_agent_type": "UFA",
-    "notes": "Completed 2026 rookie draft result; reserved until the UFA draft concludes"
+    "notes": "Completed 2026 rookie draft result; salary counts against the soft cap from the draft date"
   },
   {
     "team_id": "466.l.7111.t.7",
@@ -3717,7 +3717,7 @@
     "salary_2031": "0",
     "expires_after_year": "2029",
     "becomes_free_agent_type": "UFA",
-    "notes": "Completed 2026 rookie draft result; reserved until the UFA draft concludes"
+    "notes": "Completed 2026 rookie draft result; salary counts against the soft cap from the draft date"
   },
   {
     "team_id": "466.l.7111.t.5",
@@ -3737,7 +3737,7 @@
     "salary_2031": "0",
     "expires_after_year": "2029",
     "becomes_free_agent_type": "UFA",
-    "notes": "Completed 2026 rookie draft result; reserved until the UFA draft concludes"
+    "notes": "Completed 2026 rookie draft result; salary counts against the soft cap from the draft date"
   },
   {
     "team_id": "466.l.7111.t.2",
@@ -3757,7 +3757,7 @@
     "salary_2031": "0",
     "expires_after_year": "2029",
     "becomes_free_agent_type": "UFA",
-    "notes": "Completed 2026 rookie draft result; reserved until the UFA draft concludes"
+    "notes": "Completed 2026 rookie draft result; salary counts against the soft cap from the draft date"
   },
   {
     "team_id": "466.l.7111.t.8",
@@ -3877,7 +3877,7 @@
     "salary_2031": "0",
     "expires_after_year": "2029",
     "becomes_free_agent_type": "UFA",
-    "notes": "Completed 2026 rookie draft result; reserved until the UFA draft concludes"
+    "notes": "Completed 2026 rookie draft result; salary counts against the soft cap from the draft date"
   },
   {
     "team_id": "466.l.7111.t.3",
@@ -3897,7 +3897,7 @@
     "salary_2031": "0",
     "expires_after_year": "2029",
     "becomes_free_agent_type": "UFA",
-    "notes": "Completed 2026 rookie draft result; reserved until the UFA draft concludes"
+    "notes": "Completed 2026 rookie draft result; salary counts against the soft cap from the draft date"
   },
   {
     "team_id": "466.l.7111.t.9",
@@ -3937,7 +3937,7 @@
     "salary_2031": "0",
     "expires_after_year": "2029",
     "becomes_free_agent_type": "UFA",
-    "notes": "Completed 2026 rookie draft result; reserved until the UFA draft concludes"
+    "notes": "Completed 2026 rookie draft result; salary counts against the soft cap from the draft date"
   },
   {
     "team_id": "466.l.7111.t.6",
@@ -3977,7 +3977,7 @@
     "salary_2031": "0",
     "expires_after_year": "2029",
     "becomes_free_agent_type": "UFA",
-    "notes": "Completed 2026 rookie draft result; reserved until the UFA draft concludes"
+    "notes": "Completed 2026 rookie draft result; salary counts against the soft cap from the draft date"
   },
   {
     "team_id": "466.l.7111.t.8",
@@ -4037,6 +4037,6 @@
     "salary_2031": "0",
     "expires_after_year": "2029",
     "becomes_free_agent_type": "UFA",
-    "notes": "Completed 2026 rookie draft result; reserved until the UFA draft concludes"
+    "notes": "Completed 2026 rookie draft result; salary counts against the soft cap from the draft date"
   }
 ]

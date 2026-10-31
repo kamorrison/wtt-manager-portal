@@ -8,6 +8,7 @@
   "players_missing_years": 0,
   "duplicate_player_names": [],
   "teams_over_soft_cap": [
+    "Crossover king",
     "James42",
     "KOMPUTERS 'PUTIN'",
     "Machines",
@@ -131,7 +132,7 @@
     "free_agent_pool": 85,
     "salary_projection": 202,
     "pick_assets": 288,
-    "g_league": 31,
+    "g_league": 25,
     "rookie_lottery_assignments": 24,
     "rookie_draft_results": 84,
     "rookie_draft_board": 24
@@ -153,5 +154,5 @@
   "critical_errors": [],
   "warnings": [],
   "manual_review": [],
-  "last_generated_timestamp": "2026-10-31T07:20:24.245098"
+  "last_generated_timestamp": "2026-10-31T07:35:29.087401"
 }

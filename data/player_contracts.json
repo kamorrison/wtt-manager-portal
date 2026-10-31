@@ -6168,7 +6168,7 @@
     "rookie_salary_pct": "0.04",
     "rookie_salary_source": "2025+_SOFT_CAP_PCT",
     "current_salary": "10",
-    "salary_used": "0",
+    "salary_used": "10",
     "contract_years_remaining": "4",
     "original_contract_length": "4",
     "contract_start_year": "2026",
@@ -6180,12 +6180,12 @@
     "g_league_flag": "N",
     "source_sheet": "2026 Rookie Draft Results",
     "source_row": "Pick 2",
-    "notes": "Completed 2026 rookie draft result; reserved until the UFA draft concludes",
+    "notes": "Completed 2026 rookie draft result; salary counts against the soft cap from the draft date",
     "rfa_status": "",
     "rfa_cap_status": "",
     "rfa_winning_bidder_team_name": "",
     "acquisition_type": "",
-    "rookie_cap_status": "PENDING_ACTIVATION"
+    "rookie_cap_status": "CAP_ACTIVE"
   },
   {
     "season": "2026",
@@ -6202,7 +6202,7 @@
     "rookie_salary_pct": "0.04",
     "rookie_salary_source": "2025+_SOFT_CAP_PCT",
     "current_salary": "10",
-    "salary_used": "0",
+    "salary_used": "10",
     "contract_years_remaining": "4",
     "original_contract_length": "4",
     "contract_start_year": "2026",
@@ -6214,12 +6214,12 @@
     "g_league_flag": "N",
     "source_sheet": "2026 Rookie Draft Results",
     "source_row": "Pick 3",
-    "notes": "Completed 2026 rookie draft result; reserved until the UFA draft concludes",
+    "notes": "Completed 2026 rookie draft result; salary counts against the soft cap from the draft date",
     "rfa_status": "",
     "rfa_cap_status": "",
     "rfa_winning_bidder_team_name": "",
     "acquisition_type": "",
-    "rookie_cap_status": "PENDING_ACTIVATION"
+    "rookie_cap_status": "CAP_ACTIVE"
   },
   {
     "season": "2026",
@@ -6270,7 +6270,7 @@
     "rookie_salary_pct": "0.03",
     "rookie_salary_source": "2025+_SOFT_CAP_PCT",
     "current_salary": "7",
-    "salary_used": "0",
+    "salary_used": "7",
     "contract_years_remaining": "4",
     "original_contract_length": "4",
     "contract_start_year": "2026",
@@ -6282,12 +6282,12 @@
     "g_league_flag": "Y",
     "source_sheet": "2026 Rookie Draft Results",
     "source_row": "Pick 5",
-    "notes": "Completed 2026 rookie draft result; reserved until the UFA draft concludes",
+    "notes": "Completed 2026 rookie draft result; salary counts against the soft cap from the draft date",
     "rfa_status": "",
     "rfa_cap_status": "",
     "rfa_winning_bidder_team_name": "",
     "acquisition_type": "",
-    "rookie_cap_status": "PENDING_ACTIVATION"
+    "rookie_cap_status": "CAP_ACTIVE"
   },
   {
     "season": "2026",
@@ -6304,7 +6304,7 @@
     "rookie_salary_pct": "0.03",
     "rookie_salary_source": "2025+_SOFT_CAP_PCT",
     "current_salary": "7",
-    "salary_used": "0",
+    "salary_used": "7",
     "contract_years_remaining": "4",
     "original_contract_length": "4",
     "contract_start_year": "2026",
@@ -6316,12 +6316,12 @@
     "g_league_flag": "N",
     "source_sheet": "2026 Rookie Draft Results",
     "source_row": "Pick 6",
-    "notes": "Completed 2026 rookie draft result; reserved until the UFA draft concludes",
+    "notes": "Completed 2026 rookie draft result; salary counts against the soft cap from the draft date",
     "rfa_status": "",
     "rfa_cap_status": "",
     "rfa_winning_bidder_team_name": "",
     "acquisition_type": "",
-    "rookie_cap_status": "PENDING_ACTIVATION"
+    "rookie_cap_status": "CAP_ACTIVE"
   },
   {
     "season": "2026",
@@ -6338,7 +6338,7 @@
     "rookie_salary_pct": "0.02",
     "rookie_salary_source": "2025+_SOFT_CAP_PCT",
     "current_salary": "5",
-    "salary_used": "0",
+    "salary_used": "5",
     "contract_years_remaining": "4",
     "original_contract_length": "4",
     "contract_start_year": "2026",
@@ -6350,12 +6350,12 @@
     "g_league_flag": "Y",
     "source_sheet": "2026 Rookie Draft Results",
     "source_row": "Pick 8",
-    "notes": "Completed 2026 rookie draft result; reserved until the UFA draft concludes",
+    "notes": "Completed 2026 rookie draft result; salary counts against the soft cap from the draft date",
     "rfa_status": "",
     "rfa_cap_status": "",
     "rfa_winning_bidder_team_name": "",
     "acquisition_type": "",
-    "rookie_cap_status": "PENDING_ACTIVATION"
+    "rookie_cap_status": "CAP_ACTIVE"
   },
   {
     "season": "2026",
@@ -6372,7 +6372,7 @@
     "rookie_salary_pct": "0.02",
     "rookie_salary_source": "2025+_SOFT_CAP_PCT",
     "current_salary": "5",
-    "salary_used": "0",
+    "salary_used": "5",
     "contract_years_remaining": "4",
     "original_contract_length": "4",
     "contract_start_year": "2026",
@@ -6384,12 +6384,12 @@
     "g_league_flag": "N",
     "source_sheet": "2026 Rookie Draft Results",
     "source_row": "Pick 9",
-    "notes": "Completed 2026 rookie draft result; reserved until the UFA draft concludes",
+    "notes": "Completed 2026 rookie draft result; salary counts against the soft cap from the draft date",
     "rfa_status": "",
     "rfa_cap_status": "",
     "rfa_winning_bidder_team_name": "",
     "acquisition_type": "",
-    "rookie_cap_status": "PENDING_ACTIVATION"
+    "rookie_cap_status": "CAP_ACTIVE"
   },
   {
     "season": "2026",
@@ -6576,7 +6576,7 @@
     "rookie_salary_pct": "0.005",
     "rookie_salary_source": "2025+_SOFT_CAP_PCT",
     "current_salary": "1",
-    "salary_used": "0",
+    "salary_used": "1",
     "contract_years_remaining": "4",
     "original_contract_length": "4",
     "contract_start_year": "2026",
@@ -6588,12 +6588,12 @@
     "g_league_flag": "N",
     "source_sheet": "2026 Rookie Draft Results",
     "source_row": "Pick 15",
-    "notes": "Completed 2026 rookie draft result; reserved until the UFA draft concludes",
+    "notes": "Completed 2026 rookie draft result; salary counts against the soft cap from the draft date",
     "rfa_status": "",
     "rfa_cap_status": "",
     "rfa_winning_bidder_team_name": "",
     "acquisition_type": "",
-    "rookie_cap_status": "PENDING_ACTIVATION"
+    "rookie_cap_status": "CAP_ACTIVE"
   },
   {
     "season": "2026",
@@ -6610,7 +6610,7 @@
     "rookie_salary_pct": "0.005",
     "rookie_salary_source": "2025+_SOFT_CAP_PCT",
     "current_salary": "1",
-    "salary_used": "0",
+    "salary_used": "1",
     "contract_years_remaining": "4",
     "original_contract_length": "4",
     "contract_start_year": "2026",
@@ -6622,12 +6622,12 @@
     "g_league_flag": "N",
     "source_sheet": "2026 Rookie Draft Results",
     "source_row": "Pick 16",
-    "notes": "Completed 2026 rookie draft result; reserved until the UFA draft concludes",
+    "notes": "Completed 2026 rookie draft result; salary counts against the soft cap from the draft date",
     "rfa_status": "",
     "rfa_cap_status": "",
     "rfa_winning_bidder_team_name": "",
     "acquisition_type": "",
-    "rookie_cap_status": "PENDING_ACTIVATION"
+    "rookie_cap_status": "CAP_ACTIVE"
   },
   {
     "season": "2026",
@@ -6678,7 +6678,7 @@
     "rookie_salary_pct": "0.005",
     "rookie_salary_source": "2025+_SOFT_CAP_PCT",
     "current_salary": "1",
-    "salary_used": "0",
+    "salary_used": "1",
     "contract_years_remaining": "4",
     "original_contract_length": "4",
     "contract_start_year": "2026",
@@ -6690,12 +6690,12 @@
     "g_league_flag": "N",
     "source_sheet": "2026 Rookie Draft Results",
     "source_row": "Pick 18",
-    "notes": "Completed 2026 rookie draft result; reserved until the UFA draft concludes",
+    "notes": "Completed 2026 rookie draft result; salary counts against the soft cap from the draft date",
     "rfa_status": "",
     "rfa_cap_status": "",
     "rfa_winning_bidder_team_name": "",
     "acquisition_type": "",
-    "rookie_cap_status": "PENDING_ACTIVATION"
+    "rookie_cap_status": "CAP_ACTIVE"
   },
   {
     "season": "2026",
@@ -6746,7 +6746,7 @@
     "rookie_salary_pct": "0.005",
     "rookie_salary_source": "2025+_SOFT_CAP_PCT",
     "current_salary": "1",
-    "salary_used": "0",
+    "salary_used": "1",
     "contract_years_remaining": "4",
     "original_contract_length": "4",
     "contract_start_year": "2026",
@@ -6758,12 +6758,12 @@
     "g_league_flag": "N",
     "source_sheet": "2026 Rookie Draft Results",
     "source_row": "Pick 21",
-    "notes": "Completed 2026 rookie draft result; reserved until the UFA draft concludes",
+    "notes": "Completed 2026 rookie draft result; salary counts against the soft cap from the draft date",
     "rfa_status": "",
     "rfa_cap_status": "",
     "rfa_winning_bidder_team_name": "",
     "acquisition_type": "",
-    "rookie_cap_status": "PENDING_ACTIVATION"
+    "rookie_cap_status": "CAP_ACTIVE"
   },
   {
     "season": "2026",
@@ -6848,7 +6848,7 @@
     "rookie_salary_pct": "0.005",
     "rookie_salary_source": "2025+_SOFT_CAP_PCT",
     "current_salary": "1",
-    "salary_used": "0",
+    "salary_used": "1",
     "contract_years_remaining": "4",
     "original_contract_length": "4",
     "contract_start_year": "2026",
@@ -6860,11 +6860,11 @@
     "g_league_flag": "N",
     "source_sheet": "2026 Rookie Draft Results",
     "source_row": "Pick 24",
-    "notes": "Completed 2026 rookie draft result; reserved until the UFA draft concludes",
+    "notes": "Completed 2026 rookie draft result; salary counts against the soft cap from the draft date",
     "rfa_status": "",
     "rfa_cap_status": "",
     "rfa_winning_bidder_team_name": "",
     "acquisition_type": "",
-    "rookie_cap_status": "PENDING_ACTIVATION"
+    "rookie_cap_status": "CAP_ACTIVE"
   }
 ]
