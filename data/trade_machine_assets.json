@@ -3826,17 +3826,6 @@
     "sort_label": "wendell carter jr."
   },
   {
-    "asset_id": "PLAYER::terror_squad::zuby_ejiofor",
-    "asset_type": "PLAYER",
-    "team_name": "Terror Squad",
-    "display_name": "Zuby Ejiofor",
-    "salary_value": 1,
-    "player_name": "Zuby Ejiofor",
-    "player_id": "",
-    "sort_group": 0,
-    "sort_label": "zuby ejiofor"
-  },
-  {
     "asset_id": "PICK::2026::1::466.l.7111.t.11",
     "asset_type": "ROOKIE_PICK",
     "team_name": "Terror Squad",
